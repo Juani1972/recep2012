@@ -1,0 +1,3039 @@
+{
+  "version": 4,
+  "idioma": "es-ES",
+  "raciones_base": 2,
+  "aviso": "Alérgenos y dietas orientativos, calculados a partir de los ingredientes. Revisa siempre el etiquetado de cada producto.",
+  "recetas": [
+    {
+      "id": "garbanzos-con-espinacas",
+      "nombre": "Garbanzos con espinacas",
+      "tipo": "comida",
+      "minutos": 25,
+      "ingredientes": ["Garbanzos cocidos: 400 g", "Espinacas frescas: 200 g", "Ajo: 2 dientes", "Pan: 1 rebanada", "Pimentón dulce", "Comino", "Aceite de oliva"],
+      "pasos": "Fríe el ajo y el pan, tritúralos con pimentón y comino. Saltea las espinacas, añade los garbanzos y el majado y cuece 10 min.",
+      "alergenos": ["gluten"],
+      "dieta": ["vegetariana", "vegana", "sin_cerdo", "sin_lactosa"]
+    },
+    {
+      "id": "lentejas-estofadas-con-verduras",
+      "nombre": "Lentejas estofadas con verduras",
+      "tipo": "comida",
+      "minutos": 35,
+      "ingredientes": ["Lentejas pardinas: 200 g", "Zanahoria: 2 ud", "Cebolla: 1 ud", "Pimiento verde: 1 ud", "Tomate: 1 ud", "Ajo: 2 dientes", "Laurel", "Pimentón dulce", "Aceite de oliva"],
+      "pasos": "Sofríe la verdura picada, añade pimentón, lentejas, laurel y agua que las cubra. Cuece 30 min a fuego suave.",
+      "alergenos": [],
+      "dieta": ["vegetariana", "vegana", "sin_cerdo", "sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "arroz-con-pollo-y-verduras",
+      "nombre": "Arroz con pollo y verduras",
+      "tipo": "comida",
+      "minutos": 40,
+      "ingredientes": ["Arroz: 160 g", "Muslos de pollo: 400 g", "Pimiento rojo: 1 ud", "Judías verdes: 150 g", "Tomate triturado: 150 g", "Ajo: 2 dientes", "Caldo de pollo: 500 ml", "Pimentón dulce", "Aceite de oliva"],
+      "pasos": "Dora el pollo, sofríe pimiento, judías, ajo y tomate. Añade arroz, pimentón y caldo caliente y cuece 18 min.",
+      "alergenos": ["apio"],
+      "dieta": ["sin_cerdo", "sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "paella-de-marisco-sencilla",
+      "nombre": "Paella de marisco sencilla",
+      "tipo": "comida",
+      "minutos": 40,
+      "ingredientes": ["Arroz: 160 g", "Gambas: 200 g", "Mejillones: 300 g", "Calamar: 200 g", "Pimiento rojo: 1 ud", "Tomate triturado: 100 g", "Caldo de pescado: 600 ml", "Azafrán", "Ajo: 2 dientes", "Aceite de oliva"],
+      "pasos": "Saltea calamar y pimiento, añade ajo y tomate. Incorpora arroz, azafrán y caldo; a los 10 min pon gambas y mejillones y termina 8 min más.",
+      "alergenos": ["crustaceos", "pescado", "apio", "moluscos"],
+      "dieta": ["sin_cerdo", "sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "espaguetis-con-tomate-y-albahaca",
+      "nombre": "Espaguetis con tomate y albahaca",
+      "tipo": "comida",
+      "minutos": 20,
+      "ingredientes": ["Espaguetis: 180 g", "Tomate: 4 ud", "Ajo: 2 dientes", "Albahaca fresca: 1 manojo", "Queso parmesano: 40 g", "Aceite de oliva"],
+      "pasos": "Cuece la pasta. Mientras, rehoga ajo y tomate picado 10 min. Mezcla con la pasta, albahaca y parmesano.",
+      "alergenos": ["gluten", "lacteos"],
+      "dieta": ["vegetariana", "sin_cerdo"]
+    },
+    {
+      "id": "macarrones-con-atun-y-tomate",
+      "nombre": "Macarrones con atún y tomate",
+      "tipo": "comida",
+      "minutos": 20,
+      "ingredientes": ["Macarrones: 180 g", "Atún en lata: 2 latas", "Tomate triturado: 300 g", "Cebolla: 1 ud", "Orégano", "Aceite de oliva"],
+      "pasos": "Pocha la cebolla, añade tomate y orégano 10 min. Mezcla con los macarrones cocidos y el atún escurrido.",
+      "alergenos": ["gluten", "pescado"],
+      "dieta": ["sin_cerdo", "sin_lactosa"]
+    },
+    {
+      "id": "pollo-al-limon-con-patatas-al-horno",
+      "nombre": "Pollo al limón con patatas al horno",
+      "tipo": "comida",
+      "minutos": 50,
+      "ingredientes": ["Muslos de pollo: 500 g", "Patatas: 3 ud", "Limón: 1 ud", "Ajo: 3 dientes", "Romero", "Aceite de oliva"],
+      "pasos": "Pon patatas en rodajas, pollo, ajos, zumo de limón, romero y aceite en una bandeja. Hornea 45 min a 200 °C.",
+      "alergenos": [],
+      "dieta": ["sin_cerdo", "sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "merluza-en-salsa-verde",
+      "nombre": "Merluza en salsa verde",
+      "tipo": "comida",
+      "minutos": 25,
+      "ingredientes": ["Merluza: 400 g", "Almejas: 200 g", "Ajo: 3 dientes", "Perejil: 1 manojo", "Harina: 1 cda", "Vino blanco: 100 ml", "Aceite de oliva"],
+      "pasos": "Dora el ajo, añade harina, vino y un poco de agua. Pon la merluza y las almejas, cuece 6-8 min moviendo la cazuela y termina con perejil.",
+      "alergenos": ["gluten", "pescado", "sulfitos", "moluscos"],
+      "dieta": ["sin_cerdo", "sin_lactosa"]
+    },
+    {
+      "id": "salmon-al-horno-con-verduras",
+      "nombre": "Salmón al horno con verduras",
+      "tipo": "ambas",
+      "minutos": 30,
+      "ingredientes": ["Salmón: 2 lomos", "Calabacín: 1 ud", "Pimiento rojo: 1 ud", "Cebolla: 1 ud", "Limón: 1 ud", "Aceite de oliva"],
+      "pasos": "Hornea la verdura en tiras 15 min a 200 °C, pon el salmón encima con limón y hornea 12 min más.",
+      "alergenos": ["pescado"],
+      "dieta": ["sin_cerdo", "sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "pisto-con-huevo",
+      "nombre": "Pisto con huevo",
+      "tipo": "ambas",
+      "minutos": 40,
+      "ingredientes": ["Calabacín: 1 ud", "Berenjena: 1 ud", "Pimiento rojo: 1 ud", "Pimiento verde: 1 ud", "Cebolla: 1 ud", "Tomate triturado: 400 g", "Huevos: 2 ud", "Aceite de oliva"],
+      "pasos": "Pocha la verdura en dados por orden de dureza, añade tomate y cuece 20 min. Sirve con un huevo a la plancha.",
+      "alergenos": ["huevo"],
+      "dieta": ["vegetariana", "sin_cerdo", "sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "alubias-blancas-con-verduras",
+      "nombre": "Alubias blancas con verduras",
+      "tipo": "comida",
+      "minutos": 25,
+      "ingredientes": ["Alubias blancas cocidas: 400 g", "Zanahoria: 1 ud", "Puerro: 1 ud", "Pimiento rojo: 1 ud", "Ajo: 2 dientes", "Caldo de verduras: 400 ml", "Pimentón dulce", "Aceite de oliva"],
+      "pasos": "Rehoga la verdura picada, añade pimentón, las alubias lavadas y el caldo. Cuece 15 min.",
+      "alergenos": ["apio"],
+      "dieta": ["vegetariana", "vegana", "sin_cerdo", "sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "cuscus-con-verduras-y-garbanzos",
+      "nombre": "Cuscús con verduras y garbanzos",
+      "tipo": "ambas",
+      "minutos": 25,
+      "ingredientes": ["Cuscús: 150 g", "Garbanzos cocidos: 200 g", "Calabacín: 1 ud", "Zanahoria: 1 ud", "Cebolla: 1 ud", "Caldo de verduras: 200 ml", "Comino", "Aceite de oliva"],
+      "pasos": "Hidrata el cuscús con el caldo caliente 5 min. Saltea la verdura con comino y los garbanzos y mezcla.",
+      "alergenos": ["gluten", "apio"],
+      "dieta": ["vegetariana", "vegana", "sin_cerdo", "sin_lactosa"]
+    },
+    {
+      "id": "pollo-al-ajillo",
+      "nombre": "Pollo al ajillo",
+      "tipo": "comida",
+      "minutos": 35,
+      "ingredientes": ["Contramuslos de pollo: 500 g", "Ajo: 6 dientes", "Vino blanco: 100 ml", "Laurel", "Perejil: 1 manojo", "Aceite de oliva"],
+      "pasos": "Dora el pollo troceado, añade los ajos con piel y el laurel, moja con vino y cuece tapado 20 min. Termina con perejil.",
+      "alergenos": ["sulfitos"],
+      "dieta": ["sin_cerdo", "sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "bacalao-con-tomate",
+      "nombre": "Bacalao con tomate",
+      "tipo": "comida",
+      "minutos": 35,
+      "ingredientes": ["Bacalao desalado: 400 g", "Tomate triturado: 400 g", "Cebolla: 1 ud", "Pimiento rojo: 1 ud", "Ajo: 2 dientes", "Aceite de oliva"],
+      "pasos": "Haz un sofrito de cebolla, pimiento y ajo, añade el tomate 15 min y cuece el bacalao en la salsa 8 min.",
+      "alergenos": ["pescado"],
+      "dieta": ["sin_cerdo", "sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "arroz-negro",
+      "nombre": "Arroz negro",
+      "tipo": "comida",
+      "minutos": 40,
+      "ingredientes": ["Arroz: 160 g", "Calamar: 300 g", "Tinta de calamar: 2 sobres", "Cebolla: 1 ud", "Ajo: 2 dientes", "Tomate triturado: 100 g", "Caldo de pescado: 600 ml", "Aceite de oliva"],
+      "pasos": "Sofríe cebolla, ajo y calamar, añade tomate, arroz, tinta y caldo. Cuece 18 min y deja reposar.",
+      "alergenos": ["pescado", "apio", "moluscos"],
+      "dieta": ["sin_cerdo", "sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "lasana-de-verduras",
+      "nombre": "Lasaña de verduras",
+      "tipo": "comida",
+      "minutos": 60,
+      "ingredientes": ["Placas de lasaña: 8 ud", "Calabacín: 1 ud", "Berenjena: 1 ud", "Espinacas frescas: 150 g", "Tomate triturado: 400 g", "Queso mozzarella: 125 g", "Cebolla: 1 ud", "Aceite de oliva"],
+      "pasos": "Haz un relleno con la verdura salteada y el tomate. Monta capas con las placas, cubre con mozzarella y hornea 30 min a 190 °C.",
+      "alergenos": ["gluten", "lacteos"],
+      "dieta": ["vegetariana", "sin_cerdo"]
+    },
+    {
+      "id": "albondigas-de-pavo-en-salsa-de-tomate",
+      "nombre": "Albóndigas de pavo en salsa de tomate",
+      "tipo": "comida",
+      "minutos": 40,
+      "ingredientes": ["Carne picada de pavo: 400 g", "Huevos: 1 ud", "Pan rallado: 40 g", "Ajo: 1 diente", "Perejil: 1 manojo", "Tomate triturado: 400 g", "Cebolla: 1 ud", "Aceite de oliva"],
+      "pasos": "Mezcla carne, huevo, pan rallado, ajo y perejil y forma bolas. Dóralas y cuécelas 15 min en el tomate con cebolla pochada.",
+      "alergenos": ["gluten", "huevo"],
+      "dieta": ["sin_cerdo", "sin_lactosa"]
+    },
+    {
+      "id": "fideua",
+      "nombre": "Fideuá",
+      "tipo": "comida",
+      "minutos": 35,
+      "ingredientes": ["Fideos gruesos: 180 g", "Gambas: 200 g", "Calamar: 200 g", "Tomate triturado: 100 g", "Ajo: 2 dientes", "Caldo de pescado: 500 ml", "Pimentón dulce", "Aceite de oliva"],
+      "pasos": "Tuesta los fideos en aceite, saltea calamar, ajo y tomate, añade pimentón y caldo. A los 8 min pon las gambas y termina 5 min.",
+      "alergenos": ["gluten", "crustaceos", "pescado", "apio", "moluscos"],
+      "dieta": ["sin_cerdo", "sin_lactosa"]
+    },
+    {
+      "id": "garbanzos-con-bacalao",
+      "nombre": "Garbanzos con bacalao",
+      "tipo": "comida",
+      "minutos": 30,
+      "ingredientes": ["Garbanzos cocidos: 400 g", "Bacalao desalado: 250 g", "Espinacas frescas: 150 g", "Cebolla: 1 ud", "Ajo: 2 dientes", "Pimentón dulce", "Aceite de oliva"],
+      "pasos": "Sofríe cebolla y ajo, añade pimentón, garbanzos y un vaso de agua. Incorpora bacalao desmigado y espinacas y cuece 10 min.",
+      "alergenos": ["pescado"],
+      "dieta": ["sin_cerdo", "sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "conejo-al-ajillo-con-romero",
+      "nombre": "Conejo al ajillo con romero",
+      "tipo": "comida",
+      "minutos": 45,
+      "ingredientes": ["Conejo troceado: 700 g", "Ajo: 6 dientes", "Romero", "Tomillo", "Vino blanco: 100 ml", "Aceite de oliva"],
+      "pasos": "Dora el conejo, añade ajos, hierbas y vino. Tapa y cuece 30 min a fuego suave.",
+      "alergenos": ["sulfitos"],
+      "dieta": ["sin_cerdo", "sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "pasta-con-brocoli-y-anchoas",
+      "nombre": "Pasta con brócoli y anchoas",
+      "tipo": "comida",
+      "minutos": 20,
+      "ingredientes": ["Pasta corta: 180 g", "Brócoli: 1 ud", "Anchoas: 1 lata", "Ajo: 2 dientes", "Aceite de oliva"],
+      "pasos": "Cuece pasta y ramilletes de brócoli juntos. Deshaz las anchoas con ajo en aceite y mezcla todo.",
+      "alergenos": ["gluten", "pescado"],
+      "dieta": ["sin_cerdo", "sin_lactosa"]
+    },
+    {
+      "id": "lentejas-con-arroz",
+      "nombre": "Lentejas con arroz",
+      "tipo": "comida",
+      "minutos": 35,
+      "ingredientes": ["Lentejas pardinas: 150 g", "Arroz: 80 g", "Cebolla: 1 ud", "Pimiento verde: 1 ud", "Tomate: 1 ud", "Ajo: 2 dientes", "Comino", "Aceite de oliva"],
+      "pasos": "Sofríe la verdura, añade lentejas, comino y agua. A los 15 min agrega el arroz y cuece 15 min más.",
+      "alergenos": [],
+      "dieta": ["vegetariana", "vegana", "sin_cerdo", "sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "pollo-a-la-cazadora",
+      "nombre": "Pollo a la cazadora",
+      "tipo": "comida",
+      "minutos": 45,
+      "ingredientes": ["Muslos de pollo: 500 g", "Champiñones: 200 g", "Cebolla: 1 ud", "Zanahoria: 1 ud", "Tomate triturado: 200 g", "Vino blanco: 100 ml", "Tomillo", "Aceite de oliva"],
+      "pasos": "Dora el pollo, sofríe cebolla, zanahoria y champiñones, añade vino, tomate y tomillo. Cuece tapado 30 min.",
+      "alergenos": ["sulfitos"],
+      "dieta": ["sin_cerdo", "sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "dorada-al-horno-con-patatas",
+      "nombre": "Dorada al horno con patatas",
+      "tipo": "ambas",
+      "minutos": 40,
+      "ingredientes": ["Dorada: 2 ud", "Patatas: 2 ud", "Cebolla: 1 ud", "Limón: 1 ud", "Ajo: 2 dientes", "Vino blanco: 50 ml", "Aceite de oliva"],
+      "pasos": "Hornea patata y cebolla en rodajas 20 min a 200 °C. Pon encima las doradas con ajo, limón y vino y hornea 18 min.",
+      "alergenos": ["pescado", "sulfitos"],
+      "dieta": ["sin_cerdo", "sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "marmitako-de-atun",
+      "nombre": "Marmitako de atún",
+      "tipo": "comida",
+      "minutos": 40,
+      "ingredientes": ["Atún fresco: 400 g", "Patatas: 3 ud", "Pimiento verde: 1 ud", "Cebolla: 1 ud", "Tomate triturado: 150 g", "Caldo de pescado: 700 ml", "Pimentón dulce", "Aceite de oliva"],
+      "pasos": "Sofríe cebolla y pimiento, añade tomate, pimentón, patatas cascadas y caldo. Cuece 20 min, apaga y añade el atún en dados.",
+      "alergenos": ["pescado", "apio"],
+      "dieta": ["sin_cerdo", "sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "arroz-al-horno-con-garbanzos",
+      "nombre": "Arroz al horno con garbanzos",
+      "tipo": "comida",
+      "minutos": 50,
+      "ingredientes": ["Arroz: 160 g", "Garbanzos cocidos: 200 g", "Patatas: 1 ud", "Tomate: 2 ud", "Ajo: 1 cabeza", "Caldo de verduras: 450 ml", "Pimentón dulce", "Azafrán", "Aceite de oliva"],
+      "pasos": "Dora patata y tomate en rodajas, añade arroz, pimentón y garbanzos. Pásalo a una fuente con el caldo y la cabeza de ajo y hornea 20 min a 220 °C.",
+      "alergenos": ["apio"],
+      "dieta": ["vegetariana", "vegana", "sin_cerdo", "sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "musaca-ligera",
+      "nombre": "Musaca ligera",
+      "tipo": "comida",
+      "minutos": 60,
+      "ingredientes": ["Berenjena: 2 ud", "Carne picada de ternera: 300 g", "Cebolla: 1 ud", "Tomate triturado: 300 g", "Yogur griego: 2 ud", "Huevos: 1 ud", "Queso parmesano: 30 g", "Canela", "Aceite de oliva"],
+      "pasos": "Asa la berenjena en láminas. Haz la carne con cebolla, tomate y canela. Monta capas, cubre con yogur, huevo y queso y hornea 25 min.",
+      "alergenos": ["huevo", "lacteos"],
+      "dieta": ["sin_cerdo", "sin_gluten"]
+    },
+    {
+      "id": "pollo-con-pimientos-asados",
+      "nombre": "Pollo con pimientos asados",
+      "tipo": "comida",
+      "minutos": 35,
+      "ingredientes": ["Pechuga de pollo: 400 g", "Pimiento rojo: 2 ud", "Cebolla: 1 ud", "Ajo: 2 dientes", "Aceite de oliva"],
+      "pasos": "Asa o saltea los pimientos en tiras con la cebolla hasta que estén tiernos. Añade el pollo en tiras y el ajo y cocina 10 min.",
+      "alergenos": [],
+      "dieta": ["sin_cerdo", "sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "sepia-con-patatas-y-guisantes",
+      "nombre": "Sepia con patatas y guisantes",
+      "tipo": "comida",
+      "minutos": 45,
+      "ingredientes": ["Sepia: 400 g", "Patatas: 3 ud", "Guisantes: 150 g", "Cebolla: 1 ud", "Tomate triturado: 150 g", "Ajo: 2 dientes", "Caldo de pescado: 500 ml", "Aceite de oliva"],
+      "pasos": "Sofríe cebolla, ajo y sepia, añade tomate, patatas y caldo. Cuece 25 min y añade los guisantes los últimos 5.",
+      "alergenos": ["pescado", "apio", "moluscos"],
+      "dieta": ["sin_cerdo", "sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "ensalada-de-lentejas",
+      "nombre": "Ensalada de lentejas",
+      "tipo": "ambas",
+      "minutos": 15,
+      "ingredientes": ["Lentejas cocidas: 400 g", "Tomate: 2 ud", "Pimiento rojo: 1 ud", "Cebolla morada: 1 ud", "Pepino: 1 ud", "Queso feta: 80 g", "Vinagre de vino", "Aceite de oliva"],
+      "pasos": "Lava las lentejas y mézclalas con la verdura picada fina y el feta. Aliña con aceite y vinagre.",
+      "alergenos": ["lacteos", "sulfitos"],
+      "dieta": ["vegetariana", "sin_cerdo", "sin_gluten"]
+    },
+    {
+      "id": "ensalada-de-garbanzos-con-atun",
+      "nombre": "Ensalada de garbanzos con atún",
+      "tipo": "ambas",
+      "minutos": 10,
+      "ingredientes": ["Garbanzos cocidos: 400 g", "Atún en lata: 2 latas", "Tomate: 2 ud", "Cebolla morada: 1 ud", "Pimiento verde: 1 ud", "Aceitunas negras: 50 g", "Vinagre de vino", "Aceite de oliva"],
+      "pasos": "Mezcla los garbanzos lavados con la verdura picada, el atún y las aceitunas. Aliña al gusto.",
+      "alergenos": ["pescado", "sulfitos"],
+      "dieta": ["sin_cerdo", "sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "ensalada-de-pasta-mediterranea",
+      "nombre": "Ensalada de pasta mediterránea",
+      "tipo": "comida",
+      "minutos": 20,
+      "ingredientes": ["Pasta corta: 160 g", "Tomates cherry: 200 g", "Queso mozzarella: 125 g", "Aceitunas negras: 50 g", "Albahaca fresca: 1 manojo", "Aceite de oliva"],
+      "pasos": "Cuece la pasta y enfríala. Mezcla con cherrys partidos, mozzarella, aceitunas, albahaca y aceite.",
+      "alergenos": ["gluten", "lacteos"],
+      "dieta": ["vegetariana", "sin_cerdo"]
+    },
+    {
+      "id": "salmorejo-con-huevo-y-jamon",
+      "nombre": "Salmorejo con huevo y jamón",
+      "tipo": "ambas",
+      "minutos": 15,
+      "ingredientes": ["Tomate: 6 ud", "Pan: 100 g", "Ajo: 1 diente", "Huevos: 2 ud", "Jamón serrano: 50 g", "Vinagre de vino", "Aceite de oliva"],
+      "pasos": "Tritura tomate, pan, ajo, vinagre y aceite hasta que quede fino. Sirve frío con huevo duro y jamón picados.",
+      "alergenos": ["gluten", "huevo", "sulfitos"],
+      "dieta": ["sin_lactosa"]
+    },
+    {
+      "id": "gazpacho-andaluz",
+      "nombre": "Gazpacho andaluz",
+      "tipo": "ambas",
+      "minutos": 15,
+      "ingredientes": ["Tomate: 6 ud", "Pepino: 1 ud", "Pimiento verde: 1 ud", "Ajo: 1 diente", "Pan: 50 g", "Vinagre de vino", "Aceite de oliva"],
+      "pasos": "Tritura todo con un poco de agua fría, cuela si quieres y enfría en la nevera.",
+      "alergenos": ["gluten", "sulfitos"],
+      "dieta": ["vegetariana", "vegana", "sin_cerdo", "sin_lactosa"]
+    },
+    {
+      "id": "berenjenas-rellenas-de-carne",
+      "nombre": "Berenjenas rellenas de carne",
+      "tipo": "comida",
+      "minutos": 50,
+      "ingredientes": ["Berenjena: 2 ud", "Carne picada de ternera: 250 g", "Cebolla: 1 ud", "Tomate triturado: 200 g", "Queso rallado: 50 g", "Aceite de oliva"],
+      "pasos": "Asa las berenjenas partidas 20 min. Vacíalas, mezcla la pulpa con la carne, cebolla y tomate sofritos, rellena, cubre con queso y gratina.",
+      "alergenos": ["lacteos"],
+      "dieta": ["sin_cerdo", "sin_gluten"]
+    },
+    {
+      "id": "pimientos-rellenos-de-arroz-y-pavo",
+      "nombre": "Pimientos rellenos de arroz y pavo",
+      "tipo": "comida",
+      "minutos": 60,
+      "ingredientes": ["Pimiento rojo: 2 ud", "Arroz: 100 g", "Carne picada de pavo: 200 g", "Cebolla: 1 ud", "Tomate triturado: 200 g", "Aceite de oliva"],
+      "pasos": "Sofríe cebolla, carne y tomate y mezcla con el arroz crudo. Rellena los pimientos, tapa y hornea 45 min a 180 °C.",
+      "alergenos": [],
+      "dieta": ["sin_cerdo", "sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "mejillones-a-la-marinera",
+      "nombre": "Mejillones a la marinera",
+      "tipo": "ambas",
+      "minutos": 25,
+      "ingredientes": ["Mejillones: 1000 g", "Cebolla: 1 ud", "Ajo: 2 dientes", "Tomate triturado: 200 g", "Vino blanco: 100 ml", "Pimentón dulce", "Aceite de oliva"],
+      "pasos": "Abre los mejillones al vapor con el vino. Haz un sofrito de cebolla, ajo, pimentón y tomate y mézclalo con los mejillones y algo de su caldo.",
+      "alergenos": ["sulfitos", "moluscos"],
+      "dieta": ["sin_cerdo", "sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "sardinas-al-horno-con-pimientos",
+      "nombre": "Sardinas al horno con pimientos",
+      "tipo": "comida",
+      "minutos": 30,
+      "ingredientes": ["Sardinas frescas: 500 g", "Pimiento rojo: 1 ud", "Pimiento verde: 1 ud", "Cebolla: 1 ud", "Ajo: 2 dientes", "Perejil: 1 manojo", "Aceite de oliva"],
+      "pasos": "Hornea la verdura en tiras 15 min a 200 °C. Pon las sardinas encima con ajo y perejil y hornea 10 min.",
+      "alergenos": ["pescado"],
+      "dieta": ["sin_cerdo", "sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "pollo-en-salsa-de-almendras",
+      "nombre": "Pollo en salsa de almendras",
+      "tipo": "comida",
+      "minutos": 30,
+      "ingredientes": ["Pechuga de pollo: 400 g", "Almendras: 50 g", "Cebolla: 1 ud", "Ajo: 2 dientes", "Vino blanco: 100 ml", "Caldo de pollo: 200 ml", "Aceite de oliva"],
+      "pasos": "Dora el pollo en dados y retíralo. Fríe almendras, ajo y cebolla, tritúralos con vino y caldo y cuece el pollo en la salsa 10 min.",
+      "alergenos": ["frutos_cascara", "apio", "sulfitos"],
+      "dieta": ["sin_cerdo", "sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "potaje-de-garbanzos-y-acelgas",
+      "nombre": "Potaje de garbanzos y acelgas",
+      "tipo": "comida",
+      "minutos": 30,
+      "ingredientes": ["Garbanzos cocidos: 400 g", "Acelgas: 300 g", "Patatas: 1 ud", "Cebolla: 1 ud", "Ajo: 2 dientes", "Pimentón dulce", "Caldo de verduras: 500 ml", "Aceite de oliva"],
+      "pasos": "Sofríe cebolla y ajo con pimentón, añade patata cascada, acelgas y caldo. Cuece 15 min y añade los garbanzos 5 min.",
+      "alergenos": ["apio"],
+      "dieta": ["vegetariana", "vegana", "sin_cerdo", "sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "arroz-con-gambas-y-verduras",
+      "nombre": "Arroz con gambas y verduras",
+      "tipo": "comida",
+      "minutos": 35,
+      "ingredientes": ["Arroz: 160 g", "Gambas: 200 g", "Calabacín: 1 ud", "Pimiento rojo: 1 ud", "Guisantes: 100 g", "Caldo de pescado: 500 ml", "Ajo: 2 dientes", "Aceite de oliva"],
+      "pasos": "Saltea las gambas y resérvalas. Sofríe verdura y ajo, añade arroz y caldo, cuece 18 min y devuelve las gambas al final.",
+      "alergenos": ["crustaceos", "pescado", "apio"],
+      "dieta": ["sin_cerdo", "sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "ternera-guisada-con-verduras",
+      "nombre": "Ternera guisada con verduras",
+      "tipo": "comida",
+      "minutos": 90,
+      "ingredientes": ["Ternera para guisar: 500 g", "Zanahoria: 2 ud", "Patatas: 2 ud", "Cebolla: 1 ud", "Tomate triturado: 150 g", "Vino tinto: 150 ml", "Laurel", "Aceite de oliva"],
+      "pasos": "Dora la carne, sofríe cebolla y zanahoria, añade tomate, vino, laurel y agua. Cuece 1 h y añade las patatas los últimos 25 min.",
+      "alergenos": ["sulfitos"],
+      "dieta": ["sin_cerdo", "sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "espaguetis-integrales-con-calabacin-y-gambas",
+      "nombre": "Espaguetis integrales con calabacín y gambas",
+      "tipo": "comida",
+      "minutos": 20,
+      "ingredientes": ["Espaguetis integrales: 180 g", "Calabacín: 1 ud", "Gambas: 200 g", "Ajo: 2 dientes", "Limón: 1 ud", "Perejil: 1 manojo", "Aceite de oliva"],
+      "pasos": "Saltea ajo, calabacín en dados y gambas. Mezcla con la pasta cocida, ralladura y zumo de limón y perejil.",
+      "alergenos": ["gluten", "crustaceos"],
+      "dieta": ["sin_cerdo", "sin_lactosa"]
+    },
+    {
+      "id": "pollo-asado-con-calabaza-y-zanahoria",
+      "nombre": "Pollo asado con calabaza y zanahoria",
+      "tipo": "comida",
+      "minutos": 50,
+      "ingredientes": ["Muslos de pollo: 500 g", "Calabaza: 300 g", "Cebolla morada: 1 ud", "Zanahoria: 2 ud", "Tomillo", "Romero", "Aceite de oliva"],
+      "pasos": "Pon todo troceado en una bandeja con hierbas y aceite. Hornea 45 min a 200 °C.",
+      "alergenos": [],
+      "dieta": ["sin_cerdo", "sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "lubina-en-papillote",
+      "nombre": "Lubina en papillote",
+      "tipo": "ambas",
+      "minutos": 25,
+      "ingredientes": ["Lubina: 2 lomos", "Calabacín: 1 ud", "Zanahoria: 1 ud", "Puerro: 1 ud", "Limón: 1 ud", "Aceite de oliva"],
+      "pasos": "Pon la verdura en juliana y la lubina sobre papel de horno con limón y aceite. Cierra el paquete y hornea 15 min a 200 °C.",
+      "alergenos": ["pescado"],
+      "dieta": ["sin_cerdo", "sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "alubias-rojas-con-verduras",
+      "nombre": "Alubias rojas con verduras",
+      "tipo": "comida",
+      "minutos": 25,
+      "ingredientes": ["Alubias rojas cocidas: 400 g", "Cebolla: 1 ud", "Pimiento verde: 1 ud", "Zanahoria: 1 ud", "Tomate triturado: 150 g", "Comino", "Pimentón dulce", "Aceite de oliva"],
+      "pasos": "Sofríe la verdura, añade especias, tomate y las alubias lavadas con un poco de agua. Cuece 15 min.",
+      "alergenos": [],
+      "dieta": ["vegetariana", "vegana", "sin_cerdo", "sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "quinoa-con-verduras-asadas-y-feta",
+      "nombre": "Quinoa con verduras asadas y feta",
+      "tipo": "ambas",
+      "minutos": 35,
+      "ingredientes": ["Quinoa: 150 g", "Berenjena: 1 ud", "Pimiento rojo: 1 ud", "Calabacín: 1 ud", "Cebolla morada: 1 ud", "Queso feta: 60 g", "Aceite de oliva"],
+      "pasos": "Asa la verdura en dados 25 min a 200 °C. Cuece la quinoa 12 min y mezcla todo con feta desmigado.",
+      "alergenos": ["lacteos"],
+      "dieta": ["vegetariana", "sin_cerdo", "sin_gluten"]
+    },
+    {
+      "id": "pulpo-a-la-gallega-con-patatas",
+      "nombre": "Pulpo a la gallega con patatas",
+      "tipo": "comida",
+      "minutos": 25,
+      "ingredientes": ["Pulpo cocido: 400 g", "Patatas: 3 ud", "Pimentón dulce", "Aceite de oliva"],
+      "pasos": "Cuece las patatas en rodajas. Calienta el pulpo en esa agua 1 min, córtalo y sírvelo sobre las patatas con pimentón y aceite.",
+      "alergenos": ["moluscos"],
+      "dieta": ["sin_cerdo", "sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "tortilla-de-patatas",
+      "nombre": "Tortilla de patatas",
+      "tipo": "ambas",
+      "minutos": 35,
+      "ingredientes": ["Patatas: 3 ud", "Cebolla: 1 ud", "Huevos: 5 ud", "Aceite de oliva"],
+      "pasos": "Pocha patata y cebolla en láminas a fuego suave 20 min. Escurre, mezcla con el huevo batido y cuaja por los dos lados.",
+      "alergenos": ["huevo"],
+      "dieta": ["vegetariana", "sin_cerdo", "sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "tortilla-de-calabacin",
+      "nombre": "Tortilla de calabacín",
+      "tipo": "cena",
+      "minutos": 20,
+      "ingredientes": ["Calabacín: 1 ud", "Cebolla: 1 ud", "Huevos: 4 ud", "Aceite de oliva"],
+      "pasos": "Pocha calabacín y cebolla en dados 10 min, mezcla con el huevo batido y cuaja la tortilla.",
+      "alergenos": ["huevo"],
+      "dieta": ["vegetariana", "sin_cerdo", "sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "revuelto-de-trigueros-y-gambas",
+      "nombre": "Revuelto de trigueros y gambas",
+      "tipo": "cena",
+      "minutos": 15,
+      "ingredientes": ["Espárragos trigueros: 1 manojo", "Gambas: 150 g", "Huevos: 4 ud", "Ajo: 1 diente", "Aceite de oliva"],
+      "pasos": "Saltea ajo, trigueros troceados y gambas. Añade el huevo batido y remueve a fuego suave hasta que cuaje.",
+      "alergenos": ["crustaceos", "huevo"],
+      "dieta": ["sin_cerdo", "sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "revuelto-de-setas",
+      "nombre": "Revuelto de setas",
+      "tipo": "cena",
+      "minutos": 15,
+      "ingredientes": ["Setas variadas: 300 g", "Huevos: 4 ud", "Ajo: 2 dientes", "Perejil: 1 manojo", "Aceite de oliva"],
+      "pasos": "Saltea las setas con ajo a fuego vivo, baja el fuego, añade el huevo y remueve hasta que esté jugoso.",
+      "alergenos": ["huevo"],
+      "dieta": ["vegetariana", "sin_cerdo", "sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "ensalada-griega",
+      "nombre": "Ensalada griega",
+      "tipo": "cena",
+      "minutos": 10,
+      "ingredientes": ["Tomate: 2 ud", "Pepino: 1 ud", "Pimiento verde: 1 ud", "Cebolla morada: 1 ud", "Queso feta: 100 g", "Aceitunas negras: 50 g", "Orégano", "Aceite de oliva"],
+      "pasos": "Corta la verdura en trozos grandes, pon el feta encima, aceitunas, orégano y aceite.",
+      "alergenos": ["lacteos"],
+      "dieta": ["vegetariana", "sin_cerdo", "sin_gluten"]
+    },
+    {
+      "id": "ensalada-caprese",
+      "nombre": "Ensalada caprese",
+      "tipo": "cena",
+      "minutos": 10,
+      "ingredientes": ["Tomate: 3 ud", "Queso mozzarella: 250 g", "Albahaca fresca: 1 manojo", "Aceite de oliva"],
+      "pasos": "Alterna rodajas de tomate y mozzarella, añade albahaca y aceite.",
+      "alergenos": ["lacteos"],
+      "dieta": ["vegetariana", "sin_cerdo", "sin_gluten"]
+    },
+    {
+      "id": "crema-de-calabacin",
+      "nombre": "Crema de calabacín",
+      "tipo": "cena",
+      "minutos": 25,
+      "ingredientes": ["Calabacín: 3 ud", "Puerro: 1 ud", "Patatas: 1 ud", "Caldo de verduras: 500 ml", "Aceite de oliva"],
+      "pasos": "Rehoga el puerro, añade calabacín y patata troceados y el caldo. Cuece 15 min y tritura.",
+      "alergenos": ["apio"],
+      "dieta": ["vegetariana", "vegana", "sin_cerdo", "sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "crema-de-calabaza-y-zanahoria",
+      "nombre": "Crema de calabaza y zanahoria",
+      "tipo": "cena",
+      "minutos": 30,
+      "ingredientes": ["Calabaza: 500 g", "Zanahoria: 2 ud", "Cebolla: 1 ud", "Caldo de verduras: 600 ml", "Aceite de oliva"],
+      "pasos": "Rehoga la cebolla, añade calabaza y zanahoria troceadas y el caldo. Cuece 20 min y tritura.",
+      "alergenos": ["apio"],
+      "dieta": ["vegetariana", "vegana", "sin_cerdo", "sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "merluza-a-la-plancha-con-ensalada",
+      "nombre": "Merluza a la plancha con ensalada",
+      "tipo": "cena",
+      "minutos": 15,
+      "ingredientes": ["Merluza: 400 g", "Lechuga: 1 ud", "Tomate: 2 ud", "Limón: 1 ud", "Aceite de oliva"],
+      "pasos": "Haz la merluza a la plancha 3-4 min por lado y sírvela con ensalada y unas gotas de limón.",
+      "alergenos": ["pescado"],
+      "dieta": ["sin_cerdo", "sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "salmon-a-la-plancha-con-trigueros",
+      "nombre": "Salmón a la plancha con trigueros",
+      "tipo": "cena",
+      "minutos": 15,
+      "ingredientes": ["Salmón: 2 lomos", "Espárragos trigueros: 1 manojo", "Limón: 1 ud", "Aceite de oliva"],
+      "pasos": "Marca los trigueros en la plancha y después el salmón, 3 min por lado. Sirve con limón.",
+      "alergenos": ["pescado"],
+      "dieta": ["sin_cerdo", "sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "pollo-a-la-plancha-con-verduras-salteadas",
+      "nombre": "Pollo a la plancha con verduras salteadas",
+      "tipo": "cena",
+      "minutos": 20,
+      "ingredientes": ["Pechuga de pollo: 400 g", "Calabacín: 1 ud", "Pimiento rojo: 1 ud", "Cebolla: 1 ud", "Aceite de oliva"],
+      "pasos": "Saltea la verdura en tiras a fuego vivo y haz los filetes de pollo a la plancha.",
+      "alergenos": [],
+      "dieta": ["sin_cerdo", "sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "gambas-al-ajillo-con-ensalada",
+      "nombre": "Gambas al ajillo con ensalada",
+      "tipo": "cena",
+      "minutos": 15,
+      "ingredientes": ["Gambas: 300 g", "Ajo: 4 dientes", "Guindilla: 1 ud", "Lechuga: 1 ud", "Aceite de oliva"],
+      "pasos": "Calienta aceite con ajo laminado y guindilla, añade las gambas peladas 2 min. Acompaña con lechuga.",
+      "alergenos": ["crustaceos"],
+      "dieta": ["sin_cerdo", "sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "calamares-a-la-plancha-con-limon",
+      "nombre": "Calamares a la plancha con limón",
+      "tipo": "cena",
+      "minutos": 15,
+      "ingredientes": ["Calamar: 400 g", "Ajo: 2 dientes", "Perejil: 1 manojo", "Limón: 1 ud", "Aceite de oliva"],
+      "pasos": "Haz el calamar en anillas a la plancha muy caliente 3 min y riégalo con ajo y perejil picados en aceite y limón.",
+      "alergenos": ["moluscos"],
+      "dieta": ["sin_cerdo", "sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "sopa-de-verduras",
+      "nombre": "Sopa de verduras",
+      "tipo": "cena",
+      "minutos": 30,
+      "ingredientes": ["Zanahoria: 2 ud", "Puerro: 1 ud", "Apio: 2 ramas", "Calabacín: 1 ud", "Judías verdes: 100 g", "Caldo de verduras: 1000 ml", "Aceite de oliva"],
+      "pasos": "Rehoga la verdura en dados pequeños, añade el caldo y cuece 20 min.",
+      "alergenos": ["apio"],
+      "dieta": ["vegetariana", "vegana", "sin_cerdo", "sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "sopa-de-picadillo",
+      "nombre": "Sopa de picadillo",
+      "tipo": "cena",
+      "minutos": 20,
+      "ingredientes": ["Caldo de pollo: 1000 ml", "Fideos finos: 60 g", "Huevos: 2 ud", "Jamón serrano: 50 g"],
+      "pasos": "Lleva el caldo a ebullición, cuece los fideos 5 min y añade huevo duro y jamón picados.",
+      "alergenos": ["gluten", "huevo", "apio"],
+      "dieta": ["sin_lactosa"]
+    },
+    {
+      "id": "hummus-con-crudites",
+      "nombre": "Hummus con crudités",
+      "tipo": "cena",
+      "minutos": 15,
+      "ingredientes": ["Garbanzos cocidos: 400 g", "Tahini: 2 cda", "Limón: 1 ud", "Ajo: 1 diente", "Zanahoria: 2 ud", "Pepino: 1 ud", "Pan de pita: 2 ud", "Comino", "Aceite de oliva"],
+      "pasos": "Tritura garbanzos, tahini, limón, ajo, comino y aceite con un poco de agua. Sirve con bastones de verdura y pan de pita.",
+      "alergenos": ["gluten", "sesamo"],
+      "dieta": ["vegetariana", "vegana", "sin_cerdo", "sin_lactosa"]
+    },
+    {
+      "id": "tabule",
+      "nombre": "Tabulé",
+      "tipo": "ambas",
+      "minutos": 20,
+      "ingredientes": ["Bulgur: 150 g", "Tomate: 2 ud", "Pepino: 1 ud", "Perejil: 1 manojo", "Hierbabuena: 1 manojo", "Limón: 1 ud", "Aceite de oliva"],
+      "pasos": "Hidrata el bulgur en agua caliente 10 min. Mézclalo con tomate y pepino picados, mucho perejil y hierbabuena, limón y aceite.",
+      "alergenos": ["gluten"],
+      "dieta": ["vegetariana", "vegana", "sin_cerdo", "sin_lactosa"]
+    },
+    {
+      "id": "shakshuka-huevos-con-tomate",
+      "nombre": "Shakshuka (huevos con tomate)",
+      "tipo": "cena",
+      "minutos": 25,
+      "ingredientes": ["Huevos: 4 ud", "Tomate triturado: 400 g", "Pimiento rojo: 1 ud", "Cebolla: 1 ud", "Comino", "Pimentón dulce", "Aceite de oliva"],
+      "pasos": "Pocha cebolla y pimiento, añade especias y tomate 10 min. Haz huecos, casca los huevos y tapa hasta que cuajen las claras.",
+      "alergenos": ["huevo"],
+      "dieta": ["vegetariana", "sin_cerdo", "sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "tostas-de-aguacate-y-salmon-ahumado",
+      "nombre": "Tostas de aguacate y salmón ahumado",
+      "tipo": "cena",
+      "minutos": 10,
+      "ingredientes": ["Pan integral: 4 rebanadas", "Tomate: 1 ud", "Aguacate: 1 ud", "Salmón ahumado: 100 g", "Aceite de oliva"],
+      "pasos": "Tuesta el pan, unta tomate rallado, pon aguacate laminado y el salmón por encima.",
+      "alergenos": ["gluten", "pescado"],
+      "dieta": ["sin_cerdo", "sin_lactosa"]
+    },
+    {
+      "id": "berenjena-asada-con-yogur",
+      "nombre": "Berenjena asada con yogur",
+      "tipo": "cena",
+      "minutos": 40,
+      "ingredientes": ["Berenjena: 2 ud", "Yogur griego: 1 ud", "Ajo: 1 diente", "Granada: 1 ud", "Comino", "Aceite de oliva"],
+      "pasos": "Asa las berenjenas partidas 35 min a 200 °C. Cubre con yogur con ajo y comino y granos de granada.",
+      "alergenos": ["lacteos"],
+      "dieta": ["vegetariana", "sin_cerdo", "sin_gluten"]
+    },
+    {
+      "id": "champinones-al-ajillo-con-huevo",
+      "nombre": "Champiñones al ajillo con huevo",
+      "tipo": "cena",
+      "minutos": 15,
+      "ingredientes": ["Champiñones: 400 g", "Ajo: 3 dientes", "Perejil: 1 manojo", "Huevos: 2 ud", "Aceite de oliva"],
+      "pasos": "Saltea los champiñones laminados con ajo y perejil y sírvelos con un huevo a la plancha.",
+      "alergenos": ["huevo"],
+      "dieta": ["vegetariana", "sin_cerdo", "sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "ensalada-de-quinoa-y-aguacate",
+      "nombre": "Ensalada de quinoa y aguacate",
+      "tipo": "cena",
+      "minutos": 20,
+      "ingredientes": ["Quinoa: 120 g", "Aguacate: 1 ud", "Tomates cherry: 200 g", "Pepino: 1 ud", "Limón: 1 ud", "Aceite de oliva"],
+      "pasos": "Cuece la quinoa 12 min y enfríala. Mezcla con aguacate, cherrys y pepino y aliña con limón y aceite.",
+      "alergenos": [],
+      "dieta": ["vegetariana", "vegana", "sin_cerdo", "sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "ensalada-de-espinacas-nueces-y-queso-de-cabra",
+      "nombre": "Ensalada de espinacas, nueces y queso de cabra",
+      "tipo": "cena",
+      "minutos": 10,
+      "ingredientes": ["Espinacas frescas: 150 g", "Nueces: 40 g", "Queso de cabra: 100 g", "Manzanas: 1 ud", "Vinagre de Módena", "Aceite de oliva"],
+      "pasos": "Mezcla espinacas, manzana en láminas, nueces y el queso en rodajas. Aliña con aceite y vinagre de Módena.",
+      "alergenos": ["lacteos", "frutos_cascara", "sulfitos"],
+      "dieta": ["vegetariana", "sin_cerdo", "sin_gluten"]
+    },
+    {
+      "id": "pizza-casera-de-verduras",
+      "nombre": "Pizza casera de verduras",
+      "tipo": "cena",
+      "minutos": 25,
+      "ingredientes": ["Masa de pizza: 1 ud", "Tomate triturado: 150 g", "Queso mozzarella: 125 g", "Champiñones: 100 g", "Pimiento verde: 1 ud", "Cebolla: 1 ud", "Orégano", "Aceite de oliva"],
+      "pasos": "Extiende la masa, cubre con tomate, verdura en láminas, mozzarella y orégano. Hornea 12-15 min a 220 °C.",
+      "alergenos": ["gluten", "lacteos"],
+      "dieta": ["vegetariana", "sin_cerdo"]
+    },
+    {
+      "id": "caballa-al-horno-con-tomate",
+      "nombre": "Caballa al horno con tomate",
+      "tipo": "cena",
+      "minutos": 25,
+      "ingredientes": ["Caballa: 2 ud", "Tomate: 2 ud", "Cebolla: 1 ud", "Limón: 1 ud", "Tomillo", "Aceite de oliva"],
+      "pasos": "Pon tomate y cebolla en rodajas en una fuente, las caballas encima con limón y tomillo. Hornea 15 min a 200 °C.",
+      "alergenos": ["pescado"],
+      "dieta": ["sin_cerdo", "sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "pavo-a-la-plancha-con-champinones",
+      "nombre": "Pavo a la plancha con champiñones",
+      "tipo": "cena",
+      "minutos": 20,
+      "ingredientes": ["Pechuga de pavo: 400 g", "Champiñones: 250 g", "Ajo: 2 dientes", "Perejil: 1 manojo", "Aceite de oliva"],
+      "pasos": "Haz los filetes de pavo a la plancha y acompaña con champiñones salteados con ajo y perejil.",
+      "alergenos": [],
+      "dieta": ["sin_cerdo", "sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "escalivada-con-anchoas",
+      "nombre": "Escalivada con anchoas",
+      "tipo": "cena",
+      "minutos": 50,
+      "ingredientes": ["Berenjena: 1 ud", "Pimiento rojo: 2 ud", "Cebolla: 1 ud", "Anchoas: 1 lata", "Pan: 4 rebanadas", "Aceite de oliva"],
+      "pasos": "Asa la verdura entera 45 min a 200 °C, pélala y córtala en tiras. Sírvela sobre pan tostado con anchoas.",
+      "alergenos": ["gluten", "pescado"],
+      "dieta": ["sin_cerdo", "sin_lactosa"]
+    },
+    {
+      "id": "crema-de-puerros",
+      "nombre": "Crema de puerros",
+      "tipo": "cena",
+      "minutos": 30,
+      "ingredientes": ["Puerro: 3 ud", "Patatas: 2 ud", "Cebolla: 1 ud", "Leche: 200 ml", "Caldo de verduras: 500 ml", "Aceite de oliva"],
+      "pasos": "Rehoga puerro y cebolla, añade patata y caldo y cuece 20 min. Tritura con la leche.",
+      "alergenos": ["lacteos", "apio"],
+      "dieta": ["vegetariana", "sin_cerdo", "sin_gluten"]
+    },
+    {
+      "id": "bacalao-con-pisto",
+      "nombre": "Bacalao con pisto",
+      "tipo": "ambas",
+      "minutos": 35,
+      "ingredientes": ["Bacalao desalado: 400 g", "Calabacín: 1 ud", "Pimiento rojo: 1 ud", "Cebolla: 1 ud", "Tomate triturado: 200 g", "Aceite de oliva"],
+      "pasos": "Haz un pisto con la verdura y el tomate 20 min. Cocina el bacalao encima, tapado, 8 min.",
+      "alergenos": ["pescado"],
+      "dieta": ["sin_cerdo", "sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "tortilla-de-espinacas",
+      "nombre": "Tortilla de espinacas",
+      "tipo": "cena",
+      "minutos": 15,
+      "ingredientes": ["Espinacas frescas: 200 g", "Huevos: 4 ud", "Ajo: 1 diente", "Aceite de oliva"],
+      "pasos": "Saltea las espinacas con ajo, mézclalas con el huevo batido y cuaja la tortilla.",
+      "alergenos": ["huevo"],
+      "dieta": ["vegetariana", "sin_cerdo", "sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "huevos-rellenos-de-atun",
+      "nombre": "Huevos rellenos de atún",
+      "tipo": "cena",
+      "minutos": 20,
+      "ingredientes": ["Huevos: 6 ud", "Atún en lata: 1 lata", "Tomate frito: 2 cda", "Lechuga: 1 ud"],
+      "pasos": "Cuece los huevos 10 min, pártelos y mezcla las yemas con atún y tomate. Rellena y sirve sobre lechuga.",
+      "alergenos": ["huevo", "pescado"],
+      "dieta": ["sin_cerdo", "sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "brochetas-de-pollo-y-verduras",
+      "nombre": "Brochetas de pollo y verduras",
+      "tipo": "cena",
+      "minutos": 25,
+      "ingredientes": ["Pechuga de pollo: 400 g", "Pimiento rojo: 1 ud", "Cebolla morada: 1 ud", "Calabacín: 1 ud", "Tomates cherry: 150 g", "Orégano", "Aceite de oliva"],
+      "pasos": "Ensarta pollo y verdura en dados, aliña con orégano y aceite y hazlas a la plancha 10-12 min.",
+      "alergenos": [],
+      "dieta": ["sin_cerdo", "sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "ensalada-de-tomate-con-ventresca",
+      "nombre": "Ensalada de tomate con ventresca",
+      "tipo": "cena",
+      "minutos": 10,
+      "ingredientes": ["Tomate: 3 ud", "Ventresca de atún: 1 lata", "Cebolla morada: 1 ud", "Aceitunas negras: 40 g", "Aceite de oliva"],
+      "pasos": "Corta el tomate en rodajas, pon cebolla en juliana, la ventresca y las aceitunas. Aliña con aceite.",
+      "alergenos": ["pescado"],
+      "dieta": ["sin_cerdo", "sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "sardinas-a-la-plancha-con-ensalada",
+      "nombre": "Sardinas a la plancha con ensalada",
+      "tipo": "cena",
+      "minutos": 15,
+      "ingredientes": ["Sardinas frescas: 500 g", "Lechuga: 1 ud", "Tomate: 2 ud", "Limón: 1 ud", "Aceite de oliva"],
+      "pasos": "Haz las sardinas a la plancha muy caliente 2-3 min por lado y sírvelas con ensalada y limón.",
+      "alergenos": ["pescado"],
+      "dieta": ["sin_cerdo", "sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "lomo-a-la-plancha-con-piquillos",
+      "nombre": "Lomo a la plancha con piquillos",
+      "tipo": "cena",
+      "minutos": 20,
+      "ingredientes": ["Lomo de cerdo: 400 g", "Pimientos del piquillo: 1 lata", "Ajo: 2 dientes", "Aceite de oliva"],
+      "pasos": "Saltea los piquillos con ajo laminado a fuego suave 10 min y haz el lomo a la plancha.",
+      "alergenos": [],
+      "dieta": ["sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "crema-de-lentejas-rojas",
+      "nombre": "Crema de lentejas rojas",
+      "tipo": "cena",
+      "minutos": 25,
+      "ingredientes": ["Lentejas rojas: 150 g", "Zanahoria: 2 ud", "Cebolla: 1 ud", "Comino", "Caldo de verduras: 700 ml", "Aceite de oliva"],
+      "pasos": "Rehoga cebolla y zanahoria con comino, añade lentejas y caldo y cuece 15 min. Tritura.",
+      "alergenos": ["apio"],
+      "dieta": ["vegetariana", "vegana", "sin_cerdo", "sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "pita-de-pollo-con-salsa-de-yogur",
+      "nombre": "Pita de pollo con salsa de yogur",
+      "tipo": "cena",
+      "minutos": 20,
+      "ingredientes": ["Pan de pita: 2 ud", "Pechuga de pollo: 250 g", "Lechuga: 1 ud", "Tomate: 1 ud", "Pepino: 1 ud", "Yogur griego: 1 ud", "Aceite de oliva"],
+      "pasos": "Haz el pollo en tiras a la plancha. Rellena la pita con verdura, pollo y yogur mezclado con pepino rallado.",
+      "alergenos": ["gluten", "lacteos"],
+      "dieta": ["sin_cerdo"]
+    },
+    {
+      "id": "calabacines-rellenos-de-atun",
+      "nombre": "Calabacines rellenos de atún",
+      "tipo": "cena",
+      "minutos": 40,
+      "ingredientes": ["Calabacín: 2 ud", "Atún en lata: 2 latas", "Cebolla: 1 ud", "Tomate triturado: 150 g", "Queso rallado: 40 g", "Aceite de oliva"],
+      "pasos": "Vacía los calabacines y sofríe la pulpa con cebolla y tomate. Mezcla con el atún, rellena, cubre con queso y hornea 20 min.",
+      "alergenos": ["pescado", "lacteos"],
+      "dieta": ["sin_cerdo", "sin_gluten"]
+    },
+    {
+      "id": "ensalada-campera",
+      "nombre": "Ensalada campera",
+      "tipo": "ambas",
+      "minutos": 30,
+      "ingredientes": ["Patatas: 3 ud", "Huevos: 2 ud", "Tomate: 2 ud", "Pimiento verde: 1 ud", "Cebolla: 1 ud", "Atún en lata: 1 lata", "Aceitunas verdes: 50 g", "Vinagre de vino", "Aceite de oliva"],
+      "pasos": "Cuece patatas y huevos y déjalos enfriar. Trocea y mezcla con la verdura, el atún y las aceitunas. Aliña.",
+      "alergenos": ["huevo", "pescado", "sulfitos"],
+      "dieta": ["sin_cerdo", "sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "alcachofas-al-horno-con-jamon",
+      "nombre": "Alcachofas al horno con jamón",
+      "tipo": "cena",
+      "minutos": 40,
+      "ingredientes": ["Alcachofas: 6 ud", "Jamón serrano: 60 g", "Ajo: 2 dientes", "Limón: 1 ud", "Aceite de oliva"],
+      "pasos": "Limpia las alcachofas, pártelas y frota con limón. Hornea 30 min a 200 °C con ajo y aceite y añade el jamón al final.",
+      "alergenos": [],
+      "dieta": ["sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "judias-verdes-con-patata",
+      "nombre": "Judías verdes con patata",
+      "tipo": "ambas",
+      "minutos": 25,
+      "ingredientes": ["Judías verdes: 400 g", "Patatas: 2 ud", "Ajo: 2 dientes", "Pimentón dulce", "Aceite de oliva"],
+      "pasos": "Cuece judías y patata troceada 15 min. Escurre y saltea con un refrito de ajo y pimentón.",
+      "alergenos": [],
+      "dieta": ["vegetariana", "vegana", "sin_cerdo", "sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "coliflor-asada-con-garbanzos",
+      "nombre": "Coliflor asada con garbanzos",
+      "tipo": "cena",
+      "minutos": 35,
+      "ingredientes": ["Coliflor: 1 ud", "Garbanzos cocidos: 200 g", "Yogur griego: 1 ud", "Comino", "Pimentón dulce", "Aceite de oliva"],
+      "pasos": "Asa coliflor en ramilletes y garbanzos con especias y aceite 25 min a 210 °C. Sirve con yogur.",
+      "alergenos": ["lacteos"],
+      "dieta": ["vegetariana", "sin_cerdo", "sin_gluten"]
+    },
+    {
+      "id": "pinchos-morunos-de-pollo",
+      "nombre": "Pinchos morunos de pollo",
+      "tipo": "cena",
+      "minutos": 25,
+      "ingredientes": ["Contramuslos de pollo: 400 g", "Comino", "Pimentón dulce", "Ajo: 2 dientes", "Limón: 1 ud", "Lechuga: 1 ud", "Aceite de oliva"],
+      "pasos": "Marina el pollo en dados con especias, ajo, limón y aceite 10 min. Hazlo a la plancha y sirve con lechuga.",
+      "alergenos": [],
+      "dieta": ["sin_cerdo", "sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "atun-a-la-plancha-con-tomate-alinado",
+      "nombre": "Atún a la plancha con tomate aliñado",
+      "tipo": "cena",
+      "minutos": 15,
+      "ingredientes": ["Atún fresco: 400 g", "Tomate: 3 ud", "Cebolla morada: 1 ud", "Orégano", "Vinagre de vino", "Aceite de oliva"],
+      "pasos": "Marca el atún 1-2 min por lado. Sírvelo con tomate y cebolla picados aliñados con orégano, aceite y vinagre.",
+      "alergenos": ["pescado", "sulfitos"],
+      "dieta": ["sin_cerdo", "sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "pasta-al-pesto-con-tomates-cherry",
+      "nombre": "Pasta al pesto con tomates cherry",
+      "tipo": "comida",
+      "minutos": 20,
+      "ingredientes": ["Pasta corta: 180 g", "Albahaca fresca: 1 manojo", "Piñones: 30 g", "Queso parmesano: 40 g", "Ajo: 1 diente", "Tomates cherry: 200 g", "Aceite de oliva"],
+      "pasos": "Tritura albahaca, piñones, queso, ajo y aceite. Mezcla con la pasta cocida y los cherrys partidos.",
+      "alergenos": ["gluten", "lacteos"],
+      "dieta": ["vegetariana", "sin_cerdo"]
+    },
+    {
+      "id": "risotto-de-champinones",
+      "nombre": "Risotto de champiñones",
+      "tipo": "comida",
+      "minutos": 35,
+      "ingredientes": ["Arroz: 160 g", "Champiñones: 250 g", "Cebolla: 1 ud", "Caldo de verduras: 700 ml", "Queso parmesano: 40 g", "Vino blanco: 50 ml", "Aceite de oliva"],
+      "pasos": "Pocha cebolla y champiñones, nacara el arroz, moja con vino y ve añadiendo caldo caliente 18 min removiendo. Termina con parmesano.",
+      "alergenos": ["lacteos", "apio", "sulfitos"],
+      "dieta": ["vegetariana", "sin_cerdo", "sin_gluten"]
+    },
+    {
+      "id": "garbanzos-salteados-con-langostinos",
+      "nombre": "Garbanzos salteados con langostinos",
+      "tipo": "ambas",
+      "minutos": 15,
+      "ingredientes": ["Garbanzos cocidos: 400 g", "Langostinos: 250 g", "Ajo: 2 dientes", "Espinacas frescas: 100 g", "Pimentón dulce", "Aceite de oliva"],
+      "pasos": "Saltea ajo y langostinos pelados, añade garbanzos, espinacas y pimentón y saltea 5 min.",
+      "alergenos": ["crustaceos"],
+      "dieta": ["sin_cerdo", "sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "merluza-al-horno-con-patatas-panaderas",
+      "nombre": "Merluza al horno con patatas panaderas",
+      "tipo": "comida",
+      "minutos": 45,
+      "ingredientes": ["Merluza: 500 g", "Patatas: 3 ud", "Cebolla: 1 ud", "Pimiento verde: 1 ud", "Vino blanco: 50 ml", "Aceite de oliva"],
+      "pasos": "Pocha patata, cebolla y pimiento en láminas 20 min. Pásalo a una fuente, pon la merluza con el vino y hornea 12 min a 200 °C.",
+      "alergenos": ["pescado", "sulfitos"],
+      "dieta": ["sin_cerdo", "sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "chuletas-de-cordero-con-verduras-a-la-plancha",
+      "nombre": "Chuletas de cordero con verduras a la plancha",
+      "tipo": "comida",
+      "minutos": 25,
+      "ingredientes": ["Chuletas de cordero: 500 g", "Calabacín: 1 ud", "Berenjena: 1 ud", "Romero", "Aceite de oliva"],
+      "pasos": "Haz la verdura en rodajas a la plancha y después las chuletas con romero, 3 min por lado.",
+      "alergenos": [],
+      "dieta": ["sin_cerdo", "sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "ensalada-de-arroz",
+      "nombre": "Ensalada de arroz",
+      "tipo": "ambas",
+      "minutos": 25,
+      "ingredientes": ["Arroz: 150 g", "Atún en lata: 1 lata", "Tomate: 2 ud", "Pimiento rojo: 1 ud", "Maíz dulce: 1 lata", "Aceitunas verdes: 50 g", "Aceite de oliva"],
+      "pasos": "Cuece el arroz, enfríalo y mézclalo con la verdura picada, el atún, el maíz y las aceitunas.",
+      "alergenos": ["pescado"],
+      "dieta": ["sin_cerdo", "sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "crema-fria-de-pepino-y-yogur",
+      "nombre": "Crema fría de pepino y yogur",
+      "tipo": "cena",
+      "minutos": 10,
+      "ingredientes": ["Pepino: 2 ud", "Yogur griego: 2 ud", "Ajo: 1 diente", "Hierbabuena: 1 manojo", "Nueces: 30 g", "Aceite de oliva"],
+      "pasos": "Tritura pepino, yogur, ajo y hierbabuena con un poco de agua fría. Sirve con nueces picadas y aceite.",
+      "alergenos": ["lacteos", "frutos_cascara"],
+      "dieta": ["vegetariana", "sin_cerdo", "sin_gluten"]
+    },
+    {
+      "id": "brochetas-de-langostinos-con-rucula",
+      "nombre": "Brochetas de langostinos con rúcula",
+      "tipo": "cena",
+      "minutos": 20,
+      "ingredientes": ["Langostinos: 300 g", "Tomates cherry: 200 g", "Limón: 1 ud", "Ajo: 1 diente", "Perejil: 1 manojo", "Rúcula: 100 g", "Aceite de oliva"],
+      "pasos": "Ensarta langostinos y cherrys, píntalos con ajo, perejil y aceite y hazlos a la plancha 4 min. Sirve sobre rúcula con limón.",
+      "alergenos": ["crustaceos"],
+      "dieta": ["sin_cerdo", "sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "revuelto-de-calabacin-y-cebolla",
+      "nombre": "Revuelto de calabacín y cebolla",
+      "tipo": "cena",
+      "minutos": 15,
+      "ingredientes": ["Calabacín: 2 ud", "Cebolla: 1 ud", "Huevos: 4 ud", "Aceite de oliva"],
+      "pasos": "Pocha cebolla y calabacín en dados 10 min, añade el huevo batido y remueve hasta que cuaje jugoso.",
+      "alergenos": ["huevo"],
+      "dieta": ["vegetariana", "sin_cerdo", "sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "cocido-madrileno",
+      "nombre": "Cocido madrileño",
+      "tipo": "comida",
+      "minutos": 150,
+      "ingredientes": ["Garbanzos secos: 250 g", "Morcillo de ternera: 300 g", "Muslos de pollo: 2 ud", "Tocino: 100 g", "Chorizo: 1 ud", "Morcilla: 1 ud", "Hueso de jamón: 1 ud", "Zanahoria: 2 ud", "Patatas: 2 ud", "Repollo: 0.5 ud", "Fideos finos: 60 g"],
+      "pasos": "Remoja los garbanzos la víspera. Cuece las carnes con los garbanzos 2 h, añade zanahoria y patatas 30 min y cuece el repollo aparte. Sirve primero la sopa con fideos.",
+      "alergenos": ["gluten"],
+      "dieta": ["sin_lactosa"]
+    },
+    {
+      "id": "fabada-asturiana",
+      "nombre": "Fabada asturiana",
+      "tipo": "comida",
+      "minutos": 150,
+      "ingredientes": ["Fabes: 250 g", "Chorizo: 1 ud", "Morcilla: 1 ud", "Panceta: 100 g", "Cebolla: 1 ud", "Ajo: 2 dientes", "Azafrán"],
+      "pasos": "Remoja las fabes la víspera. Cuécelas con el compango, la cebolla y el ajo a fuego muy suave 2 h, añadiendo agua fría para cortar el hervor.",
+      "alergenos": [],
+      "dieta": ["sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "lentejas-con-chorizo",
+      "nombre": "Lentejas con chorizo",
+      "tipo": "comida",
+      "minutos": 50,
+      "ingredientes": ["Lentejas pardinas: 200 g", "Chorizo: 1 ud", "Patatas: 1 ud", "Zanahoria: 1 ud", "Cebolla: 1 ud", "Pimiento verde: 1 ud", "Ajo: 2 dientes", "Pimentón dulce", "Laurel", "Aceite de oliva"],
+      "pasos": "Sofríe la verdura, añade el chorizo en rodajas y el pimentón. Incorpora lentejas, patata, laurel y agua y cuece 40 min.",
+      "alergenos": [],
+      "dieta": ["sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "potaje-de-vigilia",
+      "nombre": "Potaje de vigilia",
+      "tipo": "comida",
+      "minutos": 45,
+      "ingredientes": ["Garbanzos cocidos: 400 g", "Bacalao desalado: 200 g", "Espinacas frescas: 200 g", "Huevos: 2 ud", "Cebolla: 1 ud", "Ajo: 2 dientes", "Pimentón dulce", "Aceite de oliva"],
+      "pasos": "Sofríe cebolla y ajo con pimentón, añade garbanzos, agua y bacalao. Cuece 15 min con las espinacas y sirve con huevo duro picado.",
+      "alergenos": ["huevo", "pescado"],
+      "dieta": ["sin_cerdo", "sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "alubias-pintas-con-chorizo",
+      "nombre": "Alubias pintas con chorizo",
+      "tipo": "comida",
+      "minutos": 40,
+      "ingredientes": ["Alubias pintas cocidas: 400 g", "Chorizo: 1 ud", "Cebolla: 1 ud", "Pimiento verde: 1 ud", "Tomate triturado: 150 g", "Pimentón dulce", "Aceite de oliva"],
+      "pasos": "Sofríe cebolla, pimiento y chorizo, añade pimentón y tomate. Incorpora las alubias con un vaso de agua y cuece 20 min.",
+      "alergenos": [],
+      "dieta": ["sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "garbanzos-con-chorizo",
+      "nombre": "Garbanzos con chorizo",
+      "tipo": "comida",
+      "minutos": 30,
+      "ingredientes": ["Garbanzos cocidos: 400 g", "Chorizo: 1 ud", "Patatas: 1 ud", "Cebolla: 1 ud", "Tomate triturado: 150 g", "Pimentón dulce", "Aceite de oliva"],
+      "pasos": "Sofríe cebolla y chorizo, añade pimentón, tomate, patata cascada y agua. Cuece 15 min y añade los garbanzos 5 min.",
+      "alergenos": [],
+      "dieta": ["sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "callos-a-la-madrilena",
+      "nombre": "Callos a la madrileña",
+      "tipo": "comida",
+      "minutos": 120,
+      "ingredientes": ["Callos de ternera: 600 g", "Chorizo: 1 ud", "Morcilla: 1 ud", "Jamón serrano: 80 g", "Cebolla: 1 ud", "Ajo: 2 dientes", "Tomate triturado: 150 g", "Pimentón dulce", "Guindilla: 1 ud", "Laurel"],
+      "pasos": "Cuece los callos limpios con laurel 1 h 30 min. Haz un sofrito con cebolla, ajo, jamón, chorizo, pimentón y tomate y guisa todo junto 30 min con la morcilla.",
+      "alergenos": [],
+      "dieta": ["sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "alubias-con-almejas",
+      "nombre": "Alubias con almejas",
+      "tipo": "comida",
+      "minutos": 40,
+      "ingredientes": ["Alubias blancas cocidas: 400 g", "Almejas: 300 g", "Cebolla: 1 ud", "Ajo: 2 dientes", "Perejil: 1 manojo", "Vino blanco: 100 ml", "Caldo de pescado: 300 ml", "Aceite de oliva"],
+      "pasos": "Pocha cebolla y ajo, añade vino y caldo y las alubias. Abre las almejas en la cazuela y termina con perejil.",
+      "alergenos": ["pescado", "apio", "sulfitos", "moluscos"],
+      "dieta": ["sin_cerdo", "sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "sopa-castellana",
+      "nombre": "Sopa castellana",
+      "tipo": "cena",
+      "minutos": 30,
+      "ingredientes": ["Pan: 150 g", "Jamón serrano: 80 g", "Huevos: 2 ud", "Ajo: 4 dientes", "Pimentón dulce", "Caldo de pollo: 1000 ml", "Aceite de oliva"],
+      "pasos": "Dora el ajo laminado y el jamón, añade el pan en rebanadas y el pimentón. Moja con el caldo, cuece 15 min y cuaja los huevos dentro.",
+      "alergenos": ["gluten", "huevo", "apio"],
+      "dieta": ["sin_lactosa"]
+    },
+    {
+      "id": "sopa-de-cebolla",
+      "nombre": "Sopa de cebolla",
+      "tipo": "cena",
+      "minutos": 50,
+      "ingredientes": ["Cebolla: 4 ud", "Caldo de carne: 1000 ml", "Pan: 4 rebanadas", "Queso rallado: 80 g", "Mantequilla: 30 g", "Harina: 1 cda"],
+      "pasos": "Pocha la cebolla en juliana con mantequilla 30 min hasta que se dore. Añade harina y caldo, cuece 10 min y gratina con pan y queso.",
+      "alergenos": ["gluten", "lacteos", "apio"],
+      "dieta": ["sin_cerdo"]
+    },
+    {
+      "id": "caldo-gallego",
+      "nombre": "Caldo gallego",
+      "tipo": "comida",
+      "minutos": 90,
+      "ingredientes": ["Alubias blancas cocidas: 300 g", "Grelos: 300 g", "Patatas: 3 ud", "Lacón: 200 g", "Tocino: 80 g", "Chorizo: 1 ud"],
+      "pasos": "Cuece lacón, tocino y chorizo 1 h. Añade las patatas cascadas y los grelos 20 min y las alubias al final.",
+      "alergenos": [],
+      "dieta": ["sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "puchero-andaluz",
+      "nombre": "Puchero andaluz",
+      "tipo": "comida",
+      "minutos": 120,
+      "ingredientes": ["Garbanzos secos: 200 g", "Muslos de pollo: 2 ud", "Morcillo de ternera: 250 g", "Tocino: 80 g", "Hueso de jamón: 1 ud", "Zanahoria: 2 ud", "Puerro: 1 ud", "Apio: 2 ramas", "Patatas: 2 ud", "Hierbabuena: 1 manojo"],
+      "pasos": "Cuece carnes y garbanzos remojados 1 h 30 min. Añade verdura y patatas 30 min. Sirve el caldo con hierbabuena y la pringá aparte.",
+      "alergenos": ["apio"],
+      "dieta": ["sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "crema-de-champinones",
+      "nombre": "Crema de champiñones",
+      "tipo": "cena",
+      "minutos": 30,
+      "ingredientes": ["Champiñones: 400 g", "Cebolla: 1 ud", "Patatas: 1 ud", "Caldo de verduras: 600 ml", "Leche: 150 ml", "Aceite de oliva"],
+      "pasos": "Rehoga cebolla y champiñones, añade patata y caldo y cuece 15 min. Tritura con la leche.",
+      "alergenos": ["lacteos", "apio"],
+      "dieta": ["vegetariana", "sin_cerdo", "sin_gluten"]
+    },
+    {
+      "id": "crema-de-zanahoria",
+      "nombre": "Crema de zanahoria",
+      "tipo": "cena",
+      "minutos": 30,
+      "ingredientes": ["Zanahoria: 6 ud", "Cebolla: 1 ud", "Patatas: 1 ud", "Caldo de verduras: 700 ml", "Comino", "Aceite de oliva"],
+      "pasos": "Rehoga cebolla y zanahoria con comino, añade patata y caldo y cuece 20 min. Tritura fino.",
+      "alergenos": ["apio"],
+      "dieta": ["vegetariana", "vegana", "sin_cerdo", "sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "crema-de-brocoli",
+      "nombre": "Crema de brócoli",
+      "tipo": "cena",
+      "minutos": 25,
+      "ingredientes": ["Brócoli: 1 ud", "Puerro: 1 ud", "Patatas: 1 ud", "Caldo de verduras: 600 ml", "Queso en porciones: 2 ud", "Aceite de oliva"],
+      "pasos": "Rehoga el puerro, añade brócoli, patata y caldo y cuece 15 min. Tritura con el queso.",
+      "alergenos": ["lacteos", "apio"],
+      "dieta": ["vegetariana", "sin_cerdo", "sin_gluten"]
+    },
+    {
+      "id": "sopa-de-pollo-con-fideos",
+      "nombre": "Sopa de pollo con fideos",
+      "tipo": "cena",
+      "minutos": 40,
+      "ingredientes": ["Muslos de pollo: 2 ud", "Zanahoria: 2 ud", "Puerro: 1 ud", "Apio: 2 ramas", "Fideos finos: 80 g"],
+      "pasos": "Cuece el pollo con la verdura en 1,5 l de agua 30 min. Cuela, desmiga el pollo y cuece los fideos en el caldo 5 min.",
+      "alergenos": ["gluten", "apio"],
+      "dieta": ["sin_cerdo", "sin_lactosa"]
+    },
+    {
+      "id": "sopa-de-marisco",
+      "nombre": "Sopa de marisco",
+      "tipo": "comida",
+      "minutos": 45,
+      "ingredientes": ["Gambas: 200 g", "Almejas: 200 g", "Merluza: 200 g", "Cebolla: 1 ud", "Tomate triturado: 150 g", "Ajo: 2 dientes", "Caldo de pescado: 1000 ml", "Pan: 2 rebanadas", "Aceite de oliva"],
+      "pasos": "Sofríe cebolla, ajo y tomate, añade el pan y el caldo y tritura. Cuece en ella la merluza, las gambas y las almejas 5 min.",
+      "alergenos": ["gluten", "crustaceos", "pescado", "apio", "moluscos"],
+      "dieta": ["sin_cerdo", "sin_lactosa"]
+    },
+    {
+      "id": "ajoblanco",
+      "nombre": "Ajoblanco",
+      "tipo": "ambas",
+      "minutos": 15,
+      "ingredientes": ["Almendras: 150 g", "Pan: 100 g", "Ajo: 1 diente", "Uvas: 150 g", "Vinagre de vino", "Aceite de oliva"],
+      "pasos": "Tritura almendras, pan remojado, ajo, vinagre y aceite con agua fría hasta que quede fino. Sirve muy frío con uvas.",
+      "alergenos": ["gluten", "frutos_cascara", "sulfitos"],
+      "dieta": ["vegetariana", "vegana", "sin_cerdo", "sin_lactosa"]
+    },
+    {
+      "id": "porra-antequerana",
+      "nombre": "Porra antequerana",
+      "tipo": "ambas",
+      "minutos": 15,
+      "ingredientes": ["Tomate: 6 ud", "Pan: 200 g", "Pimiento verde: 1 ud", "Ajo: 1 diente", "Huevos: 2 ud", "Jamón serrano: 60 g", "Atún en lata: 1 lata", "Vinagre de vino", "Aceite de oliva"],
+      "pasos": "Tritura tomate, pimiento, ajo, pan, vinagre y aceite hasta que quede espeso. Sirve con huevo duro, jamón y atún por encima.",
+      "alergenos": ["gluten", "huevo", "pescado", "sulfitos"],
+      "dieta": ["sin_lactosa"]
+    },
+    {
+      "id": "paella-valenciana",
+      "nombre": "Paella valenciana",
+      "tipo": "comida",
+      "minutos": 60,
+      "ingredientes": ["Arroz: 200 g", "Muslos de pollo: 400 g", "Conejo troceado: 300 g", "Judías verdes: 200 g", "Garrofón: 100 g", "Tomate: 1 ud", "Azafrán", "Romero", "Pimentón dulce", "Aceite de oliva"],
+      "pasos": "Dora pollo y conejo, añade judías y garrofón, tomate rallado y pimentón. Cubre con agua 30 min, añade arroz y azafrán y cuece 18 min sin remover.",
+      "alergenos": [],
+      "dieta": ["sin_cerdo", "sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "paella-mixta",
+      "nombre": "Paella mixta",
+      "tipo": "comida",
+      "minutos": 50,
+      "ingredientes": ["Arroz: 200 g", "Muslos de pollo: 300 g", "Gambas: 200 g", "Mejillones: 300 g", "Calamar: 200 g", "Pimiento rojo: 1 ud", "Guisantes: 100 g", "Tomate triturado: 100 g", "Caldo de pescado: 700 ml", "Azafrán", "Aceite de oliva"],
+      "pasos": "Dora el pollo, sofríe calamar, pimiento y tomate. Añade arroz, caldo y azafrán; a los 10 min pon marisco y guisantes y termina 8 min.",
+      "alergenos": ["crustaceos", "pescado", "apio", "moluscos"],
+      "dieta": ["sin_cerdo", "sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "arroz-a-banda",
+      "nombre": "Arroz a banda",
+      "tipo": "comida",
+      "minutos": 45,
+      "ingredientes": ["Arroz: 200 g", "Sepia: 200 g", "Gambas: 150 g", "Tomate triturado: 100 g", "Ajo: 3 dientes", "Caldo de pescado: 700 ml", "Pimentón dulce", "Azafrán", "Aceite de oliva"],
+      "pasos": "Saltea sepia y gambas peladas, añade ajo, tomate y pimentón. Incorpora arroz y caldo con azafrán y cuece 18 min. Sirve con alioli.",
+      "alergenos": ["crustaceos", "pescado", "apio", "moluscos"],
+      "dieta": ["sin_cerdo", "sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "arroz-caldoso-de-marisco",
+      "nombre": "Arroz caldoso de marisco",
+      "tipo": "comida",
+      "minutos": 45,
+      "ingredientes": ["Arroz: 180 g", "Gambas: 200 g", "Almejas: 200 g", "Calamar: 200 g", "Cebolla: 1 ud", "Pimiento rojo: 1 ud", "Tomate triturado: 150 g", "Caldo de pescado: 1200 ml", "Ajo: 2 dientes", "Aceite de oliva"],
+      "pasos": "Haz un sofrito con calamar, cebolla, pimiento, ajo y tomate. Añade arroz y caldo, cuece 15 min, incorpora gambas y almejas y termina 3 min.",
+      "alergenos": ["crustaceos", "pescado", "apio", "moluscos"],
+      "dieta": ["sin_cerdo", "sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "arroz-con-costillas",
+      "nombre": "Arroz con costillas",
+      "tipo": "comida",
+      "minutos": 60,
+      "ingredientes": ["Arroz: 200 g", "Costillas de cerdo: 400 g", "Pimiento rojo: 1 ud", "Tomate triturado: 100 g", "Ajo: 2 dientes", "Caldo de pollo: 700 ml", "Pimentón dulce", "Azafrán", "Aceite de oliva"],
+      "pasos": "Dora las costillas, sofríe pimiento, ajo y tomate. Añade caldo y cuece 20 min, incorpora el arroz y el azafrán y cuece 18 min.",
+      "alergenos": ["apio"],
+      "dieta": ["sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "arroz-a-la-cubana",
+      "nombre": "Arroz a la cubana",
+      "tipo": "ambas",
+      "minutos": 25,
+      "ingredientes": ["Arroz: 180 g", "Tomate frito: 200 g", "Huevos: 2 ud", "Plátanos: 2 ud", "Ajo: 1 diente", "Aceite de oliva"],
+      "pasos": "Cuece el arroz con un diente de ajo. Sirve con tomate frito caliente, huevo frito y plátano frito.",
+      "alergenos": ["huevo"],
+      "dieta": ["vegetariana", "sin_cerdo", "sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "arroz-tres-delicias",
+      "nombre": "Arroz tres delicias",
+      "tipo": "ambas",
+      "minutos": 25,
+      "ingredientes": ["Arroz: 180 g", "Jamón cocido: 100 g", "Gambas: 150 g", "Guisantes: 100 g", "Zanahoria: 1 ud", "Huevos: 2 ud", "Salsa de soja: 2 cda", "Aceite de oliva"],
+      "pasos": "Cuece el arroz y enfríalo. Saltea zanahoria, guisantes, gambas y jamón, añade huevo revuelto, el arroz y la soja.",
+      "alergenos": ["gluten", "crustaceos", "huevo", "soja"],
+      "dieta": ["sin_lactosa"]
+    },
+    {
+      "id": "arroz-meloso-de-setas-y-pollo",
+      "nombre": "Arroz meloso de setas y pollo",
+      "tipo": "comida",
+      "minutos": 40,
+      "ingredientes": ["Arroz: 180 g", "Pechuga de pollo: 250 g", "Setas variadas: 250 g", "Cebolla: 1 ud", "Caldo de pollo: 900 ml", "Vino blanco: 50 ml", "Queso parmesano: 30 g", "Aceite de oliva"],
+      "pasos": "Dora pollo y setas, pocha la cebolla, nacara el arroz y moja con vino. Añade caldo poco a poco 18 min y termina con parmesano.",
+      "alergenos": ["lacteos", "apio", "sulfitos"],
+      "dieta": ["sin_cerdo", "sin_gluten"]
+    },
+    {
+      "id": "arroz-con-verduras",
+      "nombre": "Arroz con verduras",
+      "tipo": "ambas",
+      "minutos": 35,
+      "ingredientes": ["Arroz: 180 g", "Calabacín: 1 ud", "Berenjena: 1 ud", "Pimiento rojo: 1 ud", "Judías verdes: 100 g", "Alcachofas: 2 ud", "Tomate triturado: 100 g", "Caldo de verduras: 700 ml", "Azafrán", "Aceite de oliva"],
+      "pasos": "Sofríe la verdura troceada y el tomate, añade arroz, azafrán y caldo caliente y cuece 18 min.",
+      "alergenos": ["apio"],
+      "dieta": ["vegetariana", "vegana", "sin_cerdo", "sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "arroz-con-bacalao",
+      "nombre": "Arroz con bacalao",
+      "tipo": "comida",
+      "minutos": 40,
+      "ingredientes": ["Arroz: 180 g", "Bacalao desalado: 250 g", "Pimiento rojo: 1 ud", "Cebolla: 1 ud", "Tomate triturado: 100 g", "Ajo: 2 dientes", "Caldo de pescado: 700 ml", "Azafrán", "Aceite de oliva"],
+      "pasos": "Sofríe cebolla, pimiento, ajo y tomate. Añade arroz, caldo y azafrán; a los 10 min incorpora el bacalao desmigado y cuece 8 min.",
+      "alergenos": ["pescado", "apio"],
+      "dieta": ["sin_cerdo", "sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "arroz-con-conejo",
+      "nombre": "Arroz con conejo",
+      "tipo": "comida",
+      "minutos": 55,
+      "ingredientes": ["Arroz: 200 g", "Conejo troceado: 500 g", "Pimiento rojo: 1 ud", "Tomate: 1 ud", "Ajo: 2 dientes", "Romero", "Caldo de pollo: 700 ml", "Azafrán", "Aceite de oliva"],
+      "pasos": "Dora el conejo, sofríe pimiento, ajo y tomate rallado. Añade caldo y romero 15 min, luego arroz y azafrán 18 min.",
+      "alergenos": ["apio"],
+      "dieta": ["sin_cerdo", "sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "fideos-a-la-cazuela",
+      "nombre": "Fideos a la cazuela",
+      "tipo": "comida",
+      "minutos": 40,
+      "ingredientes": ["Fideos gruesos: 180 g", "Costillas de cerdo: 300 g", "Salchichas frescas: 2 ud", "Cebolla: 1 ud", "Tomate triturado: 150 g", "Ajo: 2 dientes", "Caldo de pollo: 800 ml", "Pimentón dulce", "Aceite de oliva"],
+      "pasos": "Dora costillas y salchichas, sofríe cebolla, ajo, tomate y pimentón. Añade caldo 15 min y los fideos 10 min más.",
+      "alergenos": ["gluten", "apio"],
+      "dieta": ["sin_lactosa"]
+    },
+    {
+      "id": "espaguetis-a-la-carbonara",
+      "nombre": "Espaguetis a la carbonara",
+      "tipo": "ambas",
+      "minutos": 20,
+      "ingredientes": ["Espaguetis: 200 g", "Panceta: 120 g", "Huevos: 2 ud", "Queso parmesano: 50 g", "Pimienta negra"],
+      "pasos": "Dora la panceta. Bate huevos con queso y pimienta. Mezcla la pasta recién escurrida con la panceta y, fuera del fuego, con el huevo.",
+      "alergenos": ["gluten", "huevo", "lacteos"],
+      "dieta": []
+    },
+    {
+      "id": "espaguetis-a-la-bolonesa",
+      "nombre": "Espaguetis a la boloñesa",
+      "tipo": "comida",
+      "minutos": 50,
+      "ingredientes": ["Espaguetis: 200 g", "Carne picada mixta: 300 g", "Cebolla: 1 ud", "Zanahoria: 1 ud", "Apio: 1 rama", "Tomate triturado: 400 g", "Vino tinto: 100 ml", "Queso parmesano: 30 g", "Aceite de oliva"],
+      "pasos": "Pocha cebolla, zanahoria y apio picados, dora la carne, moja con vino y añade tomate. Cuece 30 min y mezcla con la pasta.",
+      "alergenos": ["gluten", "lacteos", "apio", "sulfitos"],
+      "dieta": []
+    },
+    {
+      "id": "lasana-de-carne",
+      "nombre": "Lasaña de carne",
+      "tipo": "comida",
+      "minutos": 75,
+      "ingredientes": ["Placas de lasaña: 9 ud", "Carne picada mixta: 400 g", "Cebolla: 1 ud", "Zanahoria: 1 ud", "Tomate triturado: 400 g", "Leche: 500 ml", "Harina: 40 g", "Mantequilla: 40 g", "Queso rallado: 80 g", "Nuez moscada"],
+      "pasos": "Haz una boloñesa con la carne y la verdura. Prepara bechamel con mantequilla, harina, leche y nuez moscada. Monta capas, cubre con queso y hornea 30 min a 190 °C.",
+      "alergenos": ["gluten", "lacteos"],
+      "dieta": []
+    },
+    {
+      "id": "canelones-de-carne",
+      "nombre": "Canelones de carne",
+      "tipo": "comida",
+      "minutos": 75,
+      "ingredientes": ["Placas de canelones: 12 ud", "Carne picada mixta: 300 g", "Cebolla: 1 ud", "Tomate frito: 150 g", "Leche: 500 ml", "Harina: 40 g", "Mantequilla: 40 g", "Queso rallado: 60 g"],
+      "pasos": "Cuece las placas. Rellénalas con la carne guisada con cebolla y tomate. Cubre con bechamel y queso y gratina 20 min.",
+      "alergenos": ["gluten", "lacteos"],
+      "dieta": []
+    },
+    {
+      "id": "macarrones-con-chorizo",
+      "nombre": "Macarrones con chorizo",
+      "tipo": "comida",
+      "minutos": 30,
+      "ingredientes": ["Macarrones: 200 g", "Chorizo: 1 ud", "Cebolla: 1 ud", "Tomate triturado: 400 g", "Queso rallado: 60 g", "Aceite de oliva"],
+      "pasos": "Sofríe cebolla y chorizo, añade tomate 15 min. Mezcla con los macarrones cocidos, cubre con queso y gratina.",
+      "alergenos": ["gluten", "lacteos"],
+      "dieta": []
+    },
+    {
+      "id": "espaguetis-con-almejas",
+      "nombre": "Espaguetis con almejas",
+      "tipo": "comida",
+      "minutos": 25,
+      "ingredientes": ["Espaguetis: 200 g", "Almejas: 400 g", "Ajo: 3 dientes", "Perejil: 1 manojo", "Vino blanco: 100 ml", "Guindilla: 1 ud", "Aceite de oliva"],
+      "pasos": "Dora ajo y guindilla, abre las almejas con el vino tapadas. Mezcla con la pasta al dente y perejil.",
+      "alergenos": ["gluten", "sulfitos", "moluscos"],
+      "dieta": ["sin_cerdo", "sin_lactosa"]
+    },
+    {
+      "id": "espaguetis-al-ajillo",
+      "nombre": "Espaguetis al ajillo",
+      "tipo": "cena",
+      "minutos": 15,
+      "ingredientes": ["Espaguetis: 200 g", "Ajo: 4 dientes", "Guindilla: 1 ud", "Perejil: 1 manojo", "Aceite de oliva"],
+      "pasos": "Dora el ajo laminado y la guindilla en aceite a fuego suave. Mezcla con la pasta y un poco de agua de cocción y perejil.",
+      "alergenos": ["gluten"],
+      "dieta": ["vegetariana", "vegana", "sin_cerdo", "sin_lactosa"]
+    },
+    {
+      "id": "pasta-con-salmon-y-nata",
+      "nombre": "Pasta con salmón y nata",
+      "tipo": "ambas",
+      "minutos": 20,
+      "ingredientes": ["Pasta corta: 200 g", "Salmón ahumado: 120 g", "Nata para cocinar: 200 ml", "Cebolla: 1 ud", "Aceite de oliva"],
+      "pasos": "Pocha la cebolla, añade la nata y el salmón en tiras 2 min. Mezcla con la pasta cocida.",
+      "alergenos": ["gluten", "pescado", "lacteos"],
+      "dieta": ["sin_cerdo"]
+    },
+    {
+      "id": "tallarines-con-gambas-y-champinones",
+      "nombre": "Tallarines con gambas y champiñones",
+      "tipo": "ambas",
+      "minutos": 25,
+      "ingredientes": ["Tallarines: 200 g", "Gambas: 200 g", "Champiñones: 200 g", "Ajo: 2 dientes", "Nata para cocinar: 150 ml", "Aceite de oliva"],
+      "pasos": "Saltea ajo, champiñones y gambas, añade la nata 3 min y mezcla con los tallarines.",
+      "alergenos": ["gluten", "crustaceos", "lacteos"],
+      "dieta": ["sin_cerdo"]
+    },
+    {
+      "id": "noquis-con-salsa-de-tomate",
+      "nombre": "Ñoquis con salsa de tomate",
+      "tipo": "ambas",
+      "minutos": 20,
+      "ingredientes": ["Ñoquis: 400 g", "Tomate triturado: 300 g", "Ajo: 1 diente", "Albahaca fresca: 1 manojo", "Queso mozzarella: 125 g", "Aceite de oliva"],
+      "pasos": "Haz una salsa con ajo y tomate 10 min. Cuece los ñoquis hasta que floten, mézclalos con la salsa y la mozzarella y gratina.",
+      "alergenos": ["gluten", "lacteos"],
+      "dieta": ["vegetariana", "sin_cerdo"]
+    },
+    {
+      "id": "pasta-cuatro-quesos",
+      "nombre": "Pasta cuatro quesos",
+      "tipo": "cena",
+      "minutos": 20,
+      "ingredientes": ["Pasta corta: 200 g", "Nata para cocinar: 200 ml", "Queso gorgonzola: 50 g", "Queso mozzarella: 60 g", "Queso parmesano: 30 g", "Queso emmental: 50 g"],
+      "pasos": "Funde los quesos en la nata a fuego suave y mezcla con la pasta recién cocida.",
+      "alergenos": ["gluten", "lacteos"],
+      "dieta": ["vegetariana", "sin_cerdo"]
+    },
+    {
+      "id": "espaguetis-a-la-puttanesca",
+      "nombre": "Espaguetis a la puttanesca",
+      "tipo": "comida",
+      "minutos": 25,
+      "ingredientes": ["Espaguetis: 200 g", "Tomate triturado: 400 g", "Aceitunas negras: 60 g", "Alcaparras: 1 cda", "Anchoas: 1 lata", "Ajo: 2 dientes", "Guindilla: 1 ud", "Aceite de oliva"],
+      "pasos": "Deshaz anchoas y ajo en aceite, añade guindilla, tomate, aceitunas y alcaparras 15 min. Mezcla con la pasta.",
+      "alergenos": ["gluten", "pescado"],
+      "dieta": ["sin_cerdo", "sin_lactosa"]
+    },
+    {
+      "id": "macarrones-con-queso-al-horno",
+      "nombre": "Macarrones con queso al horno",
+      "tipo": "comida",
+      "minutos": 35,
+      "ingredientes": ["Macarrones: 200 g", "Leche: 400 ml", "Mantequilla: 30 g", "Harina: 30 g", "Queso cheddar: 120 g", "Pan rallado: 20 g"],
+      "pasos": "Haz una bechamel, funde en ella el queso y mézclala con los macarrones. Cubre con pan rallado y gratina 15 min.",
+      "alergenos": ["gluten", "lacteos"],
+      "dieta": ["vegetariana", "sin_cerdo"]
+    },
+    {
+      "id": "ensalada-de-pasta-con-pollo",
+      "nombre": "Ensalada de pasta con pollo",
+      "tipo": "ambas",
+      "minutos": 25,
+      "ingredientes": ["Pasta corta: 180 g", "Pechuga de pollo: 200 g", "Tomates cherry: 150 g", "Lechuga: 1 ud", "Maíz dulce: 1 lata", "Yogur griego: 1 ud", "Aceite de oliva"],
+      "pasos": "Cuece la pasta y enfríala. Haz el pollo a la plancha en tiras y mezcla todo con una salsa de yogur y aceite.",
+      "alergenos": ["gluten", "lacteos"],
+      "dieta": ["sin_cerdo"]
+    },
+    {
+      "id": "tortellini-con-nata-y-jamon",
+      "nombre": "Tortellini con nata y jamón",
+      "tipo": "cena",
+      "minutos": 20,
+      "ingredientes": ["Tortellini: 400 g", "Nata para cocinar: 200 ml", "Jamón cocido: 100 g", "Queso parmesano: 30 g"],
+      "pasos": "Cuece los tortellini. Calienta la nata con el jamón en tiras, mezcla y termina con parmesano.",
+      "alergenos": ["gluten", "huevo", "lacteos"],
+      "dieta": []
+    },
+    {
+      "id": "pollo-asado-entero",
+      "nombre": "Pollo asado entero",
+      "tipo": "comida",
+      "minutos": 90,
+      "ingredientes": ["Pollo entero: 1 ud", "Patatas: 4 ud", "Cebolla: 1 ud", "Limón: 1 ud", "Ajo: 4 dientes", "Tomillo", "Vino blanco: 100 ml", "Aceite de oliva"],
+      "pasos": "Unta el pollo con aceite y tomillo, mete el limón dentro. Ásalo sobre patatas y cebolla con el vino 1 h 15 min a 190 °C.",
+      "alergenos": ["sulfitos"],
+      "dieta": ["sin_cerdo", "sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "pollo-en-pepitoria",
+      "nombre": "Pollo en pepitoria",
+      "tipo": "comida",
+      "minutos": 60,
+      "ingredientes": ["Muslos de pollo: 600 g", "Cebolla: 1 ud", "Ajo: 2 dientes", "Almendras: 40 g", "Huevos: 2 ud", "Azafrán", "Vino blanco: 100 ml", "Caldo de pollo: 300 ml", "Harina: 1 cda", "Aceite de oliva"],
+      "pasos": "Dora el pollo enharinado, pocha la cebolla, moja con vino y caldo y cuece 35 min. Espesa con un majado de almendras, ajo, yema cocida y azafrán.",
+      "alergenos": ["gluten", "huevo", "frutos_cascara", "apio", "sulfitos"],
+      "dieta": ["sin_cerdo", "sin_lactosa"]
+    },
+    {
+      "id": "pollo-al-chilindron",
+      "nombre": "Pollo al chilindrón",
+      "tipo": "comida",
+      "minutos": 50,
+      "ingredientes": ["Muslos de pollo: 600 g", "Pimiento rojo: 2 ud", "Cebolla: 1 ud", "Ajo: 2 dientes", "Tomate triturado: 300 g", "Jamón serrano: 60 g", "Vino blanco: 100 ml", "Aceite de oliva"],
+      "pasos": "Dora el pollo, sofríe cebolla, pimiento, ajo y jamón, añade vino y tomate y guisa 35 min tapado.",
+      "alergenos": ["sulfitos"],
+      "dieta": ["sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "pollo-a-la-cerveza",
+      "nombre": "Pollo a la cerveza",
+      "tipo": "comida",
+      "minutos": 50,
+      "ingredientes": ["Muslos de pollo: 600 g", "Cebolla: 2 ud", "Zanahoria: 2 ud", "Cerveza: 330 ml", "Laurel", "Aceite de oliva"],
+      "pasos": "Dora el pollo, pocha cebolla y zanahoria, moja con la cerveza y cuece 35 min con laurel.",
+      "alergenos": ["gluten"],
+      "dieta": ["sin_cerdo", "sin_lactosa"]
+    },
+    {
+      "id": "pollo-al-curry",
+      "nombre": "Pollo al curry",
+      "tipo": "comida",
+      "minutos": 35,
+      "ingredientes": ["Pechuga de pollo: 400 g", "Cebolla: 1 ud", "Ajo: 2 dientes", "Curry en polvo: 2 cda", "Leche de coco: 400 ml", "Arroz basmati: 150 g", "Aceite de oliva"],
+      "pasos": "Pocha cebolla y ajo, dora el pollo en dados con el curry, añade la leche de coco y cuece 15 min. Sirve con arroz.",
+      "alergenos": [],
+      "dieta": ["sin_cerdo", "sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "pollo-empanado",
+      "nombre": "Pollo empanado",
+      "tipo": "cena",
+      "minutos": 25,
+      "ingredientes": ["Pechuga de pollo: 400 g", "Huevos: 2 ud", "Pan rallado: 100 g", "Harina: 50 g", "Limón: 1 ud", "Aceite de girasol: 300 ml"],
+      "pasos": "Pasa los filetes por harina, huevo y pan rallado y fríelos en aceite caliente. Sirve con limón.",
+      "alergenos": ["gluten", "huevo"],
+      "dieta": ["sin_cerdo", "sin_lactosa"]
+    },
+    {
+      "id": "pollo-con-champinones-y-nata",
+      "nombre": "Pollo con champiñones y nata",
+      "tipo": "cena",
+      "minutos": 30,
+      "ingredientes": ["Pechuga de pollo: 400 g", "Champiñones: 250 g", "Cebolla: 1 ud", "Nata para cocinar: 200 ml", "Aceite de oliva"],
+      "pasos": "Dora el pollo en dados, pocha cebolla y champiñones, añade la nata y cuece 8 min.",
+      "alergenos": ["lacteos"],
+      "dieta": ["sin_cerdo", "sin_gluten"]
+    },
+    {
+      "id": "alitas-de-pollo-al-horno",
+      "nombre": "Alitas de pollo al horno",
+      "tipo": "cena",
+      "minutos": 45,
+      "ingredientes": ["Alitas de pollo: 800 g", "Ajo: 2 dientes", "Pimentón dulce", "Miel: 2 cda", "Limón: 1 ud", "Aceite de oliva"],
+      "pasos": "Adoba las alitas con ajo, pimentón, miel, limón y aceite. Hornea 40 min a 200 °C dándoles la vuelta.",
+      "alergenos": [],
+      "dieta": ["sin_cerdo", "sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "pollo-a-la-naranja",
+      "nombre": "Pollo a la naranja",
+      "tipo": "comida",
+      "minutos": 45,
+      "ingredientes": ["Muslos de pollo: 600 g", "Naranjas: 3 ud", "Cebolla: 1 ud", "Miel: 1 cda", "Romero", "Aceite de oliva"],
+      "pasos": "Dora el pollo, añade cebolla, zumo de naranja, miel y romero y hornea o guisa tapado 35 min.",
+      "alergenos": [],
+      "dieta": ["sin_cerdo", "sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "fajitas-de-pollo",
+      "nombre": "Fajitas de pollo",
+      "tipo": "cena",
+      "minutos": 25,
+      "ingredientes": ["Pechuga de pollo: 400 g", "Pimiento rojo: 1 ud", "Pimiento verde: 1 ud", "Cebolla: 1 ud", "Tortillas de trigo: 6 ud", "Especias para fajitas: 1 sobre", "Aceite de oliva"],
+      "pasos": "Saltea pollo y verdura en tiras a fuego vivo con las especias. Rellena las tortillas calientes.",
+      "alergenos": ["gluten"],
+      "dieta": ["sin_cerdo", "sin_lactosa"]
+    },
+    {
+      "id": "pollo-teriyaki",
+      "nombre": "Pollo teriyaki",
+      "tipo": "cena",
+      "minutos": 25,
+      "ingredientes": ["Contramuslos de pollo: 400 g", "Salsa de soja: 4 cda", "Miel: 2 cda", "Jengibre: 20 g", "Ajo: 1 diente", "Arroz: 150 g", "Sésamo: 1 cda"],
+      "pasos": "Dora el pollo en trozos, añade soja, miel, jengibre y ajo rallados y reduce hasta que glasee. Sirve con arroz y sésamo.",
+      "alergenos": ["gluten", "soja", "sesamo"],
+      "dieta": ["sin_cerdo", "sin_lactosa"]
+    },
+    {
+      "id": "pavo-guisado-con-verduras",
+      "nombre": "Pavo guisado con verduras",
+      "tipo": "comida",
+      "minutos": 45,
+      "ingredientes": ["Pechuga de pavo: 500 g", "Zanahoria: 2 ud", "Guisantes: 150 g", "Patatas: 2 ud", "Cebolla: 1 ud", "Tomate triturado: 150 g", "Vino blanco: 100 ml", "Aceite de oliva"],
+      "pasos": "Dora el pavo en dados, sofríe cebolla y zanahoria, añade vino, tomate, patatas y agua. Cuece 25 min y añade los guisantes al final.",
+      "alergenos": ["sulfitos"],
+      "dieta": ["sin_cerdo", "sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "pollo-guisado-con-patatas",
+      "nombre": "Pollo guisado con patatas",
+      "tipo": "comida",
+      "minutos": 55,
+      "ingredientes": ["Muslos de pollo: 600 g", "Patatas: 3 ud", "Cebolla: 1 ud", "Pimiento rojo: 1 ud", "Tomate triturado: 200 g", "Ajo: 2 dientes", "Laurel", "Vino blanco: 100 ml", "Aceite de oliva"],
+      "pasos": "Dora el pollo, sofríe la verdura, añade vino, tomate y agua. Cuece 20 min, añade patatas y cuece 20 min más.",
+      "alergenos": ["sulfitos"],
+      "dieta": ["sin_cerdo", "sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "albondigas-en-salsa",
+      "nombre": "Albóndigas en salsa",
+      "tipo": "comida",
+      "minutos": 50,
+      "ingredientes": ["Carne picada mixta: 500 g", "Huevos: 1 ud", "Pan rallado: 50 g", "Ajo: 1 diente", "Perejil: 1 manojo", "Cebolla: 1 ud", "Zanahoria: 1 ud", "Vino blanco: 100 ml", "Caldo de carne: 300 ml", "Harina: 40 g", "Aceite de oliva"],
+      "pasos": "Forma las albóndigas, enharínalas y fríelas. Pocha cebolla y zanahoria, moja con vino y caldo, tritura y cuece las albóndigas en la salsa 15 min.",
+      "alergenos": ["gluten", "huevo", "apio", "sulfitos"],
+      "dieta": ["sin_lactosa"]
+    },
+    {
+      "id": "filetes-rusos",
+      "nombre": "Filetes rusos",
+      "tipo": "cena",
+      "minutos": 30,
+      "ingredientes": ["Carne picada mixta: 400 g", "Huevos: 1 ud", "Pan rallado: 40 g", "Ajo: 1 diente", "Perejil: 1 manojo", "Harina: 30 g", "Aceite de oliva"],
+      "pasos": "Mezcla carne, huevo, pan rallado, ajo y perejil. Forma filetes, pásalos por harina y fríelos.",
+      "alergenos": ["gluten", "huevo"],
+      "dieta": ["sin_lactosa"]
+    },
+    {
+      "id": "hamburguesas-caseras",
+      "nombre": "Hamburguesas caseras",
+      "tipo": "cena",
+      "minutos": 25,
+      "ingredientes": ["Carne picada de ternera: 400 g", "Pan de hamburguesa: 4 ud", "Queso en lonchas: 4 ud", "Lechuga: 1 ud", "Tomate: 1 ud", "Cebolla: 1 ud", "Aceite de oliva"],
+      "pasos": "Forma las hamburguesas y hazlas a la plancha con el queso encima al final. Monta en el pan con lechuga, tomate y cebolla.",
+      "alergenos": ["gluten", "lacteos"],
+      "dieta": ["sin_cerdo"]
+    },
+    {
+      "id": "carrillada-al-vino-tinto",
+      "nombre": "Carrillada al vino tinto",
+      "tipo": "comida",
+      "minutos": 150,
+      "ingredientes": ["Carrilleras de cerdo: 800 g", "Cebolla: 2 ud", "Zanahoria: 2 ud", "Ajo: 2 dientes", "Vino tinto: 300 ml", "Caldo de carne: 300 ml", "Laurel", "Aceite de oliva"],
+      "pasos": "Dora las carrilleras, sofríe la verdura, moja con vino y caldo y cuece tapado 2 h a fuego suave. Tritura la salsa.",
+      "alergenos": ["apio", "sulfitos"],
+      "dieta": ["sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "estofado-de-ternera-con-guisantes",
+      "nombre": "Estofado de ternera con guisantes",
+      "tipo": "comida",
+      "minutos": 100,
+      "ingredientes": ["Ternera para guisar: 600 g", "Patatas: 3 ud", "Zanahoria: 2 ud", "Cebolla: 1 ud", "Guisantes: 100 g", "Tomate triturado: 150 g", "Vino tinto: 150 ml", "Laurel", "Aceite de oliva"],
+      "pasos": "Dora la carne, sofríe cebolla y zanahoria, añade tomate, vino y agua y cuece 1 h. Añade patatas y guisantes y cuece 25 min.",
+      "alergenos": ["sulfitos"],
+      "dieta": ["sin_cerdo", "sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "rabo-de-toro",
+      "nombre": "Rabo de toro",
+      "tipo": "comida",
+      "minutos": 180,
+      "ingredientes": ["Rabo de ternera: 1200 g", "Cebolla: 2 ud", "Zanahoria: 2 ud", "Pimiento rojo: 1 ud", "Ajo: 3 dientes", "Vino tinto: 400 ml", "Laurel", "Harina: 2 cda", "Aceite de oliva"],
+      "pasos": "Enharina y dora el rabo. Sofríe la verdura, añade vino y agua y cuece 3 h a fuego suave hasta que la carne se despegue. Tritura la salsa.",
+      "alergenos": ["gluten", "sulfitos"],
+      "dieta": ["sin_cerdo", "sin_lactosa"]
+    },
+    {
+      "id": "solomillo-de-cerdo-a-la-pimienta",
+      "nombre": "Solomillo de cerdo a la pimienta",
+      "tipo": "cena",
+      "minutos": 30,
+      "ingredientes": ["Solomillo de cerdo: 500 g", "Nata para cocinar: 200 ml", "Pimienta verde en grano: 1 cda", "Brandy: 30 ml", "Aceite de oliva"],
+      "pasos": "Dora el solomillo en medallones. Flambea con brandy, añade la pimienta y la nata y reduce 5 min.",
+      "alergenos": ["lacteos", "sulfitos"],
+      "dieta": ["sin_gluten"]
+    },
+    {
+      "id": "solomillo-al-whisky",
+      "nombre": "Solomillo al whisky",
+      "tipo": "comida",
+      "minutos": 30,
+      "ingredientes": ["Solomillo de cerdo: 500 g", "Ajo: 6 dientes", "Whisky: 100 ml", "Caldo de carne: 150 ml", "Limón: 1 ud", "Aceite de oliva"],
+      "pasos": "Dora los ajos y el solomillo en medallones. Añade whisky, caldo y zumo de limón y reduce 10 min.",
+      "alergenos": ["apio"],
+      "dieta": ["sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "lomo-al-horno-con-manzanas",
+      "nombre": "Lomo al horno con manzanas",
+      "tipo": "comida",
+      "minutos": 60,
+      "ingredientes": ["Cinta de lomo: 700 g", "Manzanas: 3 ud", "Cebolla: 1 ud", "Vino blanco: 150 ml", "Tomillo", "Aceite de oliva"],
+      "pasos": "Dora la cinta, ponla en una fuente con manzanas y cebolla en gajos, vino y tomillo. Hornea 45 min a 180 °C.",
+      "alergenos": ["sulfitos"],
+      "dieta": ["sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "costillas-al-horno-con-miel",
+      "nombre": "Costillas al horno con miel",
+      "tipo": "comida",
+      "minutos": 90,
+      "ingredientes": ["Costillas de cerdo: 1000 g", "Miel: 3 cda", "Salsa de soja: 3 cda", "Ajo: 2 dientes", "Pimentón dulce", "Patatas: 3 ud"],
+      "pasos": "Adoba las costillas con miel, soja, ajo y pimentón. Hornea tapadas 1 h a 170 °C con las patatas y destapa 20 min a 210 °C.",
+      "alergenos": ["gluten", "soja"],
+      "dieta": ["sin_lactosa"]
+    },
+    {
+      "id": "secreto-iberico-con-pimientos-de-padron",
+      "nombre": "Secreto ibérico con pimientos de Padrón",
+      "tipo": "cena",
+      "minutos": 20,
+      "ingredientes": ["Secreto ibérico: 400 g", "Pimientos de Padrón: 200 g", "Aceite de oliva"],
+      "pasos": "Haz el secreto a la plancha muy caliente 3 min por lado y fríe los pimientos. Corta la carne en tiras.",
+      "alergenos": [],
+      "dieta": ["sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "chuletas-de-cerdo-con-pimientos",
+      "nombre": "Chuletas de cerdo con pimientos",
+      "tipo": "cena",
+      "minutos": 25,
+      "ingredientes": ["Chuletas de cerdo: 4 ud", "Pimiento verde: 2 ud", "Ajo: 2 dientes", "Aceite de oliva"],
+      "pasos": "Fríe los pimientos en tiras con ajo a fuego suave. Haz las chuletas a la plancha.",
+      "alergenos": [],
+      "dieta": ["sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "lomo-adobado-con-huevo-y-patatas",
+      "nombre": "Lomo adobado con huevo y patatas",
+      "tipo": "cena",
+      "minutos": 30,
+      "ingredientes": ["Lomo adobado: 400 g", "Patatas: 3 ud", "Huevos: 2 ud", "Aceite de oliva"],
+      "pasos": "Fríe las patatas, después el lomo a la plancha y por último los huevos.",
+      "alergenos": ["huevo"],
+      "dieta": ["sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "cordero-asado-con-patatas",
+      "nombre": "Cordero asado con patatas",
+      "tipo": "comida",
+      "minutos": 120,
+      "ingredientes": ["Paletilla de cordero: 1 ud", "Patatas: 4 ud", "Ajo: 4 dientes", "Vino blanco: 200 ml", "Romero", "Aceite de oliva"],
+      "pasos": "Pon la paletilla sobre patatas en rodajas con ajos, romero, vino y un vaso de agua. Asa 1 h 30 min a 180 °C dándole la vuelta a mitad.",
+      "alergenos": ["sulfitos"],
+      "dieta": ["sin_cerdo", "sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "caldereta-de-cordero",
+      "nombre": "Caldereta de cordero",
+      "tipo": "comida",
+      "minutos": 90,
+      "ingredientes": ["Cordero para guisar: 800 g", "Pimiento rojo: 1 ud", "Cebolla: 1 ud", "Ajo: 3 dientes", "Tomate triturado: 200 g", "Vino blanco: 150 ml", "Pimentón dulce", "Laurel", "Aceite de oliva"],
+      "pasos": "Dora el cordero, sofríe la verdura y el pimentón, añade tomate, vino y agua y guisa 1 h 15 min.",
+      "alergenos": ["sulfitos"],
+      "dieta": ["sin_cerdo", "sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "entrecot-con-patatas-y-pimientos",
+      "nombre": "Entrecot con patatas y pimientos",
+      "tipo": "cena",
+      "minutos": 25,
+      "ingredientes": ["Entrecot de ternera: 2 ud", "Patatas: 3 ud", "Pimientos de Padrón: 150 g", "Aceite de oliva"],
+      "pasos": "Fríe las patatas y los pimientos. Haz el entrecot a la plancha muy caliente al punto que te guste.",
+      "alergenos": [],
+      "dieta": ["sin_cerdo", "sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "filete-de-ternera-con-ensalada",
+      "nombre": "Filete de ternera con ensalada",
+      "tipo": "cena",
+      "minutos": 15,
+      "ingredientes": ["Filetes de ternera: 400 g", "Lechuga: 1 ud", "Tomate: 2 ud", "Cebolla: 1 ud", "Aceite de oliva"],
+      "pasos": "Haz los filetes a la plancha 1-2 min por lado y sírvelos con ensalada.",
+      "alergenos": [],
+      "dieta": ["sin_cerdo", "sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "ternera-al-wok-con-verduras",
+      "nombre": "Ternera al wok con verduras",
+      "tipo": "cena",
+      "minutos": 20,
+      "ingredientes": ["Filetes de ternera: 400 g", "Pimiento rojo: 1 ud", "Calabacín: 1 ud", "Cebolla: 1 ud", "Salsa de soja: 3 cda", "Jengibre: 15 g", "Aceite de oliva"],
+      "pasos": "Saltea la ternera en tiras a fuego vivo y resérvala. Saltea la verdura con jengibre, vuelve a poner la carne y añade la soja.",
+      "alergenos": ["gluten", "soja"],
+      "dieta": ["sin_cerdo", "sin_lactosa"]
+    },
+    {
+      "id": "ropa-vieja",
+      "nombre": "Ropa vieja",
+      "tipo": "comida",
+      "minutos": 30,
+      "ingredientes": ["Morcillo de ternera: 400 g", "Garbanzos cocidos: 300 g", "Cebolla: 1 ud", "Pimiento rojo: 1 ud", "Tomate triturado: 150 g", "Ajo: 2 dientes", "Aceite de oliva"],
+      "pasos": "Desmiga la carne cocida. Sofríe cebolla, pimiento, ajo y tomate, añade carne y garbanzos y saltea 10 min.",
+      "alergenos": [],
+      "dieta": ["sin_cerdo", "sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "flamenquines",
+      "nombre": "Flamenquines",
+      "tipo": "cena",
+      "minutos": 40,
+      "ingredientes": ["Filetes de lomo de cerdo: 8 ud", "Jamón serrano: 8 lonchas", "Queso en lonchas: 8 ud", "Huevos: 2 ud", "Pan rallado: 100 g", "Harina: 50 g", "Aceite de girasol: 500 ml"],
+      "pasos": "Pon jamón y queso sobre cada filete y enróllalo. Pásalo por harina, huevo y pan rallado y fríelo.",
+      "alergenos": ["gluten", "huevo", "lacteos"],
+      "dieta": []
+    },
+    {
+      "id": "san-jacobos",
+      "nombre": "San Jacobos",
+      "tipo": "cena",
+      "minutos": 20,
+      "ingredientes": ["Filetes de lomo de cerdo: 8 ud", "Jamón cocido: 4 lonchas", "Queso en lonchas: 4 ud", "Huevos: 2 ud", "Pan rallado: 100 g", "Aceite de girasol: 300 ml"],
+      "pasos": "Junta dos filetes con jamón y queso en medio. Pásalos por huevo y pan rallado y fríelos.",
+      "alergenos": ["gluten", "huevo", "lacteos"],
+      "dieta": []
+    },
+    {
+      "id": "croquetas-de-jamon",
+      "nombre": "Croquetas de jamón",
+      "tipo": "cena",
+      "minutos": 90,
+      "ingredientes": ["Jamón serrano: 120 g", "Leche: 750 ml", "Harina: 90 g", "Mantequilla: 60 g", "Cebolla: 0.5 ud", "Huevos: 2 ud", "Pan rallado: 150 g", "Aceite de girasol: 500 ml", "Nuez moscada"],
+      "pasos": "Pocha la cebolla y el jamón en mantequilla, tuesta la harina y añade la leche poco a poco. Enfría la masa, forma croquetas, rebózalas y fríelas.",
+      "alergenos": ["gluten", "huevo", "lacteos"],
+      "dieta": []
+    },
+    {
+      "id": "croquetas-de-pollo",
+      "nombre": "Croquetas de pollo",
+      "tipo": "cena",
+      "minutos": 90,
+      "ingredientes": ["Pechuga de pollo: 250 g", "Leche: 750 ml", "Harina: 90 g", "Mantequilla: 60 g", "Huevos: 2 ud", "Pan rallado: 150 g", "Aceite de girasol: 500 ml"],
+      "pasos": "Haz una bechamel espesa con el pollo cocido y picado. Enfría, forma las croquetas, pásalas por huevo y pan rallado y fríelas.",
+      "alergenos": ["gluten", "huevo", "lacteos"],
+      "dieta": ["sin_cerdo"]
+    },
+    {
+      "id": "empanada-gallega-de-atun",
+      "nombre": "Empanada gallega de atún",
+      "tipo": "cena",
+      "minutos": 60,
+      "ingredientes": ["Masa de empanada: 2 ud", "Atún en lata: 3 latas", "Cebolla: 2 ud", "Pimiento rojo: 1 ud", "Tomate frito: 150 g", "Huevos: 2 ud", "Aceite de oliva"],
+      "pasos": "Pocha cebolla y pimiento, mezcla con tomate, atún y huevo duro. Rellena la masa, ciérrala, píntala con huevo y hornea 35 min a 180 °C.",
+      "alergenos": ["gluten", "huevo", "pescado"],
+      "dieta": ["sin_cerdo", "sin_lactosa"]
+    },
+    {
+      "id": "higado-encebollado",
+      "nombre": "Hígado encebollado",
+      "tipo": "comida",
+      "minutos": 25,
+      "ingredientes": ["Hígado de ternera: 400 g", "Cebolla: 2 ud", "Ajo: 2 dientes", "Vino blanco: 50 ml", "Aceite de oliva"],
+      "pasos": "Pocha bien la cebolla. Saltea el hígado en tiras con ajo 2 min, añade el vino y mézclalo con la cebolla.",
+      "alergenos": ["sulfitos"],
+      "dieta": ["sin_cerdo", "sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "conejo-guisado-con-patatas",
+      "nombre": "Conejo guisado con patatas",
+      "tipo": "comida",
+      "minutos": 60,
+      "ingredientes": ["Conejo troceado: 800 g", "Patatas: 3 ud", "Cebolla: 1 ud", "Tomate triturado: 150 g", "Ajo: 3 dientes", "Vino blanco: 100 ml", "Tomillo", "Aceite de oliva"],
+      "pasos": "Dora el conejo, sofríe cebolla y ajo, añade tomate, vino, tomillo y agua. Cuece 20 min, añade patatas y cuece 25 min.",
+      "alergenos": ["sulfitos"],
+      "dieta": ["sin_cerdo", "sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "pechuga-rellena-de-jamon-y-queso",
+      "nombre": "Pechuga rellena de jamón y queso",
+      "tipo": "cena",
+      "minutos": 35,
+      "ingredientes": ["Pechuga de pollo: 2 ud", "Jamón cocido: 4 lonchas", "Queso en lonchas: 4 ud", "Aceite de oliva"],
+      "pasos": "Abre las pechugas en libro, rellénalas de jamón y queso, ciérralas con palillos y hornéalas 20 min a 200 °C.",
+      "alergenos": ["lacteos"],
+      "dieta": ["sin_gluten"]
+    },
+    {
+      "id": "salchichas-al-vino-blanco",
+      "nombre": "Salchichas al vino blanco",
+      "tipo": "cena",
+      "minutos": 25,
+      "ingredientes": ["Salchichas frescas: 8 ud", "Cebolla: 1 ud", "Vino blanco: 150 ml", "Aceite de oliva"],
+      "pasos": "Dora las salchichas, añade la cebolla en juliana y el vino y cuece 15 min hasta que reduzca.",
+      "alergenos": ["sulfitos"],
+      "dieta": ["sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "butifarra-con-judias",
+      "nombre": "Butifarra con judías",
+      "tipo": "comida",
+      "minutos": 30,
+      "ingredientes": ["Butifarra: 2 ud", "Alubias blancas cocidas: 400 g", "Ajo: 2 dientes", "Perejil: 1 manojo", "Aceite de oliva"],
+      "pasos": "Haz la butifarra a la plancha. Saltea las alubias con ajo y perejil hasta que se doren un poco.",
+      "alergenos": [],
+      "dieta": ["sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "migas-extremenas",
+      "nombre": "Migas extremeñas",
+      "tipo": "comida",
+      "minutos": 40,
+      "ingredientes": ["Pan duro: 300 g", "Panceta: 100 g", "Chorizo: 1 ud", "Ajo: 4 dientes", "Pimiento verde: 1 ud", "Pimentón dulce", "Aceite de oliva"],
+      "pasos": "Humedece el pan troceado la víspera. Fríe ajos, panceta, chorizo y pimiento, añade el pan y el pimentón y remueve 20 min hasta que se suelten.",
+      "alergenos": ["gluten"],
+      "dieta": ["sin_lactosa"]
+    },
+    {
+      "id": "huevos-rotos-con-jamon",
+      "nombre": "Huevos rotos con jamón",
+      "tipo": "cena",
+      "minutos": 30,
+      "ingredientes": ["Patatas: 4 ud", "Huevos: 4 ud", "Jamón serrano: 100 g", "Aceite de oliva"],
+      "pasos": "Fríe las patatas en gajos finos. Fríe los huevos, ponlos encima con el jamón y rómpelos al servir.",
+      "alergenos": ["huevo"],
+      "dieta": ["sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "huevos-a-la-flamenca",
+      "nombre": "Huevos a la flamenca",
+      "tipo": "cena",
+      "minutos": 30,
+      "ingredientes": ["Huevos: 4 ud", "Tomate frito: 300 g", "Guisantes: 100 g", "Chorizo: 1 ud", "Jamón serrano: 60 g", "Espárragos blancos: 1 lata"],
+      "pasos": "Pon tomate, guisantes, chorizo y jamón en cazuelitas, casca los huevos encima con los espárragos y hornea 10 min a 200 °C.",
+      "alergenos": ["huevo"],
+      "dieta": ["sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "tortilla-paisana",
+      "nombre": "Tortilla paisana",
+      "tipo": "cena",
+      "minutos": 30,
+      "ingredientes": ["Huevos: 5 ud", "Patatas: 2 ud", "Pimiento rojo: 1 ud", "Guisantes: 80 g", "Chorizo: 1 ud", "Cebolla: 1 ud", "Aceite de oliva"],
+      "pasos": "Pocha patata, cebolla y pimiento, añade chorizo y guisantes. Mezcla con el huevo y cuaja por los dos lados.",
+      "alergenos": ["huevo"],
+      "dieta": ["sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "tortilla-francesa-con-jamon-y-queso",
+      "nombre": "Tortilla francesa con jamón y queso",
+      "tipo": "cena",
+      "minutos": 10,
+      "ingredientes": ["Huevos: 4 ud", "Jamón cocido: 60 g", "Queso en lonchas: 2 ud", "Aceite de oliva"],
+      "pasos": "Bate los huevos, cuájalos en la sartén, pon jamón y queso en el centro y dóblala.",
+      "alergenos": ["huevo", "lacteos"],
+      "dieta": ["sin_gluten"]
+    },
+    {
+      "id": "revuelto-de-morcilla-con-pinones",
+      "nombre": "Revuelto de morcilla con piñones",
+      "tipo": "cena",
+      "minutos": 15,
+      "ingredientes": ["Morcilla: 1 ud", "Huevos: 4 ud", "Piñones: 20 g", "Aceite de oliva"],
+      "pasos": "Deshaz la morcilla en la sartén con los piñones, añade el huevo y remueve hasta que cuaje.",
+      "alergenos": ["huevo"],
+      "dieta": ["sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "patatas-a-lo-pobre-con-huevo",
+      "nombre": "Patatas a lo pobre con huevo",
+      "tipo": "cena",
+      "minutos": 35,
+      "ingredientes": ["Patatas: 4 ud", "Cebolla: 1 ud", "Pimiento verde: 1 ud", "Huevos: 2 ud", "Aceite de oliva"],
+      "pasos": "Pocha patatas en rodajas, cebolla y pimiento a fuego suave 25 min. Sirve con huevo frito.",
+      "alergenos": ["huevo"],
+      "dieta": ["vegetariana", "sin_cerdo", "sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "patatas-a-la-riojana",
+      "nombre": "Patatas a la riojana",
+      "tipo": "comida",
+      "minutos": 50,
+      "ingredientes": ["Patatas: 4 ud", "Chorizo: 1 ud", "Cebolla: 1 ud", "Pimiento verde: 1 ud", "Ajo: 2 dientes", "Pimentón dulce", "Laurel", "Aceite de oliva"],
+      "pasos": "Sofríe cebolla, pimiento y chorizo, añade pimentón, patatas cascadas, laurel y agua. Cuece 30 min.",
+      "alergenos": [],
+      "dieta": ["sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "patatas-con-costillas",
+      "nombre": "Patatas con costillas",
+      "tipo": "comida",
+      "minutos": 60,
+      "ingredientes": ["Patatas: 4 ud", "Costillas de cerdo: 400 g", "Pimiento verde: 1 ud", "Cebolla: 1 ud", "Tomate triturado: 150 g", "Pimentón dulce", "Laurel", "Aceite de oliva"],
+      "pasos": "Dora las costillas, sofríe la verdura con pimentón y tomate, añade agua y cuece 25 min. Añade patatas y cuece 25 min más.",
+      "alergenos": [],
+      "dieta": ["sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "patatas-bravas",
+      "nombre": "Patatas bravas",
+      "tipo": "cena",
+      "minutos": 35,
+      "ingredientes": ["Patatas: 4 ud", "Tomate frito: 150 g", "Pimentón picante", "Mayonesa: 3 cda", "Ajo: 1 diente", "Aceite de oliva"],
+      "pasos": "Fríe las patatas en dados en dos tandas. Sirve con salsa de tomate y pimentón picante y alioli rápido de mayonesa con ajo.",
+      "alergenos": ["huevo"],
+      "dieta": ["vegetariana", "sin_cerdo", "sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "patatas-rellenas-al-horno",
+      "nombre": "Patatas rellenas al horno",
+      "tipo": "cena",
+      "minutos": 60,
+      "ingredientes": ["Patatas: 4 ud", "Carne picada mixta: 200 g", "Cebolla: 1 ud", "Tomate frito: 100 g", "Queso rallado: 60 g", "Aceite de oliva"],
+      "pasos": "Asa las patatas 40 min, vacíalas y mezcla la pulpa con la carne sofrita con cebolla y tomate. Rellena, cubre con queso y gratina.",
+      "alergenos": ["lacteos"],
+      "dieta": ["sin_gluten"]
+    },
+    {
+      "id": "pastel-de-carne-y-patata",
+      "nombre": "Pastel de carne y patata",
+      "tipo": "comida",
+      "minutos": 60,
+      "ingredientes": ["Patatas: 5 ud", "Carne picada mixta: 400 g", "Cebolla: 1 ud", "Tomate frito: 150 g", "Leche: 100 ml", "Mantequilla: 30 g", "Queso rallado: 60 g", "Aceite de oliva"],
+      "pasos": "Haz un puré con patata, leche y mantequilla. Pon la carne guisada con cebolla y tomate en una fuente, cubre con el puré y el queso y gratina 15 min.",
+      "alergenos": ["lacteos"],
+      "dieta": ["sin_gluten"]
+    },
+    {
+      "id": "merluza-a-la-romana",
+      "nombre": "Merluza a la romana",
+      "tipo": "cena",
+      "minutos": 25,
+      "ingredientes": ["Merluza: 500 g", "Huevos: 2 ud", "Harina: 80 g", "Limón: 1 ud", "Aceite de girasol: 300 ml"],
+      "pasos": "Pasa los trozos de merluza por harina y huevo batido y fríelos en aceite caliente. Sirve con limón.",
+      "alergenos": ["gluten", "huevo", "pescado"],
+      "dieta": ["sin_cerdo", "sin_lactosa"]
+    },
+    {
+      "id": "merluza-a-la-gallega",
+      "nombre": "Merluza a la gallega",
+      "tipo": "comida",
+      "minutos": 35,
+      "ingredientes": ["Merluza: 500 g", "Patatas: 3 ud", "Ajo: 3 dientes", "Pimentón dulce", "Laurel", "Aceite de oliva"],
+      "pasos": "Cuece las patatas en rodajas con laurel 15 min, añade la merluza 6 min. Escurre y riega con un refrito de ajo y pimentón.",
+      "alergenos": ["pescado"],
+      "dieta": ["sin_cerdo", "sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "bacalao-a-la-vizcaina",
+      "nombre": "Bacalao a la vizcaína",
+      "tipo": "comida",
+      "minutos": 50,
+      "ingredientes": ["Bacalao desalado: 500 g", "Pimiento choricero: 4 ud", "Cebolla: 2 ud", "Ajo: 2 dientes", "Tomate triturado: 150 g", "Aceite de oliva"],
+      "pasos": "Pocha la cebolla con ajo, añade la carne de los choriceros hidratados y el tomate, tritura. Cuece el bacalao en la salsa 10 min.",
+      "alergenos": ["pescado"],
+      "dieta": ["sin_cerdo", "sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "bacalao-al-pil-pil",
+      "nombre": "Bacalao al pil pil",
+      "tipo": "comida",
+      "minutos": 40,
+      "ingredientes": ["Bacalao desalado: 500 g", "Ajo: 6 dientes", "Guindilla: 1 ud", "Aceite de oliva: 250 ml"],
+      "pasos": "Confita ajo y guindilla y retíralos. Cuece el bacalao en el aceite templado con la piel hacia arriba y mueve la cazuela hasta que ligue la salsa.",
+      "alergenos": ["pescado"],
+      "dieta": ["sin_cerdo", "sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "bacalao-dorado",
+      "nombre": "Bacalao dorado",
+      "tipo": "cena",
+      "minutos": 25,
+      "ingredientes": ["Bacalao desalado: 300 g", "Patatas paja: 150 g", "Huevos: 4 ud", "Cebolla: 1 ud", "Aceitunas negras: 40 g", "Perejil: 1 manojo", "Aceite de oliva"],
+      "pasos": "Pocha la cebolla, añade el bacalao desmigado y las patatas paja. Incorpora los huevos batidos y remueve hasta que cuajen jugosos.",
+      "alergenos": ["huevo", "pescado"],
+      "dieta": ["sin_cerdo", "sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "atun-encebollado",
+      "nombre": "Atún encebollado",
+      "tipo": "comida",
+      "minutos": 35,
+      "ingredientes": ["Atún fresco: 500 g", "Cebolla: 3 ud", "Ajo: 2 dientes", "Vino blanco: 100 ml", "Laurel", "Aceite de oliva"],
+      "pasos": "Pocha mucha cebolla con ajo y laurel 20 min, moja con vino y añade el atún en tacos 5 min.",
+      "alergenos": ["pescado", "sulfitos"],
+      "dieta": ["sin_cerdo", "sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "salmon-con-salsa-de-yogur-y-eneldo",
+      "nombre": "Salmón con salsa de yogur y eneldo",
+      "tipo": "cena",
+      "minutos": 20,
+      "ingredientes": ["Salmón: 2 lomos", "Yogur griego: 1 ud", "Eneldo", "Limón: 1 ud", "Aceite de oliva"],
+      "pasos": "Haz el salmón a la plancha. Mezcla yogur, eneldo, limón y aceite y sirve la salsa por encima.",
+      "alergenos": ["pescado", "lacteos"],
+      "dieta": ["sin_cerdo", "sin_gluten"]
+    },
+    {
+      "id": "lubina-a-la-sal",
+      "nombre": "Lubina a la sal",
+      "tipo": "comida",
+      "minutos": 40,
+      "ingredientes": ["Lubina: 1 ud", "Sal gorda: 2000 g", "Limón: 1 ud", "Aceite de oliva"],
+      "pasos": "Cubre la lubina entera con sal gorda humedecida y hornea 25 min a 200 °C. Rompe la costra y sirve con aceite y limón.",
+      "alergenos": ["pescado"],
+      "dieta": ["sin_cerdo", "sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "dorada-a-la-espalda",
+      "nombre": "Dorada a la espalda",
+      "tipo": "cena",
+      "minutos": 25,
+      "ingredientes": ["Dorada: 2 ud", "Ajo: 4 dientes", "Guindilla: 1 ud", "Vinagre de vino", "Perejil: 1 manojo", "Aceite de oliva"],
+      "pasos": "Hornea la dorada abierta 15 min a 200 °C. Riégala con un refrito de ajo, guindilla, vinagre y perejil.",
+      "alergenos": ["pescado", "sulfitos"],
+      "dieta": ["sin_cerdo", "sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "boquerones-fritos",
+      "nombre": "Boquerones fritos",
+      "tipo": "cena",
+      "minutos": 25,
+      "ingredientes": ["Boquerones: 500 g", "Harina: 100 g", "Limón: 1 ud", "Aceite de girasol: 500 ml"],
+      "pasos": "Limpia los boquerones, enharínalos sacudiendo el exceso y fríelos en tandas en aceite muy caliente.",
+      "alergenos": ["gluten", "pescado"],
+      "dieta": ["sin_cerdo", "sin_lactosa"]
+    },
+    {
+      "id": "boquerones-en-vinagre",
+      "nombre": "Boquerones en vinagre",
+      "tipo": "cena",
+      "minutos": 30,
+      "ingredientes": ["Boquerones: 500 g", "Vinagre de vino: 250 ml", "Ajo: 3 dientes", "Perejil: 1 manojo", "Aceite de oliva"],
+      "pasos": "Congela los boquerones 5 días antes. Límpialos en filetes, cúbrelos de vinagre con algo de agua 6 h y sírvelos con aceite, ajo y perejil.",
+      "alergenos": ["pescado", "sulfitos"],
+      "dieta": ["sin_cerdo", "sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "calamares-a-la-romana",
+      "nombre": "Calamares a la romana",
+      "tipo": "cena",
+      "minutos": 30,
+      "ingredientes": ["Calamar: 500 g", "Harina: 100 g", "Huevos: 1 ud", "Limón: 1 ud", "Aceite de girasol: 500 ml"],
+      "pasos": "Corta el calamar en anillas, pásalas por harina y huevo y fríelas en aceite caliente.",
+      "alergenos": ["gluten", "huevo", "moluscos"],
+      "dieta": ["sin_cerdo", "sin_lactosa"]
+    },
+    {
+      "id": "calamares-en-su-tinta",
+      "nombre": "Calamares en su tinta",
+      "tipo": "comida",
+      "minutos": 50,
+      "ingredientes": ["Calamar: 600 g", "Cebolla: 2 ud", "Ajo: 2 dientes", "Tomate triturado: 150 g", "Tinta de calamar: 2 sobres", "Vino blanco: 100 ml", "Arroz: 150 g", "Aceite de oliva"],
+      "pasos": "Pocha cebolla y ajo, añade los calamares, vino, tomate y tinta y cuece 35 min. Sirve con arroz blanco.",
+      "alergenos": ["sulfitos", "moluscos"],
+      "dieta": ["sin_cerdo", "sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "chipirones-encebollados",
+      "nombre": "Chipirones encebollados",
+      "tipo": "cena",
+      "minutos": 30,
+      "ingredientes": ["Chipirones: 500 g", "Cebolla: 2 ud", "Ajo: 2 dientes", "Vino blanco: 50 ml", "Aceite de oliva"],
+      "pasos": "Pocha la cebolla a fuego suave 15 min, añade ajo y los chipirones y saltea 5 min con el vino.",
+      "alergenos": ["sulfitos", "moluscos"],
+      "dieta": ["sin_cerdo", "sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "fritura-malaguena",
+      "nombre": "Fritura malagueña",
+      "tipo": "comida",
+      "minutos": 40,
+      "ingredientes": ["Boquerones: 250 g", "Calamar: 250 g", "Gambas: 200 g", "Salmonetes: 4 ud", "Harina: 150 g", "Limón: 1 ud", "Aceite de girasol: 700 ml"],
+      "pasos": "Enharina cada pescado por separado y fríelo en tandas en aceite muy caliente. Escurre y sirve con limón.",
+      "alergenos": ["gluten", "crustaceos", "pescado", "moluscos"],
+      "dieta": ["sin_cerdo", "sin_lactosa"]
+    },
+    {
+      "id": "gambas-a-la-plancha",
+      "nombre": "Gambas a la plancha",
+      "tipo": "cena",
+      "minutos": 10,
+      "ingredientes": ["Gambas: 500 g", "Sal gorda: 20 g", "Limón: 1 ud", "Aceite de oliva"],
+      "pasos": "Pon las gambas en la plancha muy caliente con sal gorda 1-2 min por lado.",
+      "alergenos": ["crustaceos"],
+      "dieta": ["sin_cerdo", "sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "langostinos-con-salsa-rosa",
+      "nombre": "Langostinos con salsa rosa",
+      "tipo": "cena",
+      "minutos": 15,
+      "ingredientes": ["Langostinos: 500 g", "Mayonesa: 4 cda", "Tomate frito: 2 cda", "Lechuga: 1 ud"],
+      "pasos": "Cuece los langostinos 2 min en agua con sal y enfríalos en hielo. Sírvelos con lechuga y mayonesa mezclada con tomate.",
+      "alergenos": ["crustaceos", "huevo"],
+      "dieta": ["sin_cerdo", "sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "almejas-a-la-marinera",
+      "nombre": "Almejas a la marinera",
+      "tipo": "cena",
+      "minutos": 30,
+      "ingredientes": ["Almejas: 600 g", "Cebolla: 1 ud", "Ajo: 2 dientes", "Harina: 1 cda", "Pimentón dulce", "Vino blanco: 100 ml", "Perejil: 1 manojo", "Aceite de oliva"],
+      "pasos": "Pocha cebolla y ajo, añade harina y pimentón, moja con vino y un poco de agua. Abre las almejas en la salsa y termina con perejil.",
+      "alergenos": ["gluten", "sulfitos", "moluscos"],
+      "dieta": ["sin_cerdo", "sin_lactosa"]
+    },
+    {
+      "id": "mejillones-al-vapor",
+      "nombre": "Mejillones al vapor",
+      "tipo": "cena",
+      "minutos": 15,
+      "ingredientes": ["Mejillones: 1500 g", "Limón: 1 ud", "Laurel", "Vino blanco: 50 ml"],
+      "pasos": "Limpia los mejillones y ábrelos tapados en una olla con vino y laurel 4-5 min. Sirve con limón.",
+      "alergenos": ["sulfitos", "moluscos"],
+      "dieta": ["sin_cerdo", "sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "zarzuela-de-pescado-y-marisco",
+      "nombre": "Zarzuela de pescado y marisco",
+      "tipo": "comida",
+      "minutos": 50,
+      "ingredientes": ["Merluza: 300 g", "Rape: 300 g", "Gambas: 200 g", "Mejillones: 300 g", "Almejas: 200 g", "Cebolla: 1 ud", "Tomate triturado: 200 g", "Ajo: 2 dientes", "Almendras: 30 g", "Brandy: 30 ml", "Caldo de pescado: 400 ml", "Aceite de oliva"],
+      "pasos": "Haz un sofrito de cebolla, ajo y tomate, flambea con brandy y añade el caldo y un majado de almendras. Cuece el pescado y el marisco en la salsa 8 min.",
+      "alergenos": ["crustaceos", "pescado", "frutos_cascara", "apio", "sulfitos", "moluscos"],
+      "dieta": ["sin_cerdo", "sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "rape-con-gambas-en-salsa",
+      "nombre": "Rape con gambas en salsa",
+      "tipo": "comida",
+      "minutos": 35,
+      "ingredientes": ["Rape: 600 g", "Gambas: 200 g", "Cebolla: 1 ud", "Ajo: 2 dientes", "Tomate triturado: 150 g", "Vino blanco: 100 ml", "Harina: 1 cda", "Aceite de oliva"],
+      "pasos": "Dora el rape enharinado. Sofríe cebolla, ajo y tomate, moja con vino y cuece el rape y las gambas en la salsa 8 min.",
+      "alergenos": ["gluten", "crustaceos", "pescado", "sulfitos"],
+      "dieta": ["sin_cerdo", "sin_lactosa"]
+    },
+    {
+      "id": "pez-espada-a-la-plancha",
+      "nombre": "Pez espada a la plancha",
+      "tipo": "cena",
+      "minutos": 15,
+      "ingredientes": ["Pez espada: 2 filetes", "Ajo: 2 dientes", "Perejil: 1 manojo", "Limón: 1 ud", "Aceite de oliva"],
+      "pasos": "Haz el pez espada a la plancha 2 min por lado y riégalo con ajo y perejil picados en aceite y limón.",
+      "alergenos": ["pescado"],
+      "dieta": ["sin_cerdo", "sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "bonito-con-tomate",
+      "nombre": "Bonito con tomate",
+      "tipo": "comida",
+      "minutos": 40,
+      "ingredientes": ["Bonito: 500 g", "Tomate triturado: 400 g", "Cebolla: 1 ud", "Pimiento verde: 1 ud", "Ajo: 2 dientes", "Aceite de oliva"],
+      "pasos": "Haz una salsa de tomate con cebolla, pimiento y ajo 25 min. Añade el bonito en tacos y cuece 5 min.",
+      "alergenos": ["pescado"],
+      "dieta": ["sin_cerdo", "sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "salmon-teriyaki",
+      "nombre": "Salmón teriyaki",
+      "tipo": "cena",
+      "minutos": 20,
+      "ingredientes": ["Salmón: 2 lomos", "Salsa de soja: 3 cda", "Miel: 1 cda", "Jengibre: 10 g", "Sésamo: 1 cda", "Arroz: 150 g"],
+      "pasos": "Marca el salmón en la sartén, añade soja, miel y jengibre y glasea 3 min. Sirve con arroz y sésamo.",
+      "alergenos": ["gluten", "pescado", "soja", "sesamo"],
+      "dieta": ["sin_cerdo", "sin_lactosa"]
+    },
+    {
+      "id": "truchas-a-la-navarra",
+      "nombre": "Truchas a la navarra",
+      "tipo": "cena",
+      "minutos": 25,
+      "ingredientes": ["Truchas: 2 ud", "Jamón serrano: 4 lonchas", "Harina: 40 g", "Aceite de oliva"],
+      "pasos": "Rellena las truchas con jamón, enharínalas y fríelas 4 min por lado.",
+      "alergenos": ["gluten", "pescado"],
+      "dieta": ["sin_lactosa"]
+    },
+    {
+      "id": "sardinas-en-escabeche",
+      "nombre": "Sardinas en escabeche",
+      "tipo": "comida",
+      "minutos": 40,
+      "ingredientes": ["Sardinas frescas: 600 g", "Cebolla: 1 ud", "Zanahoria: 1 ud", "Ajo: 4 dientes", "Vinagre de vino: 150 ml", "Laurel", "Harina: 50 g", "Aceite de oliva"],
+      "pasos": "Fríe las sardinas enharinadas. Haz el escabeche con la verdura, ajo, laurel, aceite y vinagre y viértelo caliente encima. Deja reposar un día.",
+      "alergenos": ["gluten", "pescado", "sulfitos"],
+      "dieta": ["sin_cerdo", "sin_lactosa"]
+    },
+    {
+      "id": "salpicon-de-marisco",
+      "nombre": "Salpicón de marisco",
+      "tipo": "cena",
+      "minutos": 20,
+      "ingredientes": ["Langostinos: 300 g", "Mejillones: 500 g", "Pimiento rojo: 1 ud", "Pimiento verde: 1 ud", "Cebolla: 1 ud", "Vinagre de vino", "Aceite de oliva"],
+      "pasos": "Cuece langostinos y mejillones. Mézclalos con la verdura picada muy fina y aliña con aceite y vinagre. Sirve frío.",
+      "alergenos": ["crustaceos", "sulfitos", "moluscos"],
+      "dieta": ["sin_cerdo", "sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "ensaladilla-rusa",
+      "nombre": "Ensaladilla rusa",
+      "tipo": "ambas",
+      "minutos": 40,
+      "ingredientes": ["Patatas: 4 ud", "Zanahoria: 2 ud", "Guisantes: 100 g", "Huevos: 2 ud", "Atún en lata: 2 latas", "Aceitunas verdes: 50 g", "Mayonesa: 6 cda"],
+      "pasos": "Cuece patatas, zanahoria y huevos. Trocéalo todo y mézclalo con guisantes, atún, aceitunas y mayonesa.",
+      "alergenos": ["huevo", "pescado"],
+      "dieta": ["sin_cerdo", "sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "pimientos-rellenos-de-bacalao",
+      "nombre": "Pimientos rellenos de bacalao",
+      "tipo": "comida",
+      "minutos": 50,
+      "ingredientes": ["Pimientos del piquillo: 1 lata", "Bacalao desalado: 300 g", "Leche: 400 ml", "Harina: 40 g", "Mantequilla: 30 g", "Cebolla: 1 ud", "Aceite de oliva"],
+      "pasos": "Haz una bechamel con cebolla y el bacalao desmigado. Rellena los pimientos y hornéalos 15 min con una salsa de piquillos triturados.",
+      "alergenos": ["gluten", "pescado", "lacteos"],
+      "dieta": ["sin_cerdo"]
+    },
+    {
+      "id": "tortillitas-de-camarones",
+      "nombre": "Tortillitas de camarones",
+      "tipo": "cena",
+      "minutos": 30,
+      "ingredientes": ["Camarones: 150 g", "Harina de garbanzo: 100 g", "Harina: 50 g", "Cebolleta: 1 ud", "Perejil: 1 manojo", "Aceite de girasol: 400 ml"],
+      "pasos": "Mezcla las harinas con agua fría hasta tener una masa líquida, añade camarones, cebolleta y perejil. Fríe cucharadas finas en aceite muy caliente.",
+      "alergenos": ["gluten", "crustaceos"],
+      "dieta": ["sin_cerdo", "sin_lactosa"]
+    },
+    {
+      "id": "cazon-en-adobo",
+      "nombre": "Cazón en adobo",
+      "tipo": "cena",
+      "minutos": 30,
+      "ingredientes": ["Cazón: 600 g", "Vinagre de vino: 100 ml", "Ajo: 4 dientes", "Comino", "Orégano", "Pimentón dulce", "Harina: 100 g", "Aceite de girasol: 500 ml"],
+      "pasos": "Marina el cazón en tacos con vinagre, ajo y especias desde la víspera. Escúrrelo, enharínalo y fríelo.",
+      "alergenos": ["gluten", "pescado", "sulfitos"],
+      "dieta": ["sin_cerdo", "sin_lactosa"]
+    },
+    {
+      "id": "lenguado-a-la-meuniere",
+      "nombre": "Lenguado a la meunière",
+      "tipo": "cena",
+      "minutos": 20,
+      "ingredientes": ["Lenguado: 2 ud", "Mantequilla: 60 g", "Limón: 1 ud", "Harina: 30 g", "Perejil: 1 manojo"],
+      "pasos": "Enharina y dora los lenguados en mantequilla. Riégalos con la mantequilla tostada, limón y perejil.",
+      "alergenos": ["gluten", "pescado", "lacteos"],
+      "dieta": ["sin_cerdo"]
+    },
+    {
+      "id": "gambas-al-pil-pil",
+      "nombre": "Gambas al pil pil",
+      "tipo": "cena",
+      "minutos": 15,
+      "ingredientes": ["Gambas: 400 g", "Ajo: 4 dientes", "Guindilla: 1 ud", "Pimentón dulce", "Aceite de oliva"],
+      "pasos": "Calienta aceite con ajo y guindilla en cazuela de barro, añade las gambas peladas y el pimentón y sirve chisporroteando.",
+      "alergenos": ["crustaceos"],
+      "dieta": ["sin_cerdo", "sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "navajas-a-la-plancha",
+      "nombre": "Navajas a la plancha",
+      "tipo": "cena",
+      "minutos": 10,
+      "ingredientes": ["Navajas: 500 g", "Ajo: 2 dientes", "Perejil: 1 manojo", "Limón: 1 ud", "Aceite de oliva"],
+      "pasos": "Lava las navajas y ábrelas en la plancha. Riégalas con ajo, perejil, aceite y limón.",
+      "alergenos": ["moluscos"],
+      "dieta": ["sin_cerdo", "sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "pastel-de-pescado",
+      "nombre": "Pastel de pescado",
+      "tipo": "cena",
+      "minutos": 60,
+      "ingredientes": ["Merluza: 400 g", "Gambas: 150 g", "Huevos: 4 ud", "Nata para cocinar: 200 ml", "Tomate frito: 150 g", "Mayonesa: 4 cda"],
+      "pasos": "Tritura pescado cocido, gambas, huevos, nata y tomate. Cuaja al baño maría 45 min a 180 °C, enfría y sirve con mayonesa.",
+      "alergenos": ["crustaceos", "huevo", "pescado", "lacteos"],
+      "dieta": ["sin_cerdo", "sin_gluten"]
+    },
+    {
+      "id": "menestra-de-verduras",
+      "nombre": "Menestra de verduras",
+      "tipo": "comida",
+      "minutos": 40,
+      "ingredientes": ["Alcachofas: 4 ud", "Judías verdes: 200 g", "Guisantes: 150 g", "Zanahoria: 2 ud", "Espárragos trigueros: 1 manojo", "Jamón serrano: 60 g", "Cebolla: 1 ud", "Harina: 1 cda", "Aceite de oliva"],
+      "pasos": "Cuece cada verdura por separado. Sofríe cebolla y jamón, añade harina y algo de caldo de cocción y junta las verduras 5 min.",
+      "alergenos": ["gluten"],
+      "dieta": ["sin_lactosa"]
+    },
+    {
+      "id": "espinacas-a-la-crema",
+      "nombre": "Espinacas a la crema",
+      "tipo": "cena",
+      "minutos": 20,
+      "ingredientes": ["Espinacas frescas: 400 g", "Leche: 300 ml", "Harina: 25 g", "Mantequilla: 25 g", "Nuez moscada"],
+      "pasos": "Escalda las espinacas y pícalas. Haz una bechamel ligera con nuez moscada y mézclalas.",
+      "alergenos": ["gluten", "lacteos"],
+      "dieta": ["vegetariana", "sin_cerdo"]
+    },
+    {
+      "id": "coliflor-gratinada",
+      "nombre": "Coliflor gratinada",
+      "tipo": "cena",
+      "minutos": 35,
+      "ingredientes": ["Coliflor: 1 ud", "Leche: 400 ml", "Harina: 30 g", "Mantequilla: 30 g", "Queso rallado: 80 g"],
+      "pasos": "Cuece la coliflor en ramilletes 10 min. Cúbrela con bechamel y queso y gratina 15 min.",
+      "alergenos": ["gluten", "lacteos"],
+      "dieta": ["vegetariana", "sin_cerdo"]
+    },
+    {
+      "id": "berenjenas-fritas-con-miel-de-cana",
+      "nombre": "Berenjenas fritas con miel de caña",
+      "tipo": "cena",
+      "minutos": 25,
+      "ingredientes": ["Berenjena: 2 ud", "Harina: 80 g", "Miel de caña: 3 cda", "Leche: 200 ml", "Aceite de oliva"],
+      "pasos": "Corta la berenjena en bastones, remójala en leche, enharínala y fríela. Riega con miel de caña.",
+      "alergenos": ["gluten", "lacteos"],
+      "dieta": ["vegetariana", "sin_cerdo"]
+    },
+    {
+      "id": "calabacin-relleno-de-carne",
+      "nombre": "Calabacín relleno de carne",
+      "tipo": "comida",
+      "minutos": 50,
+      "ingredientes": ["Calabacín: 2 ud", "Carne picada mixta: 250 g", "Cebolla: 1 ud", "Tomate frito: 150 g", "Queso rallado: 60 g", "Aceite de oliva"],
+      "pasos": "Vacía los calabacines, sofríe la pulpa con cebolla, carne y tomate. Rellena, cubre con queso y hornea 25 min.",
+      "alergenos": ["lacteos"],
+      "dieta": ["sin_gluten"]
+    },
+    {
+      "id": "ensalada-de-pimientos-asados",
+      "nombre": "Ensalada de pimientos asados",
+      "tipo": "cena",
+      "minutos": 60,
+      "ingredientes": ["Pimiento rojo: 4 ud", "Cebolla: 1 ud", "Ajo: 1 diente", "Vinagre de vino", "Aceite de oliva"],
+      "pasos": "Asa los pimientos y la cebolla 45 min a 200 °C. Pélalos, córtalos en tiras y aliña con ajo, aceite y vinagre.",
+      "alergenos": ["sulfitos"],
+      "dieta": ["vegetariana", "vegana", "sin_cerdo", "sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "habas-con-jamon",
+      "nombre": "Habas con jamón",
+      "tipo": "ambas",
+      "minutos": 30,
+      "ingredientes": ["Habas: 500 g", "Jamón serrano: 100 g", "Cebolleta: 1 ud", "Ajo: 1 diente", "Aceite de oliva"],
+      "pasos": "Pocha cebolleta y ajo, añade el jamón en taquitos y las habas con un poco de agua. Cuece tapado 15 min.",
+      "alergenos": [],
+      "dieta": ["sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "guisantes-con-jamon",
+      "nombre": "Guisantes con jamón",
+      "tipo": "ambas",
+      "minutos": 25,
+      "ingredientes": ["Guisantes: 500 g", "Jamón serrano: 100 g", "Cebolla: 1 ud", "Aceite de oliva"],
+      "pasos": "Pocha la cebolla, añade el jamón y los guisantes con un poco de agua y cuece 10 min.",
+      "alergenos": [],
+      "dieta": ["sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "acelgas-rehogadas-con-patata",
+      "nombre": "Acelgas rehogadas con patata",
+      "tipo": "ambas",
+      "minutos": 25,
+      "ingredientes": ["Acelgas: 500 g", "Patatas: 2 ud", "Ajo: 2 dientes", "Pimentón dulce", "Aceite de oliva"],
+      "pasos": "Cuece acelgas y patata 15 min. Escúrrelas y rehógalas con ajo y pimentón.",
+      "alergenos": [],
+      "dieta": ["vegetariana", "vegana", "sin_cerdo", "sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "champinones-rellenos-de-jamon",
+      "nombre": "Champiñones rellenos de jamón",
+      "tipo": "cena",
+      "minutos": 25,
+      "ingredientes": ["Champiñones: 400 g", "Jamón serrano: 60 g", "Ajo: 2 dientes", "Perejil: 1 manojo", "Pan rallado: 20 g", "Aceite de oliva"],
+      "pasos": "Quita los pies a los champiñones y pícalos con ajo, jamón y perejil. Rellena los sombreros, espolvorea pan rallado y hornea 15 min.",
+      "alergenos": ["gluten"],
+      "dieta": ["sin_lactosa"]
+    },
+    {
+      "id": "setas-a-la-plancha",
+      "nombre": "Setas a la plancha",
+      "tipo": "cena",
+      "minutos": 15,
+      "ingredientes": ["Setas variadas: 400 g", "Ajo: 2 dientes", "Perejil: 1 manojo", "Aceite de oliva"],
+      "pasos": "Haz las setas a la plancha muy caliente y riégalas con ajo y perejil picados en aceite.",
+      "alergenos": [],
+      "dieta": ["vegetariana", "vegana", "sin_cerdo", "sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "parrillada-de-verduras",
+      "nombre": "Parrillada de verduras",
+      "tipo": "cena",
+      "minutos": 25,
+      "ingredientes": ["Berenjena: 1 ud", "Calabacín: 1 ud", "Pimiento rojo: 1 ud", "Cebolla: 1 ud", "Champiñones: 200 g", "Espárragos trigueros: 1 manojo", "Aceite de oliva"],
+      "pasos": "Corta la verdura en láminas y hazla a la plancha por tandas. Aliña con aceite y sal gorda.",
+      "alergenos": [],
+      "dieta": ["vegetariana", "vegana", "sin_cerdo", "sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "ratatouille",
+      "nombre": "Ratatouille",
+      "tipo": "cena",
+      "minutos": 60,
+      "ingredientes": ["Berenjena: 1 ud", "Calabacín: 1 ud", "Tomate: 3 ud", "Pimiento rojo: 1 ud", "Cebolla: 1 ud", "Ajo: 2 dientes", "Tomillo", "Aceite de oliva"],
+      "pasos": "Pocha cebolla, pimiento y ajo, añade berenjena, calabacín y tomate en dados y el tomillo y cuece 40 min a fuego suave.",
+      "alergenos": [],
+      "dieta": ["vegetariana", "vegana", "sin_cerdo", "sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "pure-de-patatas-con-salchichas",
+      "nombre": "Puré de patatas con salchichas",
+      "tipo": "cena",
+      "minutos": 30,
+      "ingredientes": ["Patatas: 4 ud", "Leche: 200 ml", "Mantequilla: 30 g", "Salchichas frescas: 6 ud"],
+      "pasos": "Cuece las patatas y aplástalas con leche caliente y mantequilla. Sirve con las salchichas a la plancha.",
+      "alergenos": ["lacteos"],
+      "dieta": ["sin_gluten"]
+    },
+    {
+      "id": "tumbet-mallorquin",
+      "nombre": "Tumbet mallorquín",
+      "tipo": "comida",
+      "minutos": 60,
+      "ingredientes": ["Patatas: 3 ud", "Berenjena: 1 ud", "Pimiento rojo: 1 ud", "Tomate triturado: 400 g", "Ajo: 2 dientes", "Aceite de oliva"],
+      "pasos": "Fríe por separado patata, berenjena y pimiento en rodajas. Ponlos en capas en una fuente con salsa de tomate con ajo y hornea 15 min.",
+      "alergenos": [],
+      "dieta": ["vegetariana", "vegana", "sin_cerdo", "sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "ensalada-mixta",
+      "nombre": "Ensalada mixta",
+      "tipo": "cena",
+      "minutos": 10,
+      "ingredientes": ["Lechuga: 1 ud", "Tomate: 2 ud", "Cebolla: 1 ud", "Huevos: 2 ud", "Atún en lata: 1 lata", "Aceitunas verdes: 40 g", "Zanahoria: 1 ud", "Vinagre de vino", "Aceite de oliva"],
+      "pasos": "Trocea lechuga, tomate, cebolla y zanahoria. Añade huevo duro, atún y aceitunas y aliña.",
+      "alergenos": ["huevo", "pescado", "sulfitos"],
+      "dieta": ["sin_cerdo", "sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "ensalada-cesar",
+      "nombre": "Ensalada César",
+      "tipo": "cena",
+      "minutos": 20,
+      "ingredientes": ["Lechuga romana: 1 ud", "Pechuga de pollo: 250 g", "Pan: 2 rebanadas", "Queso parmesano: 30 g", "Salsa César: 4 cda", "Aceite de oliva"],
+      "pasos": "Haz el pollo a la plancha y el pan en dados tostados. Mezcla con la lechuga, la salsa y lascas de parmesano.",
+      "alergenos": ["gluten", "huevo", "pescado", "lacteos"],
+      "dieta": ["sin_cerdo"]
+    },
+    {
+      "id": "ensalada-de-aguacate-y-langostinos",
+      "nombre": "Ensalada de aguacate y langostinos",
+      "tipo": "cena",
+      "minutos": 15,
+      "ingredientes": ["Aguacate: 1 ud", "Langostinos: 200 g", "Lechuga: 1 ud", "Tomates cherry: 150 g", "Limón: 1 ud", "Aceite de oliva"],
+      "pasos": "Cuece los langostinos 2 min y pélalos. Mezcla con lechuga, cherrys y aguacate y aliña con limón y aceite.",
+      "alergenos": ["crustaceos"],
+      "dieta": ["sin_cerdo", "sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "ensalada-malaguena",
+      "nombre": "Ensalada malagueña",
+      "tipo": "ambas",
+      "minutos": 30,
+      "ingredientes": ["Patatas: 3 ud", "Bacalao desalado: 200 g", "Naranjas: 2 ud", "Cebolleta: 1 ud", "Aceitunas negras: 50 g", "Aceite de oliva"],
+      "pasos": "Cuece las patatas y trocéalas templadas. Mezcla con naranja en gajos, bacalao desmigado, cebolleta y aceitunas. Aliña con aceite.",
+      "alergenos": ["pescado"],
+      "dieta": ["sin_cerdo", "sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "pipirrana",
+      "nombre": "Pipirrana",
+      "tipo": "cena",
+      "minutos": 15,
+      "ingredientes": ["Tomate: 3 ud", "Pimiento verde: 1 ud", "Cebolla: 1 ud", "Pepino: 1 ud", "Atún en lata: 1 lata", "Huevos: 2 ud", "Vinagre de vino", "Aceite de oliva"],
+      "pasos": "Pica toda la verdura muy menuda, mezcla con atún y huevo duro y aliña con aceite, vinagre y sal.",
+      "alergenos": ["huevo", "pescado", "sulfitos"],
+      "dieta": ["sin_cerdo", "sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "ensalada-de-pollo-y-manzana",
+      "nombre": "Ensalada de pollo y manzana",
+      "tipo": "cena",
+      "minutos": 15,
+      "ingredientes": ["Pechuga de pollo: 250 g", "Manzanas: 1 ud", "Lechuga: 1 ud", "Nueces: 30 g", "Yogur griego: 1 ud", "Limón: 1 ud"],
+      "pasos": "Haz el pollo a la plancha y córtalo en tiras. Mezcla con lechuga, manzana y nueces y aliña con yogur y limón.",
+      "alergenos": ["lacteos", "frutos_cascara"],
+      "dieta": ["sin_cerdo", "sin_gluten"]
+    },
+    {
+      "id": "ensalada-de-patata-alemana",
+      "nombre": "Ensalada de patata alemana",
+      "tipo": "ambas",
+      "minutos": 30,
+      "ingredientes": ["Patatas: 4 ud", "Salchichas Frankfurt: 4 ud", "Pepinillos: 6 ud", "Cebolla: 1 ud", "Mostaza: 1 cda", "Mayonesa: 3 cda"],
+      "pasos": "Cuece las patatas y córtalas en rodajas. Mezcla con salchichas, pepinillos y cebolla picados y una salsa de mostaza y mayonesa.",
+      "alergenos": ["huevo", "mostaza"],
+      "dieta": ["sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "ensalada-de-col",
+      "nombre": "Ensalada de col",
+      "tipo": "cena",
+      "minutos": 15,
+      "ingredientes": ["Repollo: 0.5 ud", "Zanahoria: 2 ud", "Mayonesa: 4 cda", "Yogur griego: 1 ud", "Limón: 1 ud"],
+      "pasos": "Ralla el repollo y la zanahoria muy finos y mézclalos con mayonesa, yogur y limón. Deja reposar en la nevera.",
+      "alergenos": ["huevo", "lacteos"],
+      "dieta": ["vegetariana", "sin_cerdo", "sin_gluten"]
+    },
+    {
+      "id": "tortilla-de-bacalao",
+      "nombre": "Tortilla de bacalao",
+      "tipo": "cena",
+      "minutos": 20,
+      "ingredientes": ["Bacalao desalado: 200 g", "Huevos: 4 ud", "Cebolla: 1 ud", "Pimiento verde: 1 ud", "Aceite de oliva"],
+      "pasos": "Pocha cebolla y pimiento, añade el bacalao desmigado 2 min. Mezcla con el huevo y cuaja una tortilla jugosa.",
+      "alergenos": ["huevo", "pescado"],
+      "dieta": ["sin_cerdo", "sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "huevos-fritos-con-patatas-y-pimientos",
+      "nombre": "Huevos fritos con patatas y pimientos",
+      "tipo": "cena",
+      "minutos": 30,
+      "ingredientes": ["Huevos: 4 ud", "Patatas: 3 ud", "Pimiento verde: 2 ud", "Aceite de oliva"],
+      "pasos": "Fríe las patatas y los pimientos y, por último, los huevos con puntilla.",
+      "alergenos": ["huevo"],
+      "dieta": ["vegetariana", "sin_cerdo", "sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "revuelto-de-gulas-y-gambas",
+      "nombre": "Revuelto de gulas y gambas",
+      "tipo": "cena",
+      "minutos": 15,
+      "ingredientes": ["Gulas: 200 g", "Gambas: 150 g", "Huevos: 4 ud", "Ajo: 2 dientes", "Guindilla: 1 ud", "Aceite de oliva"],
+      "pasos": "Saltea ajo, guindilla, gambas y gulas. Añade los huevos y remueve a fuego suave hasta que cuajen.",
+      "alergenos": ["crustaceos", "huevo", "pescado"],
+      "dieta": ["sin_cerdo", "sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "pizza-margarita",
+      "nombre": "Pizza margarita",
+      "tipo": "cena",
+      "minutos": 25,
+      "ingredientes": ["Masa de pizza: 1 ud", "Tomate triturado: 150 g", "Queso mozzarella: 200 g", "Albahaca fresca: 1 manojo", "Aceite de oliva"],
+      "pasos": "Extiende la masa, cubre con tomate y mozzarella y hornea 12 min a 230 °C. Termina con albahaca y aceite.",
+      "alergenos": ["gluten", "lacteos"],
+      "dieta": ["vegetariana", "sin_cerdo"]
+    },
+    {
+      "id": "pizza-barbacoa",
+      "nombre": "Pizza barbacoa",
+      "tipo": "cena",
+      "minutos": 25,
+      "ingredientes": ["Masa de pizza: 1 ud", "Salsa barbacoa: 4 cda", "Carne picada de ternera: 200 g", "Bacon: 80 g", "Queso mozzarella: 200 g", "Cebolla: 1 ud"],
+      "pasos": "Dora la carne y el bacon. Cubre la masa con salsa barbacoa, carne, bacon, cebolla y mozzarella y hornea 12 min a 230 °C.",
+      "alergenos": ["gluten", "lacteos"],
+      "dieta": []
+    },
+    {
+      "id": "quiche-lorraine",
+      "nombre": "Quiche lorraine",
+      "tipo": "cena",
+      "minutos": 50,
+      "ingredientes": ["Masa quebrada: 1 ud", "Bacon: 150 g", "Huevos: 3 ud", "Nata para cocinar: 200 ml", "Leche: 100 ml", "Queso emmental: 100 g"],
+      "pasos": "Forra un molde con la masa. Dora el bacon y repártelo, cubre con huevos batidos con nata, leche y queso y hornea 35 min a 180 °C.",
+      "alergenos": ["gluten", "huevo", "lacteos"],
+      "dieta": []
+    },
+    {
+      "id": "coca-de-trempo",
+      "nombre": "Coca de trempó",
+      "tipo": "cena",
+      "minutos": 45,
+      "ingredientes": ["Masa de pizza: 1 ud", "Pimiento verde: 1 ud", "Pimiento rojo: 1 ud", "Tomate: 2 ud", "Cebolla: 1 ud", "Aceite de oliva"],
+      "pasos": "Pica la verdura en dados pequeños, aliña con aceite y repártela sobre la masa. Hornea 25 min a 200 °C.",
+      "alergenos": ["gluten"],
+      "dieta": ["vegetariana", "vegana", "sin_cerdo", "sin_lactosa"]
+    },
+    {
+      "id": "empanadillas-de-atun",
+      "nombre": "Empanadillas de atún",
+      "tipo": "cena",
+      "minutos": 35,
+      "ingredientes": ["Obleas de empanadilla: 16 ud", "Atún en lata: 2 latas", "Tomate frito: 100 g", "Huevos: 2 ud", "Aceitunas verdes: 30 g", "Aceite de girasol: 400 ml"],
+      "pasos": "Mezcla atún, tomate, huevo duro y aceitunas picados. Rellena las obleas, ciérralas con un tenedor y fríelas.",
+      "alergenos": ["gluten", "huevo", "pescado"],
+      "dieta": ["sin_cerdo", "sin_lactosa"]
+    },
+    {
+      "id": "sandwich-club",
+      "nombre": "Sándwich club",
+      "tipo": "cena",
+      "minutos": 15,
+      "ingredientes": ["Pan de molde: 6 rebanadas", "Pechuga de pollo: 200 g", "Bacon: 6 lonchas", "Lechuga: 1 ud", "Tomate: 1 ud", "Huevos: 2 ud", "Mayonesa: 2 cda"],
+      "pasos": "Tuesta el pan. Monta dos pisos con pollo a la plancha, bacon, lechuga, tomate, huevo y mayonesa.",
+      "alergenos": ["gluten", "huevo"],
+      "dieta": ["sin_lactosa"]
+    },
+    {
+      "id": "bocadillo-de-calamares",
+      "nombre": "Bocadillo de calamares",
+      "tipo": "cena",
+      "minutos": 30,
+      "ingredientes": ["Calamar: 400 g", "Barra de pan: 1 ud", "Harina: 80 g", "Limón: 1 ud", "Aceite de girasol: 400 ml"],
+      "pasos": "Fríe las anillas de calamar enharinadas y rellena el pan recién abierto.",
+      "alergenos": ["gluten", "moluscos"],
+      "dieta": ["sin_cerdo", "sin_lactosa"]
+    },
+    {
+      "id": "tacos-de-carne",
+      "nombre": "Tacos de carne",
+      "tipo": "cena",
+      "minutos": 25,
+      "ingredientes": ["Tortillas de maíz: 8 ud", "Carne picada de ternera: 400 g", "Cebolla: 1 ud", "Tomate: 2 ud", "Aguacate: 1 ud", "Especias para tacos: 1 sobre", "Lima: 1 ud", "Cilantro: 1 manojo"],
+      "pasos": "Dora la carne con cebolla y especias. Calienta las tortillas y rellénalas con carne, tomate, aguacate, cilantro y lima.",
+      "alergenos": [],
+      "dieta": ["sin_cerdo", "sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "burritos-de-pollo",
+      "nombre": "Burritos de pollo",
+      "tipo": "cena",
+      "minutos": 30,
+      "ingredientes": ["Tortillas de trigo: 4 ud", "Pechuga de pollo: 300 g", "Alubias rojas cocidas: 200 g", "Arroz: 100 g", "Queso rallado: 80 g", "Pimiento rojo: 1 ud", "Especias para fajitas: 1 sobre"],
+      "pasos": "Cuece el arroz. Saltea pollo y pimiento con las especias. Rellena las tortillas con arroz, pollo, alubias y queso y enróllalas.",
+      "alergenos": ["gluten", "lacteos"],
+      "dieta": ["sin_cerdo"]
+    },
+    {
+      "id": "quesadillas-de-jamon-y-queso",
+      "nombre": "Quesadillas de jamón y queso",
+      "tipo": "cena",
+      "minutos": 15,
+      "ingredientes": ["Tortillas de trigo: 4 ud", "Queso rallado: 150 g", "Jamón cocido: 100 g", "Pimiento rojo: 1 ud"],
+      "pasos": "Reparte queso, jamón y pimiento en media tortilla, dóblala y dórala en la sartén por los dos lados.",
+      "alergenos": ["gluten", "lacteos"],
+      "dieta": []
+    },
+    {
+      "id": "chili-con-carne",
+      "nombre": "Chili con carne",
+      "tipo": "comida",
+      "minutos": 50,
+      "ingredientes": ["Carne picada de ternera: 400 g", "Alubias rojas cocidas: 400 g", "Tomate triturado: 400 g", "Cebolla: 1 ud", "Pimiento rojo: 1 ud", "Ajo: 2 dientes", "Comino", "Chile en polvo", "Aceite de oliva"],
+      "pasos": "Sofríe cebolla, pimiento y ajo, dora la carne con las especias, añade tomate y alubias y cuece 30 min.",
+      "alergenos": [],
+      "dieta": ["sin_cerdo", "sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "pad-thai-de-gambas",
+      "nombre": "Pad thai de gambas",
+      "tipo": "cena",
+      "minutos": 25,
+      "ingredientes": ["Fideos de arroz: 200 g", "Gambas: 200 g", "Huevos: 2 ud", "Brotes de soja: 100 g", "Cacahuetes: 40 g", "Salsa de soja: 3 cda", "Lima: 1 ud", "Cebolleta: 1 ud"],
+      "pasos": "Hidrata los fideos. Saltea gambas, añade huevo revuelto, fideos, soja y brotes. Sirve con cacahuetes, cebolleta y lima.",
+      "alergenos": ["gluten", "crustaceos", "huevo", "cacahuete", "soja"],
+      "dieta": ["sin_cerdo", "sin_lactosa"]
+    },
+    {
+      "id": "wok-de-verduras-con-fideos",
+      "nombre": "Wok de verduras con fideos",
+      "tipo": "cena",
+      "minutos": 20,
+      "ingredientes": ["Fideos de huevo: 200 g", "Pimiento rojo: 1 ud", "Zanahoria: 1 ud", "Calabacín: 1 ud", "Brotes de soja: 100 g", "Salsa de soja: 3 cda", "Jengibre: 10 g", "Aceite de oliva"],
+      "pasos": "Cuece los fideos. Saltea la verdura en tiras con jengibre a fuego vivo y mezcla con los fideos y la soja.",
+      "alergenos": ["gluten", "huevo", "soja"],
+      "dieta": ["vegetariana", "sin_cerdo", "sin_lactosa"]
+    },
+    {
+      "id": "cuscus-con-pollo-y-verduras",
+      "nombre": "Cuscús con pollo y verduras",
+      "tipo": "comida",
+      "minutos": 40,
+      "ingredientes": ["Cuscús: 200 g", "Contramuslos de pollo: 400 g", "Zanahoria: 2 ud", "Calabacín: 1 ud", "Garbanzos cocidos: 200 g", "Cebolla: 1 ud", "Ras el hanout: 1 cda", "Caldo de pollo: 500 ml", "Aceite de oliva"],
+      "pasos": "Dora el pollo con las especias, añade verdura y caldo y cuece 25 min con los garbanzos. Hidrata el cuscús con parte del caldo.",
+      "alergenos": ["gluten", "apio"],
+      "dieta": ["sin_cerdo", "sin_lactosa"]
+    },
+    {
+      "id": "falafel-con-salsa-de-yogur",
+      "nombre": "Falafel con salsa de yogur",
+      "tipo": "cena",
+      "minutos": 30,
+      "ingredientes": ["Garbanzos secos: 250 g", "Cebolla: 1 ud", "Ajo: 2 dientes", "Perejil: 1 manojo", "Comino", "Yogur griego: 1 ud", "Pan de pita: 4 ud", "Aceite de girasol: 400 ml"],
+      "pasos": "Tritura los garbanzos remojados (sin cocer) con cebolla, ajo, perejil y comino. Forma bolitas, fríelas y sírvelas en pita con yogur.",
+      "alergenos": ["gluten", "lacteos"],
+      "dieta": ["vegetariana", "sin_cerdo"]
+    },
+    {
+      "id": "souvlaki-de-cerdo-con-tzatziki",
+      "nombre": "Souvlaki de cerdo con tzatziki",
+      "tipo": "cena",
+      "minutos": 30,
+      "ingredientes": ["Lomo de cerdo: 400 g", "Limón: 1 ud", "Orégano", "Yogur griego: 1 ud", "Pepino: 1 ud", "Ajo: 1 diente", "Pan de pita: 4 ud", "Aceite de oliva"],
+      "pasos": "Marina el cerdo en dados con limón, orégano y aceite y hazlo en brochetas. Sirve en pita con yogur mezclado con pepino rallado y ajo.",
+      "alergenos": ["gluten", "lacteos"],
+      "dieta": []
+    },
+    {
+      "id": "risotto-de-calabaza",
+      "nombre": "Risotto de calabaza",
+      "tipo": "comida",
+      "minutos": 40,
+      "ingredientes": ["Arroz: 180 g", "Calabaza: 400 g", "Cebolla: 1 ud", "Caldo de verduras: 900 ml", "Queso parmesano: 40 g", "Mantequilla: 20 g", "Vino blanco: 50 ml"],
+      "pasos": "Pocha cebolla y calabaza en dados, nacara el arroz y moja con vino. Añade caldo poco a poco 18 min y termina con mantequilla y queso.",
+      "alergenos": ["lacteos", "apio", "sulfitos"],
+      "dieta": ["vegetariana", "sin_cerdo", "sin_gluten"]
+    },
+    {
+      "id": "berenjenas-a-la-parmesana",
+      "nombre": "Berenjenas a la parmesana",
+      "tipo": "comida",
+      "minutos": 60,
+      "ingredientes": ["Berenjena: 2 ud", "Tomate triturado: 400 g", "Queso mozzarella: 200 g", "Queso parmesano: 40 g", "Albahaca fresca: 1 manojo", "Aceite de oliva"],
+      "pasos": "Asa la berenjena en láminas. Monta capas con salsa de tomate, mozzarella, albahaca y parmesano y hornea 25 min a 200 °C.",
+      "alergenos": ["lacteos"],
+      "dieta": ["vegetariana", "sin_cerdo", "sin_gluten"]
+    },
+    {
+      "id": "canelones-de-espinacas",
+      "nombre": "Canelones de espinacas",
+      "tipo": "comida",
+      "minutos": 60,
+      "ingredientes": ["Placas de canelones: 12 ud", "Espinacas frescas: 400 g", "Requesón: 250 g", "Leche: 500 ml", "Harina: 40 g", "Mantequilla: 40 g", "Queso rallado: 60 g", "Piñones: 20 g"],
+      "pasos": "Saltea las espinacas con piñones y mezcla con requesón. Rellena las placas cocidas, cubre con bechamel y queso y gratina.",
+      "alergenos": ["gluten", "lacteos"],
+      "dieta": ["vegetariana", "sin_cerdo"]
+    },
+    {
+      "id": "crepes-de-jamon-y-queso",
+      "nombre": "Crepes de jamón y queso",
+      "tipo": "cena",
+      "minutos": 30,
+      "ingredientes": ["Harina: 125 g", "Leche: 300 ml", "Huevos: 2 ud", "Jamón cocido: 100 g", "Queso en lonchas: 4 ud", "Mantequilla: 20 g"],
+      "pasos": "Bate harina, leche y huevos y haz crepes finos. Rellénalos de jamón y queso y dóralos en la sartén.",
+      "alergenos": ["gluten", "huevo", "lacteos"],
+      "dieta": []
+    },
+    {
+      "id": "crema-de-guisantes-con-menta",
+      "nombre": "Crema de guisantes con menta",
+      "tipo": "cena",
+      "minutos": 25,
+      "ingredientes": ["Guisantes: 500 g", "Cebolla: 1 ud", "Hierbabuena: 1 manojo", "Caldo de verduras: 600 ml", "Aceite de oliva"],
+      "pasos": "Pocha la cebolla, añade guisantes y caldo y cuece 10 min. Tritura con la hierbabuena.",
+      "alergenos": ["apio"],
+      "dieta": ["vegetariana", "vegana", "sin_cerdo", "sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "sopa-de-tomate",
+      "nombre": "Sopa de tomate",
+      "tipo": "cena",
+      "minutos": 30,
+      "ingredientes": ["Tomate: 8 ud", "Cebolla: 1 ud", "Ajo: 2 dientes", "Caldo de verduras: 500 ml", "Albahaca fresca: 1 manojo", "Aceite de oliva"],
+      "pasos": "Pocha cebolla y ajo, añade el tomate troceado y el caldo y cuece 20 min. Tritura con albahaca.",
+      "alergenos": ["apio"],
+      "dieta": ["vegetariana", "vegana", "sin_cerdo", "sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "gazpachuelo-malagueno",
+      "nombre": "Gazpachuelo malagueño",
+      "tipo": "cena",
+      "minutos": 30,
+      "ingredientes": ["Merluza: 300 g", "Gambas: 150 g", "Patatas: 2 ud", "Huevos: 1 ud", "Mayonesa: 6 cda", "Caldo de pescado: 1000 ml"],
+      "pasos": "Cuece las patatas en el caldo y luego la merluza y las gambas 4 min. Liga la mayonesa con caldo caliente poco a poco y vuélcala en la olla sin hervir.",
+      "alergenos": ["crustaceos", "huevo", "pescado", "apio"],
+      "dieta": ["sin_cerdo", "sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "crema-de-esparragos",
+      "nombre": "Crema de espárragos",
+      "tipo": "cena",
+      "minutos": 30,
+      "ingredientes": ["Espárragos trigueros: 2 manojos", "Puerro: 1 ud", "Patatas: 1 ud", "Caldo de verduras: 600 ml", "Nata para cocinar: 100 ml", "Aceite de oliva"],
+      "pasos": "Rehoga puerro y espárragos troceados, añade patata y caldo y cuece 15 min. Tritura con la nata y cuela.",
+      "alergenos": ["lacteos", "apio"],
+      "dieta": ["vegetariana", "sin_cerdo", "sin_gluten"]
+    },
+    {
+      "id": "lentejas-al-curry",
+      "nombre": "Lentejas al curry",
+      "tipo": "comida",
+      "minutos": 35,
+      "ingredientes": ["Lentejas rojas: 200 g", "Cebolla: 1 ud", "Ajo: 2 dientes", "Curry en polvo: 1 cda", "Leche de coco: 200 ml", "Tomate triturado: 200 g", "Aceite de oliva"],
+      "pasos": "Sofríe cebolla y ajo con el curry, añade lentejas, tomate, leche de coco y agua y cuece 20 min.",
+      "alergenos": [],
+      "dieta": ["vegetariana", "vegana", "sin_cerdo", "sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "garbanzos-al-curry-con-espinacas",
+      "nombre": "Garbanzos al curry con espinacas",
+      "tipo": "comida",
+      "minutos": 30,
+      "ingredientes": ["Garbanzos cocidos: 400 g", "Espinacas frescas: 200 g", "Cebolla: 1 ud", "Tomate triturado: 200 g", "Leche de coco: 200 ml", "Curry en polvo: 1 cda", "Aceite de oliva"],
+      "pasos": "Sofríe cebolla con curry, añade tomate y leche de coco 10 min y luego garbanzos y espinacas 5 min.",
+      "alergenos": [],
+      "dieta": ["vegetariana", "vegana", "sin_cerdo", "sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "empedrat",
+      "nombre": "Empedrat",
+      "tipo": "ambas",
+      "minutos": 15,
+      "ingredientes": ["Alubias blancas cocidas: 400 g", "Bacalao desalado: 150 g", "Tomate: 2 ud", "Pimiento rojo: 1 ud", "Cebolla: 1 ud", "Aceitunas negras: 40 g", "Aceite de oliva"],
+      "pasos": "Mezcla las alubias con el bacalao desmigado y la verdura picada fina. Aliña con aceite.",
+      "alergenos": ["pescado"],
+      "dieta": ["sin_cerdo", "sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "pollo-en-salsa-de-mostaza-y-miel",
+      "nombre": "Pollo en salsa de mostaza y miel",
+      "tipo": "cena",
+      "minutos": 25,
+      "ingredientes": ["Pechuga de pollo: 400 g", "Mostaza: 2 cda", "Miel: 2 cda", "Nata para cocinar: 150 ml", "Aceite de oliva"],
+      "pasos": "Dora el pollo en tiras, añade mostaza, miel y nata y cuece 5 min hasta que espese.",
+      "alergenos": ["lacteos", "mostaza"],
+      "dieta": ["sin_cerdo", "sin_gluten"]
+    },
+    {
+      "id": "conejo-en-salmorejo-canario",
+      "nombre": "Conejo en salmorejo canario",
+      "tipo": "comida",
+      "minutos": 60,
+      "ingredientes": ["Conejo troceado: 800 g", "Ajo: 6 dientes", "Pimentón dulce", "Comino", "Tomillo", "Vinagre de vino: 100 ml", "Vino blanco: 200 ml", "Patatas: 4 ud", "Aceite de oliva"],
+      "pasos": "Marina el conejo desde la víspera en un majado de ajo, especias, vinagre y vino. Dóralo y cuécelo en el adobo 35 min. Sirve con papas.",
+      "alergenos": ["sulfitos"],
+      "dieta": ["sin_cerdo", "sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "papas-arrugadas-con-mojo-picon",
+      "nombre": "Papas arrugadas con mojo picón",
+      "tipo": "cena",
+      "minutos": 30,
+      "ingredientes": ["Patatas pequeñas: 800 g", "Sal gorda: 100 g", "Ajo: 3 dientes", "Pimentón picante", "Comino", "Vinagre de vino", "Aceite de oliva"],
+      "pasos": "Cuece las papas con piel en poca agua con la sal hasta que se evapore y se arruguen. Tritura ajo, pimentón, comino, vinagre y aceite para el mojo.",
+      "alergenos": ["sulfitos"],
+      "dieta": ["vegetariana", "vegana", "sin_cerdo", "sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "gambas-con-gabardina",
+      "nombre": "Gambas con gabardina",
+      "tipo": "cena",
+      "minutos": 25,
+      "ingredientes": ["Gambas: 400 g", "Harina: 100 g", "Cerveza: 150 ml", "Aceite de girasol: 500 ml"],
+      "pasos": "Pela las gambas dejando la cola. Bate harina con cerveza fría, reboza las gambas y fríelas.",
+      "alergenos": ["gluten", "crustaceos"],
+      "dieta": ["sin_cerdo", "sin_lactosa"]
+    },
+    {
+      "id": "mejillones-tigre",
+      "nombre": "Mejillones tigre",
+      "tipo": "cena",
+      "minutos": 50,
+      "ingredientes": ["Mejillones: 1000 g", "Cebolla: 1 ud", "Leche: 300 ml", "Harina: 30 g", "Tomate frito: 2 cda", "Huevos: 2 ud", "Pan rallado: 100 g", "Aceite de girasol: 500 ml"],
+      "pasos": "Abre los mejillones y pica la carne. Haz una bechamel espesa con cebolla, mejillón y tomate, rellena las conchas, rebózalas y fríelas.",
+      "alergenos": ["gluten", "huevo", "lacteos", "moluscos"],
+      "dieta": ["sin_cerdo"]
+    },
+    {
+      "id": "sepia-a-la-plancha-con-alioli",
+      "nombre": "Sepia a la plancha con alioli",
+      "tipo": "cena",
+      "minutos": 15,
+      "ingredientes": ["Sepia: 500 g", "Ajo: 2 dientes", "Perejil: 1 manojo", "Alioli: 3 cda", "Aceite de oliva"],
+      "pasos": "Haz la sepia en trozos a la plancha muy caliente y riégala con ajo y perejil. Sirve con alioli.",
+      "alergenos": ["huevo", "moluscos"],
+      "dieta": ["sin_cerdo", "sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "bacalao-gratinado-con-alioli",
+      "nombre": "Bacalao gratinado con alioli",
+      "tipo": "cena",
+      "minutos": 30,
+      "ingredientes": ["Bacalao desalado: 500 g", "Patatas: 2 ud", "Alioli: 6 cda", "Aceite de oliva"],
+      "pasos": "Confita las patatas en rodajas. Pon el bacalao encima, cubre con alioli y gratina 10 min.",
+      "alergenos": ["huevo", "pescado"],
+      "dieta": ["sin_cerdo", "sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "berenjenas-rellenas-de-verduras",
+      "nombre": "Berenjenas rellenas de verduras",
+      "tipo": "cena",
+      "minutos": 50,
+      "ingredientes": ["Berenjena: 2 ud", "Cebolla: 1 ud", "Pimiento rojo: 1 ud", "Calabacín: 1 ud", "Tomate frito: 150 g", "Queso rallado: 60 g", "Aceite de oliva"],
+      "pasos": "Asa las berenjenas partidas 20 min, vacíalas y sofríe la pulpa con la verdura y el tomate. Rellena, cubre con queso y gratina.",
+      "alergenos": ["lacteos"],
+      "dieta": ["vegetariana", "sin_cerdo", "sin_gluten"]
+    },
+    {
+      "id": "bocadillo-de-lomo-con-pimientos",
+      "nombre": "Bocadillo de lomo con pimientos",
+      "tipo": "cena",
+      "minutos": 20,
+      "ingredientes": ["Barra de pan: 1 ud", "Lomo de cerdo: 300 g", "Pimiento verde: 2 ud", "Aceite de oliva"],
+      "pasos": "Fríe los pimientos en tiras y haz el lomo a la plancha. Rellena el pan.",
+      "alergenos": ["gluten"],
+      "dieta": ["sin_lactosa"]
+    },
+    {
+      "id": "hamburguesas-de-pollo",
+      "nombre": "Hamburguesas de pollo",
+      "tipo": "cena",
+      "minutos": 25,
+      "ingredientes": ["Carne picada de pollo: 400 g", "Pan de hamburguesa: 4 ud", "Lechuga: 1 ud", "Tomate: 1 ud", "Queso en lonchas: 4 ud", "Aceite de oliva"],
+      "pasos": "Forma las hamburguesas y hazlas a la plancha bien hechas. Monta en el pan con lechuga, tomate y queso.",
+      "alergenos": ["gluten", "lacteos"],
+      "dieta": ["sin_cerdo"]
+    },
+    {
+      "id": "brochetas-de-rape-y-langostinos",
+      "nombre": "Brochetas de rape y langostinos",
+      "tipo": "cena",
+      "minutos": 20,
+      "ingredientes": ["Rape: 400 g", "Langostinos: 200 g", "Pimiento verde: 1 ud", "Cebolla: 1 ud", "Limón: 1 ud", "Aceite de oliva"],
+      "pasos": "Ensarta tacos de rape, langostinos y verdura y hazlas a la plancha 8 min. Riega con limón y aceite.",
+      "alergenos": ["crustaceos", "pescado"],
+      "dieta": ["sin_cerdo", "sin_gluten", "sin_lactosa"]
+    },
+    {
+      "id": "olla-gitana",
+      "nombre": "Olla gitana",
+      "tipo": "comida",
+      "minutos": 60,
+      "ingredientes": ["Garbanzos cocidos: 300 g", "Alubias blancas cocidas: 200 g", "Calabaza: 300 g", "Judías verdes: 150 g", "Peras: 2 ud", "Tomate: 1 ud", "Cebolla: 1 ud", "Pimentón dulce", "Almendras: 30 g", "Aceite de oliva"],
+      "pasos": "Sofríe cebolla, tomate y pimentón, añade calabaza, judías y peras con agua y cuece 25 min. Añade legumbres y un majado de almendras 10 min.",
+      "alergenos": ["frutos_cascara"],
+      "dieta": ["vegetariana", "vegana", "sin_cerdo", "sin_gluten", "sin_lactosa"]
+    }
+  ],
+  "catalogo": {
+    "Básicos": ["Leche", "Pan", "Huevos", "Aceite de oliva", "Café", "Yogures", "Fruta del tiempo", "Plátanos", "Naranjas", "Manzanas", "Agua mineral", "Sal", "Azúcar", "Galletas", "Copos de avena", "Papel de cocina"],
+    "Fruta y verdura": ["Tomates pera|🍅", "Tomate de rama|🍅", "Tomate rosa|🍅", "Pimiento italiano|🫑", "Lechuga iceberg|🥬", "Canónigos|🥬", "Brotes tiernos|🥬", "Ensalada en bolsa|🥗", "Endivias|🥬", "Escarola|🥬", "Col lombarda|🥬", "Coles de Bruselas|🥬", "Kale|🥬", "Rábanos|🌱", "Remolacha|🍠", "Boniato|🍠", "Nabo|🌱", "Chirivía|🥕", "Hinojo|🌿", "Cebollino|🌿", "Menta fresca|🌿", "Ajos tiernos|🧄", "Cebollas|🧅", "Maíz en mazorca|🌽", "Judías verdes planas|🌱", "Champiñones laminados|🍄", "Setas shiitake|🍄", "Patatas para freír|🥔", "Patatas para cocer|🥔", "Manzana verde|🍏", "Mandarinas|🍊", "Pomelo|🍊", "Limones|🍋", "Fresas|🍓", "Frambuesas|🍓", "Arándanos|🫐", "Moras|🫐", "Cerezas|🍒", "Melocotones|🍑", "Nectarinas|🍑", "Albaricoques|🍑", "Ciruelas|🍑", "Higos|🍑", "Kiwis|🥝", "Piña|🍍", "Mango|🥭", "Papaya|🥭", "Melón|🍈", "Sandía|🍉", "Caquis|🍊", "Chirimoya|🍐", "Coco|🥥", "Dátiles|🌴", "Frutos rojos|🍓", "Uva blanca|🍇", "Uva negra|🍇"],
+    "Carne": ["Pechuga de pollo fileteada|🍗", "Pollo troceado|🍗", "Jamoncitos de pollo|🍗", "Pollo asado|🍗", "Pavo fileteado|🍗", "Hamburguesas de ternera|🍔", "Albóndigas|🥩", "Magro de cerdo|🥩", "Presa ibérica|🥩", "Pluma ibérica|🥩", "Churrasco de ternera|🥩", "Chuletón|🥩", "Solomillo de ternera|🥩", "Redondo de ternera|🥩", "Carne picada de cerdo|🥩", "Codillo|🍖", "Codornices|🍗", "Pato|🦆", "Morcilla de Burgos|🌭", "Salchichas de pollo|🌭", "Salchichón|🍖", "Fuet|🌭", "Lomo embuchado|🍖", "Jamón ibérico|🍖", "Pechuga de pavo en lonchas|🍗", "Mortadela|🍖", "Sobrasada|🌭", "Cecina|🍖", "Chorizo ibérico|🌭", "Paté|🥫", "Bacon en tiras|🥓", "Panceta fresca|🥓", "Carne para estofado|🥩", "Costillas de ternera|🥩"],
+    "Pescado y marisco": ["Gallo|🐟", "Pescadilla|🐟", "Rodaballo|🐟", "Corvina|🐟", "Bacalao fresco|🐟", "Jurel|🐟", "Panga|🐟", "Arenques|🐟", "Cigalas|🦐", "Bogavante|🦞", "Cangrejo|🦀", "Surimi|🦀", "Berberechos|🦪", "Ostras|🦪", "Calamares limpios|🦑", "Anillas de calamar|🦑", "Gambas peladas|🦐", "Langostinos cocidos|🦐", "Lomos de salmón|🐟", "Filetes de merluza|🐟", "Atún en filetes|🐟", "Sardinas|🐟", "Mejillones cocidos|🦪", "Huevas de merluza|🐟", "Chanquetes|🐟"],
+    "Lácteos y huevos": ["Leche entera|🥛", "Leche semidesnatada|🥛", "Leche desnatada|🥛", "Leche sin lactosa|🥛", "Bebida de avena|🥛", "Bebida de soja|🥛", "Bebida de almendras|🥛", "Yogur natural|🥛", "Yogures de sabores|🥛", "Yogur bebible|🥛", "Yogures desnatados|🥛", "Kéfir|🥛", "Natillas|🍮", "Flan|🍮", "Arroz con leche|🍮", "Cuajada|🍮", "Queso fresco|🧀", "Queso de Burgos|🧀", "Queso manchego|🧀", "Queso curado|🧀", "Queso semicurado|🧀", "Queso tierno|🧀", "Queso de untar|🧀", "Queso azul|🧀", "Queso brie|🧀", "Burrata|🧀", "Mascarpone|🧀", "Queso rallado para pizza|🧀", "Nata para montar|🥛", "Leche condensada|🥛", "Leche evaporada|🥛", "Mantequilla sin sal|🧈", "Margarina|🧈", "Huevos camperos|🥚", "Huevos de codorniz|🥚", "Claras de huevo|🥚", "Batido de chocolate|🥛", "Batido de fresa|🥛"],
+    "Pan, pasta y cereales": ["Baguette|🥖", "Pan de pueblo|🍞", "Pan sin gluten|🍞", "Pan de centeno|🍞", "Pan tostado|🍞", "Biscotes|🍞", "Picos|🥖", "Regañás|🥖", "Colines|🥖", "Tortitas de arroz|🍘", "Pan de leche|🍞", "Pan de perrito|🌭", "Hélices|🍝", "Lazos|🍝", "Penne|🍝", "Raviolis|🍝", "Pasta fresca|🍝", "Fideos para sopa|🍝", "Fideos chinos|🍜", "Arroz integral|🍚", "Arroz bomba|🍚", "Arroz redondo|🍚", "Arroz largo|🍚", "Arroz vaporizado|🍚", "Harina integral|🌾", "Harina de maíz|🌾", "Maicena|🌾", "Levadura de panadería|🌾", "Levadura química|🌾", "Sémola|🌾", "Masa de hojaldre|🫓", "Tortillas mexicanas|🫓", "Obleas para empanadillas|🫓"],
+    "Desayuno y dulces": ["Cereales de desayuno|🥣", "Muesli|🥣", "Granola|🥣", "Galletas María|🍪", "Galletas integrales|🍪", "Galletas de chocolate|🍪", "Magdalenas|🧁", "Bizcocho|🍰", "Croissants|🥐", "Ensaimadas|🥐", "Donuts|🍩", "Palmeras|🥐", "Bizcochos de soletilla|🍰", "Mermelada de fresa|🍓", "Mermelada de melocotón|🍑", "Crema de cacao|🍫", "Cacao soluble|🍫", "Cacao en polvo|🍫", "Chocolate con leche|🍫", "Chocolate negro|🍫", "Chocolate para fundir|🍫", "Café molido|☕", "Café en grano|☕", "Café soluble|☕", "Cápsulas de café|☕", "Café descafeinado|☕", "Té|🍵", "Té verde|🍵", "Infusiones|🍵", "Manzanilla|🍵", "Poleo menta|🍵", "Azúcar moreno|🍬", "Azúcar glas|🍬", "Edulcorante|🍬", "Crema de cacahuete|🥜", "Sirope|🍯", "Turrón|🍫", "Bombones|🍫", "Caramelos|🍬", "Chicles|🍬", "Gominolas|🍬"],
+    "Conservas y legumbres": ["Atún en aceite de oliva|🥫", "Atún al natural|🥫", "Bonito del norte|🥫", "Sardinas en aceite|🥫", "Caballa en aceite|🥫", "Melva|🥫", "Mejillones en escabeche|🥫", "Berberechos en lata|🥫", "Calamares en su tinta en lata|🥫", "Zamburiñas en lata|🥫", "Pimientos asados en conserva|🥫", "Alcachofas en conserva|🥫", "Champiñones en conserva|🥫", "Guisantes en conserva|🥫", "Judías verdes en conserva|🥫", "Fabada en lata|🥫", "Tomate concentrado|🥫", "Tomate entero pelado|🥫", "Cebolletas en vinagre|🥫", "Aceitunas rellenas de anchoa|🫒", "Aceitunas sin hueso|🫒", "Banderillas|🥫", "Melocotón en almíbar|🍑", "Piña en almíbar|🍍", "Gazpacho en brik|🍅", "Crema de verduras en brik|🍲", "Alubias blancas secas|🫘", "Alubias rojas secas|🫘", "Lentejas castellanas|🫘", "Judiones|🫘", "Garbanzos en bote|🫘", "Lentejas en bote|🫘", "Caldo de cocido|🍲"],
+    "Despensa": ["Aceite de oliva virgen extra|🫒", "Aceite de coco|🥥", "Vinagre de manzana|🍶", "Vinagre balsámico|🍶", "Sal fina|🧂", "Sal yodada|🧂", "Ajo en polvo|🧂", "Cebolla en polvo|🧂", "Perejil seco|🌿", "Pimentón de la Vera|🌶️", "Cúrcuma|🧂", "Jengibre molido|🧂", "Clavo|🧂", "Hierbas provenzales|🌿", "Cayena|🌶️", "Canela en rama|🧂", "Canela molida|🧂", "Vainilla|🧂", "Colorante alimentario|🧂", "Pastillas de caldo|🍲", "Ketchup|🥫", "Salsa brava|🥫", "Salsa Worcestershire|🥫", "Salsa picante|🌶️", "Pesto|🥫", "Salsa de tomate|🥫", "Mayonesa ligera|🥫", "Gelatina en polvo|🍮", "Avellanas|🌰", "Pistachos|🥜", "Anacardos|🥜", "Pasas|🍇", "Ciruelas pasas|🍑", "Orejones|🍑", "Pipas de girasol|🌻", "Semillas de chía|🌱", "Semillas de lino|🌱", "Nueces de macadamia|🥜", "Bicarbonato|🧂", "Pan de molde integral|🍞"],
+    "Congelados": ["Guisantes congelados|🌱", "Judías verdes congeladas|🌱", "Espinacas congeladas|🥬", "Menestra congelada|🥦", "Verduras para wok|🥦", "Brócoli congelado|🥦", "Patatas fritas congeladas|🍟", "Croquetas congeladas|🧆", "Pizza congelada|🍕", "Lasaña congelada|🍝", "Empanadillas congeladas|🥟", "San Jacobos congelados|🍖", "Nuggets de pollo|🍗", "Varitas de merluza|🐟", "Merluza congelada|🐟", "Gambas congeladas|🦐", "Langostinos congelados|🦐", "Calamares a la romana congelados|🦑", "Mejillones congelados|🦪", "Sepia congelada|🦑", "Pulpo congelado|🐙", "Salmón congelado|🐟", "Helado|🍨", "Polos|🍦", "Hielo|🧊", "Gyozas|🥟", "Paella congelada|🥘", "Frutos rojos congelados|🫐", "Churros congelados|🥖", "Pan congelado|🥖", "Masa de pizza congelada|🍕"],
+    "Bebidas": ["Agua con gas|💧", "Garrafa de agua|💧", "Zumo de naranja|🧃", "Zumo de piña|🧃", "Zumo de melocotón|🧃", "Zumo de manzana|🧃", "Mosto|🧃", "Refresco de cola|🥤", "Refresco de cola sin azúcar|🥤", "Refresco de naranja|🥤", "Refresco de limón|🥤", "Gaseosa|🥤", "Tónica|🥤", "Bebida isotónica|🥤", "Bebida energética|🥤", "Té frío|🧃", "Horchata|🥛", "Cerveza sin alcohol|🍺", "Cerveza en lata|🍺", "Vino rosado|🍷", "Cava|🍾", "Sidra|🍾", "Vermut|🍷", "Tinto de verano|🍷", "Sangría|🍷", "Ron|🥃", "Ginebra|🥃", "Vodka|🥃", "Anís|🥃", "Licor de hierbas|🥃", "Pacharán|🥃"],
+    "Aperitivos": ["Patatas fritas de bolsa|🍟", "Nachos|🌮", "Palomitas|🍿", "Frutos secos variados|🥜", "Almendras tostadas|🥜", "Maíz tostado|🌽", "Gusanitos|🌽", "Cortezas de cerdo|🥓", "Galletitas saladas|🍘", "Guacamole|🥑", "Hummus|🫘", "Salsa de queso|🧀", "Tortilla de patatas preparada|🍳", "Ensaladilla preparada|🥗", "Pizza fresca|🍕", "Sándwiches preparados|🥪", "Aceitunas aliñadas|🫒", "Pepinillos en vinagre|🥫", "Altramuces|🫘", "Pipas con sal|🌻"],
+    "Limpieza del hogar": ["Detergente lavadora", "Suavizante", "Lejía", "Friegasuelos", "Lavavajillas a mano", "Pastillas lavavajillas", "Limpiacristales", "Multiusos", "Desengrasante", "Limpiador de baño", "Bolsas de basura", "Estropajos", "Bayetas", "Fregona", "Guantes de limpieza", "Ambientador", "Papel de aluminio", "Papel film", "Quitamanchas", "Insecticida", "Detergente en cápsulas|🧴", "Detergente para ropa delicada|🧴", "Detergente para ropa oscura|🧴", "Lejía para ropa de color|🧴", "Jabón de lavar ropa|🧼", "Amoniaco|🧴", "Salfumán|🧴", "Vinagre de limpieza|🍶", "Limpiamuebles|🧴", "Limpiador de cocina|🧴", "Antical|🧴", "Desatascador|🧴", "Limpiador WC|🧴", "Pastillas para el WC|🧴", "Sal para lavavajillas|🧂", "Abrillantador lavavajillas|🧴", "Limpiador de vitrocerámica|🧴", "Desinfectante|🧴", "Toallitas desinfectantes|🧻", "Servilletas de papel|🧻", "Bolsas de congelación|📦", "Bolsas zip|📦", "Papel de horno|📦", "Recambio de fregona|🧹", "Escoba|🧹", "Recogedor|🧹", "Cubo|🪣", "Paños de microfibra|🧽", "Esponjas|🧽", "Antipolillas|🦟", "Antimosquitos enchufable|🦟", "Pinzas de ropa|🧺", "Quitagrasas|🧴", "Limpiador de baño en spray|🧴"],
+    "Higiene y aseo personal": ["Papel higiénico", "Gel de ducha", "Champú", "Acondicionador", "Desodorante", "Pasta de dientes", "Cepillo de dientes", "Enjuague bucal", "Hilo dental", "Jabón de manos", "Crema hidratante", "Protector solar", "Maquinillas de afeitar", "Espuma de afeitar", "Compresas", "Tampones", "Toallitas húmedas", "Bastoncillos", "Pañuelos de papel", "Discos desmaquillantes", "Tiritas", "Champú anticaspa|🧴", "Mascarilla capilar|🧴", "Espuma para el pelo|🧴", "Laca|🧴", "Gomina|🧴", "Tinte para el pelo|🧴", "Cuchillas de afeitar|🪒", "Aftershave|🧴", "Crema de manos|🧴", "Crema corporal|🧴", "Crema facial|🧴", "Leche limpiadora|🧴", "Desmaquillante|🧴", "Algodón|☁️", "Colonia|🧴", "Perfume|🧴", "Recambios de cepillo eléctrico|🪥", "After sun|🧴", "Crema depilatoria|🧴", "Cera depilatoria|🧴", "Salvaslips|🌸", "Gel hidroalcohólico|🧴", "Pastilla de jabón|🧼", "Esponja de baño|🧽", "Cortaúñas|✂️", "Lima de uñas|💅", "Quitaesmalte|💅", "Esmalte de uñas|💅", "Maquillaje|💄", "Rímel|💄", "Pintalabios|💄", "Bálsamo labial|💄", "Preservativos|📦", "Gel íntimo|🧴", "Peine|🧴", "Cepillo para el pelo|🧴", "Gomas del pelo|🎀", "Horquillas|🎀"],
+    "Bebé": ["Pañales|👶", "Toallitas para bebé|🧻", "Leche de fórmula|🍼", "Papillas de cereales|🥣", "Potitos|🥣", "Crema para el culito|🧴", "Champú para bebé|🧴", "Gel para bebé|🧴", "Colonia para bebé|🧴", "Biberón|🍼", "Tetinas|🍼", "Chupete|🍼", "Suero fisiológico en monodosis|💧", "Bastoncillos para bebé|☁️", "Zumitos infantiles|🧃"],
+    "Mascotas": ["Pienso para perro|🐶", "Pienso para gato|🐱", "Comida húmeda para perro|🐶", "Comida húmeda para gato|🐱", "Arena para gato|🐱", "Premios para perro|🦴", "Bolsas para excrementos|🐶", "Antiparasitario|🐾", "Champú para mascotas|🐾", "Juguete para mascota|🎾", "Comida para peces|🐠", "Alpiste|🐦"],
+    "Farmacia": ["Paracetamol|💊", "Ibuprofeno|💊", "Antiácido|💊", "Vitaminas|💊", "Pastillas para la garganta|💊", "Jarabe para la tos|💊", "Gasas|🩹", "Esparadrapo|🩹", "Vendas|🩹", "Alcohol|🧴", "Agua oxigenada|🧴", "Povidona yodada|🧴", "Pomada|🧴", "Termómetro|🌡️", "Mascarillas|😷", "Repelente de mosquitos|🦟", "Gotas para los ojos|💧", "Spray nasal|💧", "Guantes desechables|🧤", "Líquido de lentillas|💧", "Tapones para los oídos|🩹", "Suero fisiológico|💧"],
+    "Hogar y bricolaje": ["Pilas AA|🔋", "Pilas AAA|🔋", "Pila de botón|🔋", "Bombillas LED|💡", "Velas|🕯️", "Cerillas|🔥", "Mechero|🔥", "Pastillas para encender fuego|🔥", "Carbón para barbacoa|🔥", "Bolsas de la compra|🛍️", "Papel de regalo|🎁", "Cinta adhesiva|📦", "Cinta americana|📦", "Pegamento|🧴", "Regleta|🔌", "Alargador|🔌", "Cargador de móvil|🔌", "Cable USB|🔌", "Tornillos|🔩", "Tacos|🔩", "Clavos|🔩", "Destornillador|🪛", "Martillo|🔨", "Tijeras|✂️", "Cuerda|🧶", "Perchas|👕", "Ambientador eléctrico|🌸", "Recambio de ambientador|🌸", "Filtros de jarra de agua|💧", "Bolsas de aspiradora|🧹", "Tierra para macetas|🪴", "Abono para plantas|🪴", "Bridas|🔩"],
+    "Papelería": ["Folios|📄", "Cuaderno|📓", "Bolígrafos|🖊️", "Lápices|✏️", "Gomas de borrar|✏️", "Sacapuntas|✏️", "Rotuladores|🖍️", "Pegamento de barra|📎", "Clips|📎", "Grapas|📎", "Sobres|✉️", "Sellos|✉️", "Pósits|📝", "Cartuchos de tinta|🖨️", "Carpetas|📁", "Celo|📦"]
+  }
+}

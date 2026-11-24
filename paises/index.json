@@ -1,0 +1,11 @@
+{
+  "formato": 1,
+  "defecto": "es-ES",
+  "paises": [
+    {
+      "id": "es-ES",
+      "nombre": "España",
+      "idioma": "Español"
+    }
+  ]
+}

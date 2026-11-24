@@ -1,12 +1,35 @@
-# recep2012 · Recetario de Cook
+# recep2012 · Contenido de la app Cook por país
 
-Recetas y catálogo de la compra que descarga la app **Cook**. La app los lee al abrirse, los guarda en el móvil y, sin conexión, usa la última copia descargada. Para añadir o cambiar recetas basta con editar el archivo aquí: no hace falta publicar una versión nueva de la app.
+La app **Cook** no lleva textos ni recetas escritos en su código: todo lo de cada país está en un archivo de esta carpeta. La app trae una copia de estos archivos para funcionar sin conexión desde el primer momento y, cuando hay conexión, descarga la versión más reciente. **Para cambiar textos, recetas o el catálogo basta con editar el archivo aquí**: no hace falta publicar una versión nueva de la app.
 
-| Archivo | Mercado | Contenido |
-|---|---|---|
-| `recetas/es-ES.json` | España | 301 recetas con alérgenos y dietas · catálogo de 609 artículos |
+| Archivo | Para qué sirve |
+|---|---|
+| `paises/index.json` | Lista de países disponibles y país por defecto |
+| `paises/es-ES.json` | España: textos de la app, 301 recetas, catálogo de 609 artículos, secciones, iconos, unidades, voz, alérgenos y dietas |
 
-Más adelante se añadirán otros mercados, cada uno adaptado a su país (por ejemplo `recetas/en-GB.json`).
+La app elige el país según el idioma y la región del móvil (por ejemplo `es-ES`); si no hay uno exacto, uno del mismo idioma; si tampoco, el país por defecto. El usuario puede cambiarlo en Ajustes.
+
+## Qué hay en un archivo de país
+
+| Campo | Contenido |
+|---|---|
+| `formato` | Versión del formato. No lo cambies: si la app no lo entiende, ignora el archivo |
+| `version` | **Súbelo en 1 cada vez que publiques cambios** |
+| `id`, `idioma`, `nombre` | `es-ES`, idioma de fechas y números, nombre que se ve en Ajustes |
+| `textos` | Todos los textos de la app (botones, menús, avisos). `{n}`, `{x}`… se sustituyen por valores; las claves `_1` / `_n` son singular y plural |
+| `recetas` | Las recetas (formato abajo) |
+| `catalogo` | Secciones del catálogo de la compra; cada artículo es `"Nombre\|icono"` (icono opcional) |
+| `catalogo_rapido` | Secciones con botón directo en la lista de la compra |
+| `secciones` | Secciones de la lista de la compra, en el orden en que se muestran, con las palabras clave que colocan ahí lo que escribe el usuario |
+| `orden_busqueda` | Orden en que se prueban esas palabras clave (de lo más concreto a lo más general) |
+| `iconos` | `["🍅", "tomate", …]`: icono que se pone a un artículo según su nombre; gana el primero que coincida |
+| `unidades` | Cómo se leen y se muestran las cantidades (kg, l, dientes…) |
+| `voz` | Palabras del dictado: números («dos»), unidades («kilos») y separadores («y») |
+| `alergenos` | Los 14 alérgenos de la UE con las palabras que los detectan en una receta creada por el usuario |
+| `reglas_dieta`, `dietas` | Cómo se calculan y cómo se llaman las dietas |
+| `emojis` | Iconos que se ofrecen al crear un ingrediente |
+
+Palabras clave: `"^pollo"` = empieza una palabra; `"=sal"` = palabra exacta; el resto = contiene ese texto.
 
 ## Formato de una receta
 
@@ -25,23 +48,25 @@ Más adelante se añadirán otros mercados, cada uno adaptado a su país (por ej
 
 - `id`: identificador fijo; no lo cambies aunque cambies el nombre. Para una receta nueva usa el nombre en minúsculas, sin tildes y con guiones.
 - `tipo`: `comida`, `cena` o `ambas`.
-- `ingredientes`: `"Nombre: cantidad unidad"` (g, kg, ml, l, ud, cda, dientes, latas…) o solo el nombre si no lleva cantidad. Las cantidades son para `raciones_base` personas (2); una receta puede llevar `"raciones": 4`. Escribe siempre igual el mismo ingrediente («Tomate», no «Tomates») para que se sume bien en la lista de la compra.
-- `alergenos`: los 14 de declaración obligatoria en la UE (Reglamento 1169/2011): `gluten`, `crustaceos`, `huevo`, `pescado`, `cacahuete`, `soja`, `lacteos`, `frutos_cascara`, `apio`, `mostaza`, `sesamo`, `sulfitos`, `altramuces`, `moluscos`.
+- `ingredientes`: `"Nombre: cantidad unidad"` o solo el nombre. Las cantidades son para `raciones_base` personas (2); una receta puede llevar `"raciones": 4`. Escribe siempre igual el mismo ingrediente («Tomate», no «Tomates») para que se sume bien en la lista.
+- `alergenos` (UE, Reglamento 1169/2011): `gluten`, `crustaceos`, `huevo`, `pescado`, `cacahuete`, `soja`, `lacteos`, `frutos_cascara`, `apio`, `mostaza`, `sesamo`, `sulfitos`, `altramuces`, `moluscos`.
 - `dieta`: `vegetariana`, `vegana`, `sin_gluten`, `sin_lactosa`, `sin_cerdo`.
-- Si quitas `alergenos` y `dieta` de una receta, la app los calcula a partir de los ingredientes.
+- Si quitas `alergenos` y `dieta`, la app los calcula a partir de los ingredientes.
 
-Los alérgenos y dietas se han calculado a partir de los ingredientes y son **orientativos**: dependen de los productos concretos (un caldo, un chorizo o una salsa pueden llevar gluten, lácteos o apio). La app lo indica junto a cada receta.
-
-## Catálogo
-
-`catalogo` agrupa los artículos de la compra por sección. Cada artículo es `"Nombre|icono"` (el icono es opcional), por ejemplo `"Pilas AA|🔋"`.
+Los alérgenos y dietas son **orientativos**: dependen de los productos concretos. La app lo indica junto a cada receta.
 
 ## Antes de guardar un cambio
 
-Si el JSON tiene un error, la app lo ignora y sigue con las recetas que ya tenía. Comprueba el archivo en <https://jsonlint.com> si dudas. GitHub puede tardar unos minutos en servir la versión nueva.
+1. Sube `version` en 1.
+2. Comprueba que el JSON es válido (por ejemplo en <https://jsonlint.com>). Si tiene un error, la app lo ignora y sigue con la versión que ya tenía.
+3. GitHub puede tardar unos minutos en servir la versión nueva.
+
+## Añadir un país
+
+Copia `es-ES.json` con el nuevo identificador (por ejemplo `es-MX.json`), adáptalo entero (textos, recetas, catálogo, palabras clave, unidades, voz y alérgenos de ese país), súbele la `version` y añádelo a `index.json`. Conviene que lo revise una persona nativa antes de publicarlo.
 
 ## Quién puede modificarlo
 
-El repositorio es público para que la app pueda leerlo sin claves, pero solo su propietario puede escribir en él: cualquiera puede verlo o copiarlo, nadie más puede cambiarlo. Las propuestas de otras personas (pull requests) solo se incorporan si el propietario las acepta.
+El repositorio es público para que la app pueda leerlo sin claves, pero solo su propietario puede escribir en él: cualquiera puede verlo o copiarlo, nadie más puede cambiarlo.
 
 © Juani1972. Todos los derechos reservados. Este contenido se publica solo para que lo use la app Cook; no se autoriza su reutilización.

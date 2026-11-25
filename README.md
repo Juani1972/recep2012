@@ -28,6 +28,7 @@ La app elige el país según el idioma y la región del móvil (por ejemplo `es-
 | `alergenos` | Los 14 alérgenos de la UE con las palabras que los detectan en una receta creada por el usuario |
 | `reglas_dieta`, `dietas` | Cómo se calculan y cómo se llaman las dietas |
 | `emojis` | Iconos que se ofrecen al crear un ingrediente |
+| `promo` | «Nuestras apps», enlace para compartir la app y mensajes emergentes (ver abajo) |
 
 Palabras clave: `"^pollo"` = empieza una palabra; `"=sal"` = palabra exacta; el resto = contiene ese texto.
 
@@ -49,6 +50,23 @@ Todo se ajusta en el propio archivo del país, sin tocar la app:
 | `voz.orden` | La cantidad va detrás del nombre al hablar | `"nombre_cantidad"` → «牛乳2本» |
 | `voz.separadores_pegados` | Palabras que separan artículos sin espacios | `["と", "、"]` |
 | `textos.dias` | Los días de la semana en el orden en que empieza la semana en ese país | `["Sunday", "Monday", …]` |
+
+## Mensaje emergente, «Nuestras apps» y «Compartir»
+
+```json
+"promo": {
+  "desarrollador": "JUAN OROZCO GONZALEZ",
+  "tienda": "https://play.google.com/store/apps/details?id=es.juanorozco.cook",
+  "mensajes": [
+    {"id": "gracias-1", "primer_inicio": 5, "cada": 5, "max": 3, "acciones": ["apps", "compartir"], "ayuda_ajustes": true,
+     "titulo": "¡Gracias por usar Cook!", "texto": "…"}
+  ]
+}
+```
+
+- `desarrollador`: el nombre que sale bajo el título de la app en Google Play; «Nuestras apps» abre la página con todas tus apps.
+- `tienda`: enlace que se envía al pulsar «Compartir Cook».
+- Cada mensaje sale en el inicio `primer_inicio` y luego cada `cada` inicios, como mucho `max` veces, hasta que el usuario pulse «No mostrar más». Para un mensaje nuevo usa un `id` nuevo: saldrá aunque se hayan descartado los anteriores. Si hay varios, sale el primero que toque.
 
 ## Formato de una receta
 

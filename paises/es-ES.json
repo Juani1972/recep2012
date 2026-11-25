@@ -1,6 +1,6 @@
 {
  "formato": 1,
- "version": 6,
+ "version": 7,
  "id": "es-ES",
  "pais": "ES",
  "idioma": "es-ES",
@@ -221,7 +221,13 @@
   "promo_luego": "Ahora no",
   "promo_nunca": "No mostrar más",
   "promo_ayuda_ajustes": "Entra en Ajustes (el botón de arriba a la derecha): en «Nuestras apps» verás todas nuestras apps y en «Compartir Cook» podrás recomendarla a tus amigos y conocidos.",
-  "promo_ayuda_ajustes_compartir": "Entra en Ajustes (el botón de arriba a la derecha): en «Compartir Cook» podrás recomendarla a tus amigos y conocidos."
+  "promo_ayuda_ajustes_compartir": "Entra en Ajustes (el botón de arriba a la derecha): en «Compartir Cook» podrás recomendarla a tus amigos y conocidos.",
+  "f_favoritas": "★ Favoritas",
+  "fav_marcar": "Marcar como favorita",
+  "fav_quitar": "Quitar de favoritas",
+  "fav_marcada": "Añadida a favoritas",
+  "fav_quitada": "Quitada de favoritas",
+  "sin_favoritas": "Aún no tienes favoritas. Toca la ☆ junto a una receta para marcarla."
  },
  "unidades": {
   "por_defecto": "ud",

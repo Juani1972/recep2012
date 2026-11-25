@@ -1,6 +1,6 @@
 {
  "formato": 1,
- "version": 5,
+ "version": 6,
  "id": "es-ES",
  "pais": "ES",
  "idioma": "es-ES",
@@ -209,7 +209,19 @@
   "recetas_copiadas": "Recetas copiadas: pégalas en el archivo del recetario",
   "sin_permiso_archivo": "Android no dio permiso sobre ese archivo",
   "no_abrir_archivo": "No se pudo abrir el archivo",
-  "datos_unidos": "Datos unidos con {f}"
+  "datos_unidos": "Datos unidos con {f}",
+  "nuestras_apps": "Nuestras apps",
+  "nuestras_apps_sub": "Otras apps hechas con el mismo cuidado, en Google Play",
+  "compartir_app": "Compartir Cook",
+  "compartir_app_sub": "Recomiéndala a tus amigos y conocidos",
+  "compartir_app_msg": "Uso Cook para planificar el menú de la semana y hacer la lista de la compra: sin cuentas ni anuncios, y funciona sin conexión. {url}",
+  "enlace_copiado": "Enlace copiado",
+  "no_play": "No se ha podido abrir Google Play.",
+  "ver_apps": "Ver nuestras apps",
+  "promo_luego": "Ahora no",
+  "promo_nunca": "No mostrar más",
+  "promo_ayuda_ajustes": "Entra en Ajustes (el botón de arriba a la derecha): en «Nuestras apps» verás todas nuestras apps y en «Compartir Cook» podrás recomendarla a tus amigos y conocidos.",
+  "promo_ayuda_ajustes_compartir": "Entra en Ajustes (el botón de arriba a la derecha): en «Compartir Cook» podrás recomendarla a tus amigos y conocidos."
  },
  "unidades": {
   "por_defecto": "ud",
@@ -390,6 +402,23 @@
   "sin_gluten": "Sin gluten",
   "sin_lactosa": "Sin lactosa",
   "sin_cerdo": "Sin cerdo"
+ },
+ "promo": {
+  "desarrollador": "JUAN OROZCO GONZALEZ",
+  "tienda": "https://play.google.com/store/apps/details?id=es.juanorozco.cook",
+  "solo_android_apps": true,
+  "mensajes": [
+   {
+    "id": "gracias-1",
+    "primer_inicio": 5,
+    "cada": 5,
+    "max": 3,
+    "acciones": ["apps", "compartir"],
+    "ayuda_ajustes": true,
+    "titulo": "¡Gracias por usar Cook!",
+    "texto": "Gracias por instalar y usar Cook. Esperamos que te ayude a organizar el menú de la semana y la compra."
+   }
+  ]
  },
  "secciones": [
   {

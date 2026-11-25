@@ -1,6 +1,6 @@
 {
  "formato": 1,
- "version": 7,
+ "version": 8,
  "id": "es-ES",
  "pais": "ES",
  "idioma": "es-ES",
@@ -227,7 +227,12 @@
   "fav_quitar": "Quitar de favoritas",
   "fav_marcada": "Añadida a favoritas",
   "fav_quitada": "Quitada de favoritas",
-  "sin_favoritas": "Aún no tienes favoritas. Toca la ☆ junto a una receta para marcarla."
+  "sin_favoritas": "Aún no tienes favoritas. Toca la ☆ junto a una receta para marcarla.",
+  "anadir_menu": "Añadir al menú",
+  "elige_dia": "elige día y comida o cena",
+  "libre": "Libre",
+  "aqui": "Ya está aquí",
+  "anadida_menu": "Añadida al menú: {d} · {m}"
  },
  "unidades": {
   "por_defecto": "ud",

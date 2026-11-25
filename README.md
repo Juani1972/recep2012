@@ -31,6 +31,25 @@ La app elige el país según el idioma y la región del móvil (por ejemplo `es-
 
 Palabras clave: `"^pollo"` = empieza una palabra; `"=sal"` = palabra exacta; el resto = contiene ese texto.
 
+## Opciones para idiomas con otras reglas
+
+Todo se ajusta en el propio archivo del país, sin tocar la app:
+
+| Campo | Para qué | Ejemplo |
+|---|---|---|
+| `direccion` | Idiomas que se leen de derecha a izquierda (árabe, hebreo) | `"direccion": "rtl"` |
+| `busqueda` | Buscar dentro de las palabras, para idiomas sin espacios (japonés, chino) | `"busqueda": "contiene"` |
+| `unidades.espacio` | Sin espacio entre número y unidad | `false` → `200g` |
+| `unidades.antes` | Unidades que van delante del número | `["大さじ", "小さじ"]` → `大さじ2` |
+| `unidades.fracciones` | Unidades que se muestran con ¼ ½ ¾ y se redondean a cuartos | `["cup", "tsp", "tbsp"]` → `½ cup` |
+| `unidades.mostrar.ud` | Contador para cantidades sin unidad | `"個"` → `3個` |
+| `unidades.sufijo_plural` / `plurales` | Cómo se forma el plural de las unidades (vacío si el idioma no tiene) | `"plurales": {"clove": "cloves"}` |
+| `textos` con `_one`, `_two`, `_few`, `_many`, `_other` | Plurales de idiomas con varias formas (árabe, ruso, polaco); si no están, se usan `_1` y `_n` | `"recetas_n_few": "…"` |
+| `voz.sin_espacios` | Dictado en idiomas sin espacios | `true` |
+| `voz.orden` | La cantidad va detrás del nombre al hablar | `"nombre_cantidad"` → «牛乳2本» |
+| `voz.separadores_pegados` | Palabras que separan artículos sin espacios | `["と", "、"]` |
+| `textos.dias` | Los días de la semana en el orden en que empieza la semana en ese país | `["Sunday", "Monday", …]` |
+
 ## Formato de una receta
 
 ```json

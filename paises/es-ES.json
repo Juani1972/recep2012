@@ -1,6 +1,6 @@
 {
  "formato": 1,
- "version": 8,
+ "version": 9,
  "id": "es-ES",
  "pais": "ES",
  "idioma": "es-ES",
@@ -232,7 +232,9 @@
   "elige_dia": "elige día y comida o cena",
   "libre": "Libre",
   "aqui": "Ya está aquí",
-  "anadida_menu": "Añadida al menú: {d} · {m}"
+  "anadida_menu": "Añadida al menú: {d} · {m}",
+  "act_lista": "Se ha descargado una versión nueva de Cook.",
+  "act_reiniciar": "Reiniciar"
  },
  "unidades": {
   "por_defecto": "ud",

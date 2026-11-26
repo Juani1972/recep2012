@@ -1,6 +1,6 @@
 # Cook — Política de privacidad
 
-**Desarrollador:** Juan Orozco González · **Última actualización:** 26 de noviembre de 2026
+**Desarrollador:** Juan Orozco González · **Última actualización:** 26 de noviembre de 2026 (avisos de versión nueva)
 
 Cook es una app para planificar el menú semanal y hacer la lista de la compra. Está pensada para que tus datos sean solo tuyos.
 
@@ -19,6 +19,7 @@ Cook solo usa internet para:
 
 - **Descargar el recetario actualizado** desde GitHub (`raw.githubusercontent.com`). En esa descarga no se envía ningún dato tuyo; como en cualquier página web, GitHub ve la dirección IP de la conexión y la trata según su política de privacidad.
 - **Abrir Google Play** cuando tocas «Nuestras apps» o un enlace a la tienda.
+- **Avisarte de versiones nuevas.** Al abrirse, Cook pregunta a la app de Google Play de tu móvil si hay una versión más nueva; quien consulta y descarga la actualización es Google Play, según su política de privacidad. Cook no envía ningún dato tuyo.
 
 ## Dictado por voz
 
